@@ -1,0 +1,154 @@
+{
+  "state": "IL",
+  "generated_utc": "2026-10-13T20:01:56.893944+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "IL_candidate_2014_2018_1",
+      "header_signature": "854b4138a8086153",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "example_source": "IL/2014/IDOT_Crashes_2014.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 81,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_date": "CrashDate",
+        "crash_time": "TimeOfCrash",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CrashSeverity",
+        "manner_collision": "CollisionTypeCode"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "IL_candidate_2019_2019_2",
+      "header_signature": "2cd6f5d60ba33a62",
+      "years": [
+        2019
+      ],
+      "example_source": "IL/2019/IDOT_Crashes_2019.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 86,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_date": "CrashDate",
+        "crash_time": "TimeOfCrash",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CrashSeverity",
+        "manner_collision": "CollisionTypeCode"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "IL_candidate_2020_2024_3",
+      "header_signature": "aa23b0d10870ba52",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2024
+      ],
+      "example_source": "IL/2020/IDOT_Crashes_2020.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 86,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_date": "CrashDate",
+        "crash_time": "TimeOfCrash",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CrashSeverity",
+        "manner_collision": "CollisionTypeCode"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "IL_candidate_2023_2023_4",
+      "header_signature": "4bb52f1bb691bbfc",
+      "years": [
+        2023
+      ],
+      "example_source": "IL/2023/IDOT_Crashes_2023.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 87,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_date": "CrashDate",
+        "crash_time": "TimeOfCrash",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CrashSeverity",
+        "manner_collision": "CollisionTypeCode"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "IL_candidate_2025_2025_5",
+      "header_signature": "6ce6b9cd496f2abd",
+      "years": [
+        2025
+      ],
+      "example_source": "IL/2025/IDOT_Crashes_2025.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 94,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_date": "CrashDate",
+        "crash_time": "TimeOfCrash",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CrashSeverity",
+        "manner_collision": "CollisionTypeCode"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

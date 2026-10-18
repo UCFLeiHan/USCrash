@@ -1,0 +1,874 @@
+{
+  "state": "ME",
+  "state_name": "Maine",
+  "basis": "All configured annual inputs to harmonization; executable bindings from current state configurations. Inputs may be prepared tables, rather than untouched raw downloads.",
+  "configuration": "code/config/states/ME.json",
+  "annual_inputs": [
+    {
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "output_path": "Unified_MMUCC6/data/crash/ME/ME_crashes_harmonized_2020.csv",
+      "field_count": 12,
+      "header_sha256": "167b30b234163d6ea3da6d3ce2f431a3757baf973643a948089ed6e6cc37680b",
+      "source_fields": [
+        "public_internal_id",
+        "mdot_id",
+        "report_number",
+        "police_department",
+        "crash_datetime",
+        "injury_level",
+        "crash_type",
+        "location",
+        "latitude",
+        "longitude",
+        "source",
+        "error"
+      ]
+    },
+    {
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "output_path": "Unified_MMUCC6/data/crash/ME/ME_crashes_harmonized_2021.csv",
+      "field_count": 12,
+      "header_sha256": "167b30b234163d6ea3da6d3ce2f431a3757baf973643a948089ed6e6cc37680b",
+      "source_fields": [
+        "public_internal_id",
+        "mdot_id",
+        "report_number",
+        "police_department",
+        "crash_datetime",
+        "injury_level",
+        "crash_type",
+        "location",
+        "latitude",
+        "longitude",
+        "source",
+        "error"
+      ]
+    },
+    {
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "output_path": "Unified_MMUCC6/data/crash/ME/ME_crashes_harmonized_2022.csv",
+      "field_count": 12,
+      "header_sha256": "167b30b234163d6ea3da6d3ce2f431a3757baf973643a948089ed6e6cc37680b",
+      "source_fields": [
+        "public_internal_id",
+        "mdot_id",
+        "report_number",
+        "police_department",
+        "crash_datetime",
+        "injury_level",
+        "crash_type",
+        "location",
+        "latitude",
+        "longitude",
+        "source",
+        "error"
+      ]
+    },
+    {
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "output_path": "Unified_MMUCC6/data/crash/ME/ME_crashes_harmonized_2023.csv",
+      "field_count": 12,
+      "header_sha256": "167b30b234163d6ea3da6d3ce2f431a3757baf973643a948089ed6e6cc37680b",
+      "source_fields": [
+        "public_internal_id",
+        "mdot_id",
+        "report_number",
+        "police_department",
+        "crash_datetime",
+        "injury_level",
+        "crash_type",
+        "location",
+        "latitude",
+        "longitude",
+        "source",
+        "error"
+      ]
+    },
+    {
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "output_path": "Unified_MMUCC6/data/crash/ME/ME_crashes_harmonized_2024.csv",
+      "field_count": 12,
+      "header_sha256": "167b30b234163d6ea3da6d3ce2f431a3757baf973643a948089ed6e6cc37680b",
+      "source_fields": [
+        "public_internal_id",
+        "mdot_id",
+        "report_number",
+        "police_department",
+        "crash_datetime",
+        "injury_level",
+        "crash_type",
+        "location",
+        "latitude",
+        "longitude",
+        "source",
+        "error"
+      ]
+    },
+    {
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "output_path": "Unified_MMUCC6/data/crash/ME/ME_crashes_harmonized_2025.csv",
+      "field_count": 12,
+      "header_sha256": "167b30b234163d6ea3da6d3ce2f431a3757baf973643a948089ed6e6cc37680b",
+      "source_fields": [
+        "public_internal_id",
+        "mdot_id",
+        "report_number",
+        "police_department",
+        "crash_datetime",
+        "injury_level",
+        "crash_type",
+        "location",
+        "latitude",
+        "longitude",
+        "source",
+        "error"
+      ]
+    },
+    {
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "output_path": "Unified_MMUCC6/data/crash/ME/ME_crashes_harmonized_2026.csv",
+      "field_count": 12,
+      "header_sha256": "167b30b234163d6ea3da6d3ce2f431a3757baf973643a948089ed6e6cc37680b",
+      "source_fields": [
+        "public_internal_id",
+        "mdot_id",
+        "report_number",
+        "police_department",
+        "crash_datetime",
+        "injury_level",
+        "crash_type",
+        "location",
+        "latitude",
+        "longitude",
+        "source",
+        "error"
+      ]
+    }
+  ],
+  "configured_bindings": [
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "crash_id",
+      "source_binding": "public_internal_id",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "crash_datetime",
+      "source_binding": "crash_datetime",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "latitude",
+      "source_binding": "latitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "longitude",
+      "source_binding": "longitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "county",
+      "source_binding": "?county_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "city",
+      "source_binding": "?city_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2020,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2020/ME_crash_2020.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "crash_id",
+      "source_binding": "public_internal_id",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "crash_datetime",
+      "source_binding": "crash_datetime",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "latitude",
+      "source_binding": "latitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "longitude",
+      "source_binding": "longitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "county",
+      "source_binding": "?county_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "city",
+      "source_binding": "?city_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2021,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2021/ME_crash_2021.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "crash_id",
+      "source_binding": "public_internal_id",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "crash_datetime",
+      "source_binding": "crash_datetime",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "latitude",
+      "source_binding": "latitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "longitude",
+      "source_binding": "longitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "county",
+      "source_binding": "?county_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "city",
+      "source_binding": "?city_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2022,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2022/ME_crash_2022.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "crash_id",
+      "source_binding": "public_internal_id",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "crash_datetime",
+      "source_binding": "crash_datetime",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "latitude",
+      "source_binding": "latitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "longitude",
+      "source_binding": "longitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "county",
+      "source_binding": "?county_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "city",
+      "source_binding": "?city_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2023,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2023/ME_crash_2023.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "crash_id",
+      "source_binding": "public_internal_id",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "crash_datetime",
+      "source_binding": "crash_datetime",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "latitude",
+      "source_binding": "latitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "longitude",
+      "source_binding": "longitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "county",
+      "source_binding": "?county_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "city",
+      "source_binding": "?city_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2024,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2024/ME_crash_2024.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "crash_id",
+      "source_binding": "public_internal_id",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "crash_datetime",
+      "source_binding": "crash_datetime",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "latitude",
+      "source_binding": "latitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "longitude",
+      "source_binding": "longitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "county",
+      "source_binding": "?county_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "city",
+      "source_binding": "?city_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2025,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2025/ME_crash_2025.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "crash_id",
+      "source_binding": "public_internal_id",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "crash_datetime",
+      "source_binding": "crash_datetime",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "latitude",
+      "source_binding": "latitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "longitude",
+      "source_binding": "longitude",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "county",
+      "source_binding": "?county_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "city",
+      "source_binding": "?city_not_provided",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": false
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "injury_level",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "ME",
+      "year": 2026,
+      "schema_id": "ME_public_query_2020_2026",
+      "input_path": "States/ME/2026/ME_crash_2026.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "crash_type",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    }
+  ],
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "input_files": 7
+}

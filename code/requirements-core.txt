@@ -1,0 +1,4 @@
+# Generic semantic harmonization/validation use Python standard library.
+# The release scan tools additionally need pandas; projection-enabled states need pyproj.
+pandas==2.3.3
+pyproj==3.6.1

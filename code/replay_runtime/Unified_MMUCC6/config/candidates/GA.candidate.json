@@ -1,0 +1,36 @@
+{
+  "state": "GA",
+  "generated_utc": "2026-10-13T20:01:56.892939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "GA_candidate_2021_2025_1",
+      "header_signature": "d11f8424aad0e79d",
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "GA/2021/georgia_gdot_2021.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 28,
+      "field_candidates": {
+        "crash_id": "Collision ID",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "manner_collision": "Manner of Collision (Crash Level)"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 20,
+        "time": 0,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

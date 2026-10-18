@@ -1,0 +1,119 @@
+{
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "official_agency": "Massachusetts Department of Transportation (MassDOT)",
+  "crash_id_scope": "STATE",
+  "severity_from_fatalities_always": true,
+  "coordinate_bounds": [
+    -73.6,
+    41.1,
+    -69.8,
+    43.0
+  ],
+  "versions": [
+    {
+      "schema_id": "MA_IMPACT_historical_2001_2020",
+      "year_start": 2001,
+      "year_end": 2020,
+      "source_patterns": [
+        "MassDOT_historical_crashes.csv"
+      ],
+      "fields": {
+        "crash_id": "CRASH_NUMB",
+        "crash_date": "CRASH_DATE",
+        "crash_time_raw": "CRASH_TIME_2",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "city": "CITY_TOWN_NAME",
+        "severity_raw_code": "CRASH_SEVERITY_DESCR",
+        "severity_raw_label": "CRASH_SEVERITY_DESCR",
+        "fatalities": "NUMB_FATAL_INJR",
+        "injuries": "NUMB_NONFATAL_INJR",
+        "vehicles": "NUMB_VEHC",
+        "manner_raw_code": "MANR_COLL_DESCR",
+        "manner_raw_label": "MANR_COLL_DESCR",
+        "weather_raw_code": "WEATH_COND_DESCR",
+        "weather_raw_label": "WEATH_COND_DESCR",
+        "light_raw_code": "AMBNT_LIGHT_DESCR",
+        "light_raw_label": "AMBNT_LIGHT_DESCR",
+        "road_surface_raw_code": "ROAD_SURF_COND_DESCR",
+        "road_surface_raw_label": "ROAD_SURF_COND_DESCR",
+        "first_harmful_event_raw_code": "FIRST_HRMF_EVENT_DESCR",
+        "first_harmful_event_raw_label": "FIRST_HRMF_EVENT_DESCR",
+        "work_zone_related": "WORK_ZONE_RELD_DESCR",
+        "hit_and_run": "HIT_RUN_DESCR",
+        "school_bus_related": "SCHL_BUS_RELD_DESCR"
+      }
+    },
+    {
+      "schema_id": "MA_IMPACT_crash_2021_2023",
+      "year_start": 2021,
+      "year_end": 2023,
+      "source_patterns": [
+        "MassDOT_{year}_Crash.csv"
+      ],
+      "fields": {
+        "crash_id": "CRASH_NUMB",
+        "latitude": "LAT",
+        "longitude": "LON",
+        "county": "CNTY_NAME",
+        "city": "CITY_TOWN_NAME",
+        "injury_severity_raw_code": "MAX_INJR_SVRTY_CL",
+        "injury_severity_raw_label": "MAX_INJR_SVRTY_CL",
+        "fatalities": "NUMB_FATAL_INJR",
+        "injuries": "NUMB_NONFATAL_INJR",
+        "vehicles": "NUMB_VEHC",
+        "manner_raw_code": "MANR_COLL_DESCR",
+        "manner_raw_label": "MANR_COLL_DESCR",
+        "weather_raw_code": "WEATH_COND_DESCR",
+        "weather_raw_label": "WEATH_COND_DESCR",
+        "light_raw_code": "AMBNT_LIGHT_DESCR",
+        "light_raw_label": "AMBNT_LIGHT_DESCR",
+        "road_surface_raw_code": "ROAD_SURF_COND_DESCR",
+        "road_surface_raw_label": "ROAD_SURF_COND_DESCR",
+        "first_harmful_event_raw_code": "FIRST_HRMF_EVENT_DESCR",
+        "first_harmful_event_raw_label": "FIRST_HRMF_EVENT_DESCR",
+        "work_zone_related": "WORK_ZONE_RELD_DESCR",
+        "hit_and_run": "HIT_RUN_DESCR",
+        "school_bus_related": "SCHL_BUS_RELD_DESCR",
+        "crash_date": "CRASH_DATE_TEXT",
+        "crash_time_raw": "CRASH_TIME_2"
+      }
+    },
+    {
+      "schema_id": "MA_IMPACT_crash_2024_2026",
+      "year_start": 2024,
+      "year_end": 2026,
+      "source_patterns": [
+        "MassDOT_{year}_Crash.csv"
+      ],
+      "fields": {
+        "crash_id": "CRASH_NUMB",
+        "latitude": "LAT",
+        "longitude": "LON",
+        "county": "CNTY_NAME",
+        "city": "CITY_TOWN_NAME",
+        "injury_severity_raw_code": "MAX_INJR_SVRTY_CL",
+        "injury_severity_raw_label": "MAX_INJR_SVRTY_CL",
+        "fatalities": "NUMB_FATAL_INJR",
+        "injuries": "NUMB_NONFATAL_INJR",
+        "vehicles": "NUMB_VEHC",
+        "manner_raw_code": "MANR_COLL_DESCR",
+        "manner_raw_label": "MANR_COLL_DESCR",
+        "weather_raw_code": "WEATH_COND_DESCR",
+        "weather_raw_label": "WEATH_COND_DESCR",
+        "light_raw_code": "AMBNT_LIGHT_DESCR",
+        "light_raw_label": "AMBNT_LIGHT_DESCR",
+        "road_surface_raw_code": "ROAD_SURF_COND_DESCR",
+        "road_surface_raw_label": "ROAD_SURF_COND_DESCR",
+        "first_harmful_event_raw_code": "FIRST_HRMF_EVENT_DESCR",
+        "first_harmful_event_raw_label": "FIRST_HRMF_EVENT_DESCR",
+        "work_zone_related": "WORK_ZONE_RELD_DESCR",
+        "hit_and_run": "HIT_RUN_DESCR",
+        "school_bus_related": "SCHL_BUS_RELD_DESCR",
+        "crash_date": "CRASH_DATE_TEXT",
+        "crash_time_raw": "CRASH_TIME_2"
+      }
+    }
+  ]
+}

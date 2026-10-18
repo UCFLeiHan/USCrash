@@ -1,0 +1,51 @@
+{
+  "state": "KY",
+  "state_name": "Kentucky",
+  "official_agency": "Kentucky State Police / Kentucky Transportation Cabinet Crash Data Portal",
+  "crash_id_scope": "STATE",
+  "coordinate_bounds": [
+    -89.7,
+    36.4,
+    -81.9,
+    39.2
+  ],
+  "deduplicate_by_crash_id": true,
+  "row_valid_values": {
+    "record_status": [
+      "Accepted"
+    ]
+  },
+  "versions": [
+    {
+      "schema_id": "KY_ClassicCollision_2020_2026",
+      "year_start": 2020,
+      "year_end": 2026,
+      "source_patterns": [
+        "KY_Incident_enriched_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "IncidentID",
+        "crash_date": "DerivedCollisionDateISO",
+        "crash_time_raw": "CollisionTime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "county": "County",
+        "severity_raw_code": "DerivedWorstInjurySeverityCde",
+        "severity_raw_label": "DerivedWorstInjurySeverityCde",
+        "fatalities": "NumberKilled",
+        "injuries": "NumberInjured",
+        "vehicles": "MotorVehiclesInvolved",
+        "manner_raw_code": "MannerofCollision",
+        "manner_raw_label": "MannerofCollision",
+        "weather_raw_code": "Weather",
+        "weather_raw_label": "Weather",
+        "light_raw_code": "LightCondition",
+        "light_raw_label": "LightCondition",
+        "road_surface_raw_code": "RdwyConditionCode",
+        "road_surface_raw_label": "RdwyConditionCode",
+        "hit_and_run": "HitandRun",
+        "record_status": "IncidentStatusDesc"
+      }
+    }
+  ]
+}

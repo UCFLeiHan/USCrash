@@ -1,0 +1,50 @@
+{
+  "state": "VT",
+  "state_name": "Vermont",
+  "official_agency": "Vermont Agency of Transportation",
+  "crash_id_scope": "STATE",
+  "coordinate_bounds": [
+    -73.5,
+    42.5,
+    -71.3,
+    45.1
+  ],
+  "deduplicate_by_crash_id": true,
+  "versions": [
+    {
+      "schema_id": "VTRANS_CRASHPQT_2010_2026_PREPARED",
+      "year_start": 2010,
+      "year_end": 2026,
+      "source_patterns": [
+        "VT_prepared_crashes_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "OBJECTID",
+        "crash_datetime": "AccidentDateTime_ISO",
+        "latitude": "Latitude_WGS84",
+        "longitude": "Longitude_WGS84",
+        "city": "CITYORTOWN",
+        "severity_raw_label": "InjuryType",
+        "manner_raw_label": "DirOfCollision",
+        "weather_raw_label": "Weather",
+        "light_raw_label": "DayNight",
+        "road_surface_raw_label": "SurfaceCondition",
+        "functional_class": "RoadGroup",
+        "intersection_related": "IntersectionDerived",
+        "intersection_type": "RoadCharacteristics",
+        "work_zone_related": "WorkZoneDerived",
+        "alcohol_involved": "AlcoholDerived",
+        "drug_involved": "DrugDerived",
+        "pedestrian_involved": "PedestrianDerived",
+        "bicyclist_involved": "BicyclistDerived",
+        "motorcycle_involved": "MotorcycleDerived",
+        "commercial_vehicle_involved": "CommercialVehicleDerived",
+        "severity_raw_code": "InjuryType",
+        "manner_raw_code": "DirOfCollision",
+        "weather_raw_code": "Weather",
+        "light_raw_code": "DayNight",
+        "road_surface_raw_code": "SurfaceCondition"
+      }
+    }
+  ]
+}

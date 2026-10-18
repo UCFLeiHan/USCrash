@@ -1,0 +1,304 @@
+2024 map points 32731
+2023 map points 33708
+2022 map points 34022
+2021 map points 32661
+2020 map points 28758
+2019 map points 35261
+2018 map points 35208
+2017 map points 34991
+2016 map points 33321
+2015 map points 32870
+2014 map points 31831
+2013 map points 30465
+2012 map points 28454
+2011 map points 28576
+2010 map points 27664
+2009 map points 28702
+2008 map points 31401
+2007 map points 32838
+2006 map points 31661
+2005 map points 34683
+2004 map points 34613
+2003 map points 34630
+2025 details 100 / 35085
+2025 details 200 / 35085
+2025 details 300 / 35085
+2025 details 400 / 35085
+2025 details 500 / 35085
+2025 details 600 / 35085
+2025 details 700 / 35085
+2025 details 800 / 35085
+2025 details 900 / 35085
+2025 details 1000 / 35085
+2025 details 1100 / 35085
+2025 details 1200 / 35085
+2025 details 1300 / 35085
+2025 details 1400 / 35085
+2025 details 1500 / 35085
+2025 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2024 details 100 / 32731
+2024 details 200 / 32731
+2024 details 300 / 32731
+2024 details 400 / 32731
+2024 details 500 / 32731
+2024 details 600 / 32731
+2024 details 700 / 32731
+2024 details 800 / 32731
+2024 details 900 / 32731
+2024 details 1000 / 32731
+2024 details 1100 / 32731
+2024 details 1200 / 32731
+2024 details 1300 / 32731
+2024 details 1400 / 32731
+2024 details 1500 / 32731
+2024 details 1600 / 32731
+2024 details 1700 / 32731
+2024 details 1800 / 32731
+2024 details 1900 / 32731
+2024 details 2000 / 32731
+2024 details 2100 / 32731
+2024 details 2200 / 32731
+2024 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2023 details 100 / 33708
+2023 details 200 / 33708
+2023 details 300 / 33708
+2023 details 400 / 33708
+2023 details 500 / 33708
+2023 details 600 / 33708
+2023 details 700 / 33708
+2023 details 800 / 33708
+2023 details 900 / 33708
+2023 details 1000 / 33708
+2023 details 1100 / 33708
+2023 details 1200 / 33708
+2023 details 1300 / 33708
+2023 details 1400 / 33708
+2023 details 1500 / 33708
+2023 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2022 details 100 / 34022
+2022 details 200 / 34022
+2022 details 300 / 34022
+2022 details 400 / 34022
+2022 details 500 / 34022
+2022 details 600 / 34022
+2022 details 700 / 34022
+2022 details 800 / 34022
+2022 details 900 / 34022
+2022 details 1000 / 34022
+2022 details 1100 / 34022
+2022 details 1200 / 34022
+2022 details 1300 / 34022
+2022 details 1400 / 34022
+2022 details 1500 / 34022
+2022 details 1600 / 34022
+2022 details 1700 / 34022
+2022 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2021 details 100 / 32661
+2021 details 200 / 32661
+2021 details 300 / 32661
+2021 details 400 / 32661
+2021 details 500 / 32661
+2021 details 600 / 32661
+2021 details 700 / 32661
+2021 details 800 / 32661
+2021 details 900 / 32661
+2021 details 1000 / 32661
+2021 details 1100 / 32661
+2021 details 1200 / 32661
+2021 details 1300 / 32661
+2021 details 1400 / 32661
+2021 details 1500 / 32661
+2021 details 1600 / 32661
+2021 details 1700 / 32661
+2021 details 1800 / 32661
+2021 details 1900 / 32661
+2021 details 2000 / 32661
+2021 details 2100 / 32661
+2021 details 2200 / 32661
+2021 details 2300 / 32661
+2021 details 2400 / 32661
+2021 details 2500 / 32661
+2021 details 2600 / 32661
+2021 details 2700 / 32661
+2021 details 2800 / 32661
+2021 details 2900 / 32661
+2021 details 3000 / 32661
+2021 details 3100 / 32661
+2021 details 3200 / 32661
+2021 details 3300 / 32661
+2021 details 3400 / 32661
+2021 details 3500 / 32661
+2021 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2020 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2019 details 100 / 35261
+2019 details 200 / 35261
+2019 details 300 / 35261
+2019 details 400 / 35261
+2019 details 500 / 35261
+2019 details 600 / 35261
+2019 details 700 / 35261
+2019 details 800 / 35261
+2019 details 900 / 35261
+2019 details 1000 / 35261
+2019 details 1100 / 35261
+2019 details 1200 / 35261
+2019 details 1300 / 35261
+2019 details 1400 / 35261
+2019 details 1500 / 35261
+2019 details 1600 / 35261
+2019 details 1700 / 35261
+2019 details 1800 / 35261
+2019 details 1900 / 35261
+2019 details 2000 / 35261
+2019 details 2100 / 35261
+2019 details 2200 / 35261
+2019 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2018 details 100 / 35208
+2018 details 200 / 35208
+2018 details 300 / 35208
+2018 details 400 / 35208
+2018 details 500 / 35208
+2018 details 600 / 35208
+2018 details 700 / 35208
+2018 details 800 / 35208
+2018 details 900 / 35208
+2018 details 1000 / 35208
+2018 details 1100 / 35208
+2018 details 1200 / 35208
+2018 details 1300 / 35208
+2018 details 1400 / 35208
+2018 details 1500 / 35208
+2018 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2017 details 100 / 34991
+2017 details 200 / 34991
+2017 details 300 / 34991
+2017 details 400 / 34991
+2017 details 500 / 34991
+2017 details 600 / 34991
+2017 details 700 / 34991
+2017 details 800 / 34991
+2017 details 900 / 34991
+2017 details 1000 / 34991
+2017 details 1100 / 34991
+2017 details 1200 / 34991
+2017 details 1300 / 34991
+2017 details 1400 / 34991
+2017 details 1500 / 34991
+2017 details 1600 / 34991
+2017 details 1700 / 34991
+2017 details 1800 / 34991
+2017 details 1900 / 34991
+2017 details 2000 / 34991
+2017 details 2100 / 34991
+2017 details 2200 / 34991
+2017 details 2300 / 34991
+2017 details 2400 / 34991
+2017 details 2500 / 34991
+2017 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2016 details 100 / 33321
+2016 details 200 / 33321
+2016 details 300 / 33321
+2016 details 400 / 33321
+2016 details 500 / 33321
+2016 details 600 / 33321
+2016 details 700 / 33321
+2016 details 800 / 33321
+2016 details 900 / 33321
+2016 details 1000 / 33321
+2016 details 1100 / 33321
+2016 details 1200 / 33321
+2016 details 1300 / 33321
+2016 details 1400 / 33321
+2016 details 1500 / 33321
+2016 details 1600 / 33321
+2016 DETAIL FAILED HTTPError('500 Server Error: Internal Server Error for url: https://mdotapps.maine.gov/MaineCrashPublic/PublicQueryMap.aspx/GetReportDetails')
+2015 details 100 / 32870
+2015 details 200 / 32870
+2015 details 300 / 32870
+2015 details 400 / 32870
+2015 details 500 / 32870
+2015 details 600 / 32870
+2015 details 700 / 32870
+2015 details 800 / 32870
+2015 details 900 / 32870
+2015 details 1000 / 32870
+2015 details 1100 / 32870
+2015 details 1200 / 32870
+2015 details 1300 / 32870
+2015 details 1400 / 32870
+2015 details 1500 / 32870
+2015 details 1600 / 32870
+2015 details 1700 / 32870
+2015 details 1800 / 32870
+2015 details 1900 / 32870
+2015 details 2000 / 32870
+2015 details 2100 / 32870
+2015 details 2200 / 32870
+2015 details 2300 / 32870
+2015 details 2400 / 32870
+2015 details 2500 / 32870
+2015 details 2600 / 32870
+2015 details 2700 / 32870
+2015 details 2800 / 32870
+2015 details 2900 / 32870
+2015 details 3000 / 32870
+2015 details 3100 / 32870
+2015 details 3200 / 32870
+2015 details 3300 / 32870
+2015 details 3400 / 32870
+2015 details 3500 / 32870
+2015 details 3600 / 32870
+2015 details 3700 / 32870
+2015 details 3800 / 32870
+2015 details 3900 / 32870
+2015 details 4000 / 32870
+2015 details 4100 / 32870
+2015 details 4200 / 32870
+2015 details 4300 / 32870
+2015 details 4400 / 32870
+2015 details 4500 / 32870
+2015 details 4600 / 32870
+2015 details 4700 / 32870
+2015 details 4800 / 32870
+2015 details 4900 / 32870
+2015 details 5000 / 32870
+2015 details 5100 / 32870
+2015 details 5200 / 32870
+2015 details 5300 / 32870
+2015 details 5400 / 32870
+2015 details 5500 / 32870
+2015 details 5600 / 32870
+2015 details 5700 / 32870
+2015 details 5800 / 32870
+2015 details 5900 / 32870
+2015 details 6000 / 32870
+2015 details 6100 / 32870
+2015 details 6200 / 32870
+2015 details 6300 / 32870
+2015 details 6400 / 32870
+2015 details 6500 / 32870
+2015 details 6600 / 32870
+2015 details 6700 / 32870
+2015 details 6800 / 32870
+2015 details 6900 / 32870
+2015 details 7000 / 32870
+2015 details 7100 / 32870
+2015 details 7200 / 32870
+2015 details 7300 / 32870
+2015 details 7400 / 32870
+2015 details 7500 / 32870
+2015 details 7600 / 32870
+2015 details 7700 / 32870
+2015 details 7800 / 32870
+2015 details 7900 / 32870
+2015 details 8000 / 32870
+2015 details 8100 / 32870
+2015 details 8200 / 32870
+2015 details 8300 / 32870
+2015 details 8400 / 32870
+2015 details 8500 / 32870
+2015 details 8600 / 32870
+2015 details 8700 / 32870
+2015 details 8800 / 32870
+2015 details 8900 / 32870
+2015 details 9000 / 32870

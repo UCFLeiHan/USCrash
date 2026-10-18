@@ -1,0 +1,35 @@
+{
+  "state": "AK",
+  "state_name": "Alaska",
+  "official_agency": "Alaska Department of Transportation and Public Facilities",
+  "coordinate_bounds": [-180.0, 51.0, -129.0, 72.0],
+  "versions": [
+    {
+      "schema_id": "AK_public_portal_2021_2025",
+      "year_start": 2021,
+      "year_end": 2025,
+      "source_patterns": ["AK_Public_Crash_Portal_{year}.csv"],
+      "fields": {
+        "crash_id": "Crash Number",
+        "crash_datetime": "DateTime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "county": "County-Borough",
+        "city": "City",
+        "severity_raw_code": "Crash Severity",
+        "severity_raw_label": "Crash Severity",
+        "manner_raw_code": "Manner of Collision",
+        "manner_raw_label": "Manner of Collision",
+        "fatalities": "?Fatalities",
+        "injuries": "?Injuries",
+        "vehicles": "Number of Motorized Units",
+        "weather_raw_code": "Weather",
+        "weather_raw_label": "Weather",
+        "light_raw_code": "Lighting",
+        "light_raw_label": "Lighting",
+        "road_surface_raw_code": "Road Surface",
+        "road_surface_raw_label": "Road Surface"
+      }
+    }
+  ]
+}

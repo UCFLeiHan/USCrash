@@ -1,0 +1,304 @@
+state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+CO,*,manner,Approach Turn,Approach Turn,6,6,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,APPROACH TURN,APPROACH TURN,6,6,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Barricade,Barricade,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,BARRICADE/TRAFFIC BARRIER,BARRICADE/TRAFFIC BARRIER,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,BICYCLE,BICYCLE,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Bicycle/Motorized Bicycle,Bicycle/Motorized Bicycle,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,BRIDGE RAIL,BRIDGE RAIL,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Bridge Structure,Bridge Structure,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Bridge Structure (Not Overhead),Bridge Structure (Not Overhead),0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,BROADSIDE,BROADSIDE,6,6,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Broadside,Broadside,6,6,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Cable Rail,Cable Rail,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,CABLE RAIL,CABLE RAIL,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,CONCRETE BARRIER,CONCRETE BARRIER,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Concrete Highway Barrier,Concrete Highway Barrier,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,CRASH CUSHION,CRASH CUSHION,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Crash Cushion/Traffic Barrel,Crash Cushion/Traffic Barrel,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Culvert or Headwall,Culvert or Headwall,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,CULVERT/HEADWALL,CULVERT/HEADWALL,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Curb,Curb,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,CURB/RAISED MEDIAN,CURB/RAISED MEDIAN,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,DELINEATOR POST,DELINEATOR POST,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Delineator/Milepost,Delineator/Milepost,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Ditch,Ditch,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Domestic Animal,Domestic Animal,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,DOMESTIC ANIMAL,DOMESTIC ANIMAL,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Electrical/Utility Box,Electrical/Utility Box,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Embankment,Embankment,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,EMBANKMENT CUT/FILL SLOPE,EMBANKMENT CUT/FILL SLOPE,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Fell from Motor Vehicle,Fell from Motor Vehicle,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,FENCE,FENCE,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Fence,Fence,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Ground,Ground,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,GUARD RAIL,GUARD RAIL,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Guardrail End,Guardrail End,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Guardrail Face,Guardrail Face,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,HEAD-ON,HEAD-ON,2,2,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Head-On,Head-On,2,2,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,"Immersion, Full or Partial","Immersion, Full or Partial",0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,INVOLVING OTHER OBJECT,INVOLVING OTHER OBJECT,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,LARGE BOULDERS OR ROCKS,LARGE BOULDERS OR ROCKS,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Large Rocks or Boulder,Large Rocks or Boulder,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Light Pole/Utility Pole,Light Pole/Utility Pole,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,LIGHT/UTILITY POLE,LIGHT/UTILITY POLE,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,MAILBOX,MAILBOX,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Mailbox,Mailbox,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,OTHER FIXED OBJECT,OTHER FIXED OBJECT,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Other Fixed Object (Describe in Narrative),Other Fixed Object (Describe in Narrative),0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,OTHER NON-COLLISION,OTHER NON-COLLISION,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Other Non-Collision,Other Non-Collision,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Other Non-Fixed Object Describe in Narrative),Other Non-Fixed Object Describe in Narrative),0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Overhead Structure (Bridge),Overhead Structure (Bridge),0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Overhead Structure (Not Bridge),Overhead Structure (Not Bridge),0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,OVERTAKING TURN,OVERTAKING TURN,6,6,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Overtaking Turn,Overtaking Turn,6,6,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,OVERTURNING,OVERTURNING,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Overturning/Rollover,Overturning/Rollover,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,PARKED MOTOR VEHICLE,PARKED MOTOR VEHICLE,11,11,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Parked Motor Vehicle,Parked Motor Vehicle,11,11,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Pedestrian,Pedestrian,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,PEDESTRIAN,PEDESTRIAN,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Railroad Crossing Equipment,Railroad Crossing Equipment,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,RAILWAY VEHICLE,RAILWAY VEHICLE,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,REAR-END,REAR-END,1,1,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Rear-End,Rear-End,1,1,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,ROAD MAINTENANCE EQUIPMENT,ROAD MAINTENANCE EQUIPMENT,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,School Age To/From School,School Age To/From School,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,SIDESWIPE (OPPOSITE DIRECTION),SIDESWIPE (OPPOSITE DIRECTION),0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,SIDESWIPE (SAME DIRECTION),SIDESWIPE (SAME DIRECTION),0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Sideswipe Opposite Direction,Sideswipe Opposite Direction,8,8,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Sideswipe Same Direction,Sideswipe Same Direction,7,7,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,SIGN,SIGN,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Sign,Sign,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Traffic Signal Pole,Traffic Signal Pole,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,TRAFFIC SIGNAL POLE,TRAFFIC SIGNAL POLE,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Tree,Tree,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,TREE/SHRUBBERY,TREE/SHRUBBERY,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,UNKNOWN,UNKNOWN,99,99,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,VEHICLE CARGO/DEBRIS,VEHICLE CARGO/DEBRIS,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Vehicle Debris or Cargo,Vehicle Debris or Cargo,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Wall or Building,Wall or Building,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,WALL/BUILDING,WALL/BUILDING,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,Wild Animal,Wild Animal,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,manner,WILD ANIMAL,WILD ANIMAL,0,0,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Blowing Snow,Blowing Snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Dust,Dust,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,DUST,DUST,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Fog,Fog,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,FOG,FOG,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Freezing Rain or Freezing Drizzle,Freezing Rain or Freezing Drizzle,RAIN,RAIN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,NONE,NONE,CLEAR,CLEAR,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,RAIN,RAIN,RAIN,RAIN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Sleet or Hail,Sleet or Hail,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,SNOW/SLEET/HAIL,SNOW/SLEET/HAIL,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,WIND,WIND,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,weather,Wind,Wind,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,Dark – Lighted,Dark – Lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,Dark – Unlighted,Dark – Unlighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,DARK-LIGHTED,DARK-LIGHTED,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,DARK-UNLIGHTED,DARK-UNLIGHTED,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,Dawn or Dusk,Dawn or Dusk,OTHER,OTHER,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,DAWN OR DUSK,DAWN OR DUSK,OTHER,OTHER,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,DAYLIGHT,DAYLIGHT,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,light_condition,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,DRY,DRY,DRY,DRY,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,DRY W/VIS ICY ROAD TREATMENT,DRY W/VIS ICY ROAD TREATMENT,DRY,DRY,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Dry W/Visible Icy Road Treatment,Dry W/Visible Icy Road Treatment,DRY,DRY,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,FOREIGN MATERIAL,FOREIGN MATERIAL,OTHER,OTHER,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Foreign Material,Foreign Material,OTHER,OTHER,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,ICY,ICY,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Icy,Icy,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,ICY W/VIS ICY ROAD TREATMENT,ICY W/VIS ICY ROAD TREATMENT,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Icy W/Visible Icy Road Treatment,Icy W/Visible Icy Road Treatment,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,MUDDY,MUDDY,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Muddy,Muddy,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Roto-Milled,Roto-Milled,OTHER,OTHER,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Sand/Gravel,Sand/Gravel,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Slushy,Slushy,SLUSH,SLUSH,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,SLUSHY,SLUSHY,SLUSH,SLUSH,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,SLUSHY W/VIS ICY ROAD TREATMENT,SLUSHY W/VIS ICY ROAD TREATMENT,SLUSH,SLUSH,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Slushy W/Visible Icy Road Treatment,Slushy W/Visible Icy Road Treatment,SLUSH,SLUSH,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Snowy,Snowy,SNOW,SNOW,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,SNOWY,SNOWY,SNOW,SNOW,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,SNOWY W/VIS ICY ROAD TREATMENT,SNOWY W/VIS ICY ROAD TREATMENT,SNOW,SNOW,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Snowy W/Visible Icy Road Treatment,Snowy W/Visible Icy Road Treatment,SNOW,SNOW,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,WET,WET,WET,WET,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,WET W/VIS ICY ROAD TREATMENT,WET W/VIS ICY ROAD TREATMENT,WET,WET,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,road_surface_condition,Wet W/Visible Icy Road Treatment,Wet W/Visible Icy Road Treatment,WET,WET,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,APPROACH TURN,APPROACH TURN,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Barricade,Barricade,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,BARRICADE/TRAFFIC BARRIER,BARRICADE/TRAFFIC BARRIER,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,BICYCLE,BICYCLE,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Bicycle/Motorized Bicycle,Bicycle/Motorized Bicycle,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,BRIDGE RAIL,BRIDGE RAIL,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Bridge Structure (Not Overhead),Bridge Structure (Not Overhead),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,BROADSIDE,BROADSIDE,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Cable Rail,Cable Rail,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,CABLE RAIL,CABLE RAIL,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,CONCRETE BARRIER,CONCRETE BARRIER,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Concrete Highway Barrier,Concrete Highway Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,CRASH CUSHION,CRASH CUSHION,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Crash Cushion/Traffic Barrel,Crash Cushion/Traffic Barrel,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Culvert or Headwall,Culvert or Headwall,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,CULVERT/HEADWALL,CULVERT/HEADWALL,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Curb,Curb,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,CURB/RAISED MEDIAN,CURB/RAISED MEDIAN,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,DELINEATOR POST,DELINEATOR POST,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Delineator/Milepost,Delineator/Milepost,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Ditch,Ditch,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Domestic Animal,Domestic Animal,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,DOMESTIC ANIMAL,DOMESTIC ANIMAL,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Electical/Utility Box,Electical/Utility Box,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Embankment,Embankment,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,EMBANKMENT CUT/FILL SLOPE,EMBANKMENT CUT/FILL SLOPE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Fell from Motor Vehicle,Fell from Motor Vehicle,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,FENCE,FENCE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Fence,Fence,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Front to Front,Front to Front,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Front to Rear,Front to Rear,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Front to Side,Front to Side,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Ground,Ground,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,GUARD RAIL,GUARD RAIL,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Guardrail End,Guardrail End,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Guardrail Face,Guardrail Face,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,HEAD-ON,HEAD-ON,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,"Immersion, Full or Partial","Immersion, Full or Partial",IMMERSION,IMMERSION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,INVOLVING OTHER OBJECT,INVOLVING OTHER OBJECT,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,LARGE BOULDERS OR ROCKS,LARGE BOULDERS OR ROCKS,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Large Rocks or Boulder,Large Rocks or Boulder,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Light Pole/Utility Pole,Light Pole/Utility Pole,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,LIGHT/UTILITY POLE,LIGHT/UTILITY POLE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,MAILBOX,MAILBOX,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Mailbox,Mailbox,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,OTHER FIXED OBJECT,OTHER FIXED OBJECT,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Other Fixed Object (Describe in Narrative),Other Fixed Object (Describe in Narrative),OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,OTHER NON-COLLISION,OTHER NON-COLLISION,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Other Non-Collision,Other Non-Collision,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Other Non-Fixed Object (Describe in Narrative),Other Non-Fixed Object (Describe in Narrative),OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Overhead Structure (Bridge),Overhead Structure (Bridge),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Overhead Structure (Not Bridge),Overhead Structure (Not Bridge),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,OVERTAKING TURN,OVERTAKING TURN,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,OVERTURNING,OVERTURNING,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Overturning/Rollover,Overturning/Rollover,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,PARKED MOTOR VEHICLE,PARKED MOTOR VEHICLE,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Parked Motor Vehicle,Parked Motor Vehicle,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Pedestrian,Pedestrian,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,PEDESTRIAN,PEDESTRIAN,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Railroad Crossing Equipment,Railroad Crossing Equipment,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,RAILWAY VEHICLE,RAILWAY VEHICLE,TRAIN,TRAIN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Rear to Rear,Rear to Rear,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Rear to Side,Rear to Side,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,REAR-END,REAR-END,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,ROAD MAINTENANCE EQUIPMENT,ROAD MAINTENANCE EQUIPMENT,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,School Age To/From School,School Age To/From School,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Side to Side-Opposite Direction,Side to Side-Opposite Direction,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Side to Side-Same Direction,Side to Side-Same Direction,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,SIDESWIPE (OPPOSITE DIRECTION),SIDESWIPE (OPPOSITE DIRECTION),MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,SIDESWIPE (SAME DIRECTION),SIDESWIPE (SAME DIRECTION),MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,SIGN,SIGN,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Sign,Sign,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Traffic Signal Pole,Traffic Signal Pole,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,TRAFFIC SIGNAL POLE,TRAFFIC SIGNAL POLE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Tree,Tree,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,TREE/SHRUBBERY,TREE/SHRUBBERY,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,VEHICLE CARGO/DEBRIS,VEHICLE CARGO/DEBRIS,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Vehicle Debris or Cargo,Vehicle Debris or Cargo,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Wall or Building,Wall or Building,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,WALL/BUILDING,WALL/BUILDING,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,Wild Animal,Wild Animal,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event,WILD ANIMAL,WILD ANIMAL,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,APPROACH TURN,APPROACH TURN,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Barricade,Barricade,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,BARRICADE/TRAFFIC BARRIER,BARRICADE/TRAFFIC BARRIER,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,BICYCLE,BICYCLE,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Bicycle/Motorized Bicycle,Bicycle/Motorized Bicycle,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,BRIDGE RAIL,BRIDGE RAIL,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Bridge Structure (Not Overhead),Bridge Structure (Not Overhead),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,BROADSIDE,BROADSIDE,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Cable Rail,Cable Rail,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,CABLE RAIL,CABLE RAIL,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,CONCRETE BARRIER,CONCRETE BARRIER,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Concrete Highway Barrier,Concrete Highway Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,CRASH CUSHION,CRASH CUSHION,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Crash Cushion/Traffic Barrel,Crash Cushion/Traffic Barrel,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Culvert or Headwall,Culvert or Headwall,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,CULVERT/HEADWALL,CULVERT/HEADWALL,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Curb,Curb,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,CURB/RAISED MEDIAN,CURB/RAISED MEDIAN,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,DELINEATOR POST,DELINEATOR POST,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Delineator/Milepost,Delineator/Milepost,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Ditch,Ditch,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Domestic Animal,Domestic Animal,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,DOMESTIC ANIMAL,DOMESTIC ANIMAL,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Electical/Utility Box,Electical/Utility Box,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Embankment,Embankment,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,EMBANKMENT CUT/FILL SLOPE,EMBANKMENT CUT/FILL SLOPE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Fell from Motor Vehicle,Fell from Motor Vehicle,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,FENCE,FENCE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Fence,Fence,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Front to Front,Front to Front,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Front to Rear,Front to Rear,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Front to Side,Front to Side,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Ground,Ground,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,GUARD RAIL,GUARD RAIL,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Guardrail End,Guardrail End,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Guardrail Face,Guardrail Face,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,HEAD-ON,HEAD-ON,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,"Immersion, Full or Partial","Immersion, Full or Partial",IMMERSION,IMMERSION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,INVOLVING OTHER OBJECT,INVOLVING OTHER OBJECT,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,LARGE BOULDERS OR ROCKS,LARGE BOULDERS OR ROCKS,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Large Rocks or Boulder,Large Rocks or Boulder,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Light Pole/Utility Pole,Light Pole/Utility Pole,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,LIGHT/UTILITY POLE,LIGHT/UTILITY POLE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,MAILBOX,MAILBOX,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Mailbox,Mailbox,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,OTHER FIXED OBJECT,OTHER FIXED OBJECT,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Other Fixed Object (Describe in Narrative),Other Fixed Object (Describe in Narrative),OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,OTHER NON-COLLISION,OTHER NON-COLLISION,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Other Non-Collision,Other Non-Collision,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Other Non-Fixed Object (Describe in Narrative),Other Non-Fixed Object (Describe in Narrative),OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Overhead Structure (Bridge),Overhead Structure (Bridge),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Overhead Structure (Not Bridge),Overhead Structure (Not Bridge),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,OVERTAKING TURN,OVERTAKING TURN,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,OVERTURNING,OVERTURNING,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Overturning/Rollover,Overturning/Rollover,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,PARKED MOTOR VEHICLE,PARKED MOTOR VEHICLE,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Parked Motor Vehicle,Parked Motor Vehicle,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Pedestrian,Pedestrian,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,PEDESTRIAN,PEDESTRIAN,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Railroad Crossing Equipment,Railroad Crossing Equipment,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,RAILWAY VEHICLE,RAILWAY VEHICLE,TRAIN,TRAIN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Rear to Rear,Rear to Rear,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Rear to Side,Rear to Side,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,REAR-END,REAR-END,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,ROAD MAINTENANCE EQUIPMENT,ROAD MAINTENANCE EQUIPMENT,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,School Age To/From School,School Age To/From School,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Side to Side-Opposite Direction,Side to Side-Opposite Direction,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Side to Side-Same Direction,Side to Side-Same Direction,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,SIDESWIPE (OPPOSITE DIRECTION),SIDESWIPE (OPPOSITE DIRECTION),MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,SIDESWIPE (SAME DIRECTION),SIDESWIPE (SAME DIRECTION),MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,SIGN,SIGN,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Sign,Sign,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Traffic Signal Pole,Traffic Signal Pole,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,TRAFFIC SIGNAL POLE,TRAFFIC SIGNAL POLE,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Tree,Tree,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,TREE/SHRUBBERY,TREE/SHRUBBERY,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,VEHICLE CARGO/DEBRIS,VEHICLE CARGO/DEBRIS,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Vehicle Debris or Cargo,Vehicle Debris or Cargo,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Wall or Building,Wall or Building,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,WALL/BUILDING,WALL/BUILDING,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,Wild Animal,Wild Animal,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED
+CO,*,first_harmful_event_group,WILD ANIMAL,WILD ANIMAL,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CDOT official crash data dictionary and embedded labels,REVIEWED

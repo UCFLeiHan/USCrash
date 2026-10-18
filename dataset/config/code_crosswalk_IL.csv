@@ -1,0 +1,50 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+IL,*,severity,Fatal Crash,Fatal Crash,K,Fatal injury,CROSSWALK,analysis_crash_severity_kabco,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,severity,A Injury Crash,A Injury Crash,A,Suspected serious injury,CROSSWALK,analysis_crash_severity_kabco,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,severity,B Injury Crash,B Injury Crash,B,Suspected minor injury,CROSSWALK,analysis_crash_severity_kabco,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,severity,C Injury Crash,C Injury Crash,C,Possible injury,CROSSWALK,analysis_crash_severity_kabco,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,severity,No Injuries,No Injuries,O,No apparent injury,CROSSWALK,analysis_crash_severity_kabco,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,severity,Holes,Holes,U,Unknown / legacy data hole,CROSSWALK,analysis_crash_severity_kabco,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,1,1,0,Pedestrian / not motor vehicle in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,2,2,0,Pedalcyclist / not motor vehicle in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,3,3,0,Train / not motor vehicle in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,4,4,0,Animal / not motor vehicle in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,5,5,0,Overturned / not motor vehicle in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,6,6,0,Fixed object / not motor vehicle in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,7,7,0,Other object / not motor vehicle in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,8,8,0,Other noncollision,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,9,9,0,Parked motor vehicle / not in transport,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,10,10,6,Turning / angle,CONDITIONAL_CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,11,11,1,Front to rear,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,12,12,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,13,13,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,14,14,2,Front to front,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,15,15,6,Angle,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,16,16,9,Rear to side,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,17,17,10,Rear to rear,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,manner,18,18,1,Rear to front,CROSSWALK,MMUCC6-C09,IDOT SR-1050 Instruction Manual 2019 pp. 25-27,REVIEWED
+IL,*,weather,1,,CLEAR,CLEAR,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,2,,RAIN,RAIN,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,3,,SNOW,SNOW,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,4,,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,5,,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,6,,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,7,,OTHER,OTHER,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,8,,CLOUDY,CLOUDY,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,9,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,10,,RAIN,RAIN,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,11,,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,weather,12,,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6_weather,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,light_condition,1,,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6_light_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,light_condition,2,,DAWN,DAWN,CROSSWALK,MMUCC6_light_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,light_condition,3,,DUSK,DUSK,CROSSWALK,MMUCC6_light_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,light_condition,4,,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6_light_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,light_condition,5,,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6_light_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,light_condition,9,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_light_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,road_surface_condition,1,,DRY,DRY,CROSSWALK,MMUCC6_road_surface_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,road_surface_condition,2,,WET,WET,CROSSWALK,MMUCC6_road_surface_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,road_surface_condition,3,,SNOW,SNOW,CROSSWALK,MMUCC6_road_surface_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,road_surface_condition,4,,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6_road_surface_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,road_surface_condition,5,,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,road_surface_condition,6,,OTHER,OTHER,CROSSWALK,MMUCC6_road_surface_condition,IDOT official coded values embedded in annual extract,REVIEWED
+IL,*,road_surface_condition,9,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_road_surface_condition,IDOT official coded values embedded in annual extract,REVIEWED

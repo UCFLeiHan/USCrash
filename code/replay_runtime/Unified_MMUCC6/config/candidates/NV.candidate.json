@@ -1,0 +1,66 @@
+{
+  "state": "NV",
+  "generated_utc": "2026-10-13T20:01:56.901939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "NV_candidate_2019_2020_1",
+      "header_signature": "dccba9c23c56e269",
+      "years": [
+        2019,
+        2020
+      ],
+      "example_source": "NV/2019/NV_crashes_2019.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 55,
+      "field_candidates": {
+        "crash_date": "Crash_Date",
+        "crash_time": "Crash_Time",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "severity": "Crash_Severity",
+        "manner_collision": "Crash_Type"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NV_candidate_2021_2024_2",
+      "header_signature": "7ba62bde6eac909b",
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "example_source": "NV/2021/CSV/NV_Official_Crash_2021.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 80,
+      "field_candidates": {
+        "crash_id": "CrashNum",
+        "crash_date": "CrashDate",
+        "crash_time": "CrashTime",
+        "latitude": "Latitude_WGS84",
+        "longitude": "Longitude_WGS84",
+        "severity": "CrashSeverity",
+        "manner_collision": "CrashType"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

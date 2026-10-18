@@ -1,0 +1,50 @@
+{
+  "state": "ID",
+  "generated_utc": "2026-10-13T20:01:56.893944+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "ID_candidate_2005_2023_1",
+      "header_signature": "b216cf8e999953f9",
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "example_source": "ID/2005/idaho_crashes_2005.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 19,
+      "field_candidates": {
+        "crash_datetime": "Accident_Date_Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "Severity"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

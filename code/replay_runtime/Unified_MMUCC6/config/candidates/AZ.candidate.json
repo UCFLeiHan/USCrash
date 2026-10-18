@@ -1,0 +1,40 @@
+{
+  "state": "AZ",
+  "generated_utc": "2026-10-13T20:01:56.856537+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "AZ_candidate_2020_2025_1",
+      "header_signature": "6d908000b02f8aea",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "AZ/2020/AZ_incident_2020.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 82,
+      "field_candidates": {
+        "crash_id": "IncidentID",
+        "crash_datetime": "IncidentDateTime",
+        "crash_date": "IncidentDate",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "InjurySeverity",
+        "manner_collision": "CollisionManner"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

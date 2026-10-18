@@ -1,0 +1,184 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+IA,*,severity,1,,K,K,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,severity,2,,A,A,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,severity,3,,B,B,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,severity,4,,C,C,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,severity,5,,O,O,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,1,,0,0,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,2,,2,2,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,3,,1,1,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,4,,6,6,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,5,,6,6,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,6,,7,7,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,7,,8,8,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,8,,10,10,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,9,,9,9,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,98,,11,11,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,99,,99,99,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,manner,77,,99,99,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,1,,CLEAR,CLEAR,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,2,,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,3,,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,4,,RAIN,RAIN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,5,,RAIN,RAIN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,6,,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,7,,SNOW,SNOW,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,8,,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,9,,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,10,,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,98,,OTHER,OTHER,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,99,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,weather,77,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,1,,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,2,,DUSK,DUSK,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,3,,DAWN,DAWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,4,,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,5,,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,6,,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,9,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,light_condition,77,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,1,,DRY,DRY,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,2,,WET,WET,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,3,,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,4,,SNOW,SNOW,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,5,,SLUSH,SLUSH,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,6,,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,7,,STANDING_WATER,STANDING_WATER,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,8,,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,9,,OIL,OIL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,10,,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,98,,OTHER,OTHER,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,99,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,road_surface_condition,77,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,20,,NON_COLLISION_EVENTS_OVERTURN_ROLLOVER,NON_COLLISION_EVENTS_OVERTURN_ROLLOVER,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,20,,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,21,,NON_COLLISION_EVENTS_JACKKNIFE,NON_COLLISION_EVENTS_JACKKNIFE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,21,,JACKKNIFE,JACKKNIFE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,22,,NON_COLLISION_EVENTS_NON_CONTACT_VEHICLE_PHANTOM,NON_COLLISION_EVENTS_NON_CONTACT_VEHICLE_PHANTOM,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,22,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,23,,NON_COLLISION_EVENTS_VEHICLE_WENT_AIRBORNE,NON_COLLISION_EVENTS_VEHICLE_WENT_AIRBORNE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,23,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,24,,NON_COLLISION_EVENTS_FELL_JUMPED_FROM_VEHICLE,NON_COLLISION_EVENTS_FELL_JUMPED_FROM_VEHICLE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,24,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,95,,NON_COLLISION_EVENTS_OTHER_NON_COLLISION_EXPLAIN_IN_NARRATIVE,NON_COLLISION_EVENTS_OTHER_NON_COLLISION_EXPLAIN_IN_NARRATIVE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,95,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,30,,COLLISION_WITH_THROWN_OR_FALLING_OBJECT,COLLISION_WITH_THROWN_OR_FALLING_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,30,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,31,,COLLISION_WITH_ANIMAL,COLLISION_WITH_ANIMAL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,31,,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,32,,COLLISION_WITH_NON_MOTORIST_SEE_NON_MOTORIST_SECTION_NOT_A_UNIT,COLLISION_WITH_NON_MOTORIST_SEE_NON_MOTORIST_SECTION_NOT_A_UNIT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,32,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,33,,COLLISION_WITH_VEHICLE_IN_TRAFFIC,COLLISION_WITH_VEHICLE_IN_TRAFFIC,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,33,,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,34,,COLLISION_WITH_RE_ENTERING_ROADWAY,COLLISION_WITH_RE_ENTERING_ROADWAY,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,34,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,35,,COLLISION_WITH_PARKED_MOTOR_VEHICLE,COLLISION_WITH_PARKED_MOTOR_VEHICLE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,35,,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,36,,COLLISION_WITH_WORK_ZONE_MAINTENANCE_EQUIPMENT,COLLISION_WITH_WORK_ZONE_MAINTENANCE_EQUIPMENT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,36,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,37,,COLLISION_WITH_RAILWAY_VEHICLE_TRAIN,COLLISION_WITH_RAILWAY_VEHICLE_TRAIN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,37,,TRAIN,TRAIN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,38,,COLLISION_WITH_STRUCK_STRUCK_BY_OBJECT_CARGO_PERSON_FROM_OTHER_VEHICLE,COLLISION_WITH_STRUCK_STRUCK_BY_OBJECT_CARGO_PERSON_FROM_OTHER_VEHICLE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,38,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,96,,COLLISION_WITH_OTHER_NON_FIXED_OBJECT_EXPLAIN_IN_NARRATIVE,COLLISION_WITH_OTHER_NON_FIXED_OBJECT_EXPLAIN_IN_NARRATIVE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,96,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,40,,COLLISION_WITH_FIXED_OBJECT_BRIDGE_OVERHEAD_STRUCTURE,COLLISION_WITH_FIXED_OBJECT_BRIDGE_OVERHEAD_STRUCTURE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,40,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,41,,COLLISION_WITH_FIXED_OBJECT_BRIDGE_PIER_OR_SUPPORT,COLLISION_WITH_FIXED_OBJECT_BRIDGE_PIER_OR_SUPPORT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,41,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,42,,COLLISION_WITH_FIXED_OBJECT_BRIDGE_BRIDGE_RAIL_PARAPET,COLLISION_WITH_FIXED_OBJECT_BRIDGE_BRIDGE_RAIL_PARAPET,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,42,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,43,,COLLISION_WITH_FIXED_OBJECT_CURB_ISLAND_RAISED_MEDIAN,COLLISION_WITH_FIXED_OBJECT_CURB_ISLAND_RAISED_MEDIAN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,43,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,44,,COLLISION_WITH_FIXED_OBJECT_DITCH,COLLISION_WITH_FIXED_OBJECT_DITCH,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,44,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,45,,COLLISION_WITH_FIXED_OBJECT_EMBANKMENT,COLLISION_WITH_FIXED_OBJECT_EMBANKMENT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,45,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,46,,COLLISION_WITH_FIXED_OBJECT_GROUND,COLLISION_WITH_FIXED_OBJECT_GROUND,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,46,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,47,,COLLISION_WITH_FIXED_OBJECT_CULVERT_PIPE_OPENING,COLLISION_WITH_FIXED_OBJECT_CULVERT_PIPE_OPENING,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,47,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,48,,COLLISION_WITH_FIXED_OBJECT_GUARDRAIL_FACE,COLLISION_WITH_FIXED_OBJECT_GUARDRAIL_FACE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,48,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,49,,COLLISION_WITH_FIXED_OBJECT_GUARDRAIL_END,COLLISION_WITH_FIXED_OBJECT_GUARDRAIL_END,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,49,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,50,,COLLISION_WITH_FIXED_OBJECT_CONCRETE_TRAFFIC_BARRIER_MEDIAN_OR_RIGHT_SIDE,COLLISION_WITH_FIXED_OBJECT_CONCRETE_TRAFFIC_BARRIER_MEDIAN_OR_RIGHT_SIDE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,50,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,51,,COLLISION_WITH_FIXED_OBJECT_OTHER_TRAFFIC_BARRIER_EXPLAIN_IN_NARRATIVE,COLLISION_WITH_FIXED_OBJECT_OTHER_TRAFFIC_BARRIER_EXPLAIN_IN_NARRATIVE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,51,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,52,,COLLISION_WITH_FIXED_OBJECT_CABLE_BARRIER,COLLISION_WITH_FIXED_OBJECT_CABLE_BARRIER,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,52,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,53,,COLLISION_WITH_FIXED_OBJECT_IMPACT_ATTENUATOR_CRASH_CUSHION,COLLISION_WITH_FIXED_OBJECT_IMPACT_ATTENUATOR_CRASH_CUSHION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,53,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,54,,COLLISION_WITH_FIXED_OBJECT_UTILITY_POLE_LIGHT_SUPPORT,COLLISION_WITH_FIXED_OBJECT_UTILITY_POLE_LIGHT_SUPPORT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,54,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,55,,COLLISION_WITH_FIXED_OBJECT_TRAFFIC_SIGN_SUPPORT,COLLISION_WITH_FIXED_OBJECT_TRAFFIC_SIGN_SUPPORT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,55,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,56,,COLLISION_WITH_FIXED_OBJECT_TRAFFIC_SIGNAL_SUPPORT,COLLISION_WITH_FIXED_OBJECT_TRAFFIC_SIGNAL_SUPPORT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,56,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,57,,COLLISION_WITH_FIXED_OBJECT_OTHER_POST_POLE_SUPPORT_EXPLAIN_IN_NARRATIVE,COLLISION_WITH_FIXED_OBJECT_OTHER_POST_POLE_SUPPORT_EXPLAIN_IN_NARRATIVE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,57,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,58,,COLLISION_WITH_FIXED_OBJECT_FIRE_HYDRANT,COLLISION_WITH_FIXED_OBJECT_FIRE_HYDRANT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,58,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,59,,COLLISION_WITH_FIXED_OBJECT_MAILBOX,COLLISION_WITH_FIXED_OBJECT_MAILBOX,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,59,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,60,,COLLISION_WITH_FIXED_OBJECT_TREE,COLLISION_WITH_FIXED_OBJECT_TREE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,60,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,61,,COLLISION_WITH_FIXED_OBJECT_LANDSCAPE_SHRUBBERY,COLLISION_WITH_FIXED_OBJECT_LANDSCAPE_SHRUBBERY,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,61,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,62,,COLLISION_WITH_FIXED_OBJECT_SNOW_BANK,COLLISION_WITH_FIXED_OBJECT_SNOW_BANK,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,62,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,63,,COLLISION_WITH_FIXED_OBJECT_FENCE,COLLISION_WITH_FIXED_OBJECT_FENCE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,63,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,64,,COLLISION_WITH_FIXED_OBJECT_WALL,COLLISION_WITH_FIXED_OBJECT_WALL,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,64,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,65,,COLLISION_WITH_FIXED_OBJECT_BUILDING,COLLISION_WITH_FIXED_OBJECT_BUILDING,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,65,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,97,,COLLISION_WITH_FIXED_OBJECT_OTHER_FIXED_OBJECT_EXPLAIN_IN_NARRATIVE,COLLISION_WITH_FIXED_OBJECT_OTHER_FIXED_OBJECT_EXPLAIN_IN_NARRATIVE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,97,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,70,,MISCELLANEOUS_EVENTS_FIRE_EXPLOSION,MISCELLANEOUS_EVENTS_FIRE_EXPLOSION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,70,,FIRE_EXPLOSION,FIRE_EXPLOSION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,71,,MISCELLANEOUS_EVENTS_IMMERSION,MISCELLANEOUS_EVENTS_IMMERSION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,71,,IMMERSION,IMMERSION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,72,,MISCELLANEOUS_EVENTS_HIT_AND_RUN,MISCELLANEOUS_EVENTS_HIT_AND_RUN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,72,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,73,,MISCELLANEOUS_EVENTS_ELUDING_LAW_ENFORCEMENT,MISCELLANEOUS_EVENTS_ELUDING_LAW_ENFORCEMENT,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,73,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,74,,MISCELLANEOUS_EVENTS_GAS_INHALATION_ASPHYXIATION,MISCELLANEOUS_EVENTS_GAS_INHALATION_ASPHYXIATION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,74,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,75,,MISCELLANEOUS_EVENTS_VEHICLE_OUT_OF_GEAR_ROLLED,MISCELLANEOUS_EVENTS_VEHICLE_OUT_OF_GEAR_ROLLED,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,75,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,98,,OTHER_EXPLAIN_IN_NARRATIVE,OTHER_EXPLAIN_IN_NARRATIVE,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,98,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,99,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,99,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,77,,NOT_REPORTED,NOT_REPORTED,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event_group,77,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Iowa DOT ArcGIS Crash_Data layer coded-value domains (saved official service metadata),REVIEWED
+IA,*,first_harmful_event,1,,LEGACY_UNDOCUMENTED_1,LEGACY_UNDOCUMENTED_1,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,1,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,2,,LEGACY_UNDOCUMENTED_2,LEGACY_UNDOCUMENTED_2,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,2,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,4,,LEGACY_UNDOCUMENTED_4,LEGACY_UNDOCUMENTED_4,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,4,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,8,,LEGACY_UNDOCUMENTED_8,LEGACY_UNDOCUMENTED_8,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,8,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,9,,LEGACY_UNDOCUMENTED_9,LEGACY_UNDOCUMENTED_9,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,9,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,3,,LEGACY_UNDOCUMENTED_3,LEGACY_UNDOCUMENTED_3,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,3,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,5,,LEGACY_UNDOCUMENTED_5,LEGACY_UNDOCUMENTED_5,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,5,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,6,,LEGACY_UNDOCUMENTED_6,LEGACY_UNDOCUMENTED_6,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,6,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,7,,LEGACY_UNDOCUMENTED_7,LEGACY_UNDOCUMENTED_7,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,7,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,10,,LEGACY_UNDOCUMENTED_10,LEGACY_UNDOCUMENTED_10,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,10,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,11,,LEGACY_UNDOCUMENTED_11,LEGACY_UNDOCUMENTED_11,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,11,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,12,,LEGACY_UNDOCUMENTED_12,LEGACY_UNDOCUMENTED_12,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,12,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,13,,LEGACY_UNDOCUMENTED_13,LEGACY_UNDOCUMENTED_13,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,13,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event,94,,LEGACY_UNDOCUMENTED_94,LEGACY_UNDOCUMENTED_94,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED
+IA,*,first_harmful_event_group,94,,UNKNOWN,UNKNOWN,LEGACY_CODE_UNDOCUMENTED,MMUCC6,Iowa DOT extract legacy value absent from current official ArcGIS coded-value domain,FLAGGED

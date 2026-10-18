@@ -1,0 +1,94 @@
+{
+  "state": "NV",
+  "state_name": "Nevada",
+  "official_agency": "Nevada Department of Transportation",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -120.1,
+    34.8,
+    -113.9,
+    42.1
+  ],
+  "severity_from_fatalities_when_unknown": true,
+  "versions": [
+    {
+      "schema_id": "NV_ArcGIS_2019",
+      "year_start": 2019,
+      "year_end": 2019,
+      "source_patterns": [
+        "NV_crashes_{year}.csv"
+      ],
+      "epoch_millis_timezone": "UTC",
+      "injury_severity_fallback_to_severity": true,
+      "fields": {
+        "crash_id": "Accident_Rec_Num",
+        "crash_date": "Crash_Date",
+        "crash_time_raw": "Crash_Time",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "county": "County",
+        "severity_raw_code": "Crash_Severity",
+        "severity_raw_label": "Crash_Severity",
+        "injury_severity_raw_code": "Injury_Type",
+        "injury_severity_raw_label": "Injury_Type",
+        "fatalities": "Fatalities",
+        "injuries": "Injured",
+        "vehicles": "Total_Vehicles",
+        "manner_raw_code": "Crash_Type",
+        "manner_raw_label": "Crash_Type",
+        "first_harmful_event_raw_code": "First_Harmful_Event",
+        "first_harmful_event_raw_label": "First_Harmful_Event",
+        "weather_raw_code": "Weather",
+        "weather_raw_label": "Weather",
+        "light_raw_code": "Lighting",
+        "light_raw_label": "Lighting",
+        "pedestrian_involved": "Pedestrian",
+        "bicyclist_involved": "Pedalcyclist",
+        "motorcycle_involved": "Motorcyclist"
+      }
+    },
+    {
+      "schema_id": "NV_Official_Request_2020_2024",
+      "year_start": 2020,
+      "year_end": 2024,
+      "source_patterns": [
+        "CSV/NV_Official_Crash_enriched_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "CrashNum",
+        "crash_date": "CrashDate",
+        "crash_time_raw": "CrashTime",
+        "latitude": "Latitude_WGS84",
+        "longitude": "Longitude_WGS84",
+        "county": "County",
+        "city": "City",
+        "severity_raw_code": "CrashSeverity",
+        "severity_raw_label": "CrashSeverity",
+        "fatalities": "NumFatalities",
+        "injuries": "NumInjured",
+        "vehicles": "NumVehicles",
+        "manner_raw_code": "VehCrashType",
+        "manner_raw_label": "VehCrashType",
+        "first_harmful_event_raw_code": "FirstHarmfulEventDesc",
+        "first_harmful_event_raw_label": "FirstHarmfulEventDesc",
+        "weather_raw_code": "Weather",
+        "weather_raw_label": "Weather",
+        "light_raw_code": "LightCondition",
+        "light_raw_label": "LightCondition",
+        "intersection_related": "Intersection",
+        "alcohol_involved": "AlcoholInvolved",
+        "hit_and_run": "HitandRun",
+        "pedestrian_involved": "PedestrianInvolved",
+        "bicyclist_involved": "NV_BicyclistInvolved",
+        "bicyclist_count": "NV_BicyclistCount",
+        "motorcycle_involved": "NV_MotorcycleDerived",
+        "drug_involved": "NV_DrugInvolved",
+        "commercial_vehicle_involved": "NV_CommercialVehicleInvolved",
+        "commercial_vehicle_count": "NV_CommercialVehicleCount",
+        "speeding_involved": "NV_SpeedingInvolved",
+        "posted_speed_limit": "NV_PostedSpeedLimit"
+      }
+    }
+  ],
+  "deduplicate_by_crash_id": true
+}

@@ -1,0 +1,44 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+VT,*,severity,Fatal,Fatal,K,K,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,severity,Injury,Injury,U,U,INJURY_PRESENT_SEVERITY_UNSPECIFIED,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,severity,Property Damage Only,Property Damage Only,O,O,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,Single Vehicle Crash,Single Vehicle Crash,0,0,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,Rear End,Rear End,1,1,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,Head On,Head On,2,2,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,Same Direction Sideswipe,Same Direction Sideswipe,7,7,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,Opp Direction Sideswipe,Opp Direction Sideswipe,8,8,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,Rear-to-rear,Rear-to-rear,10,10,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,Other - Explain in Narrative,Other - Explain in Narrative,11,11,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"No Turns, Thru moves only, Broadside ^<","No Turns, Thru moves only, Broadside ^<",6,6,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left Turn and Thru, Angle Broadside -->v--","Left Turn and Thru, Angle Broadside -->v--",6,6,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left Turn and Thru, Broadside v<--","Left Turn and Thru, Broadside v<--",6,6,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Right Turn and Thru, Broadside ^<--","Right Turn and Thru, Broadside ^<--",6,6,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Right Turn and Thru, Angle Broadside -->^--","Right Turn and Thru, Angle Broadside -->^--",6,6,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left Turn and Thru, Same Direction Sideswipe/Angle Crash vv--","Left Turn and Thru, Same Direction Sideswipe/Angle Crash vv--",99,99,AMBIGUOUS_SOURCE_CATEGORY,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Right Turn and Thru, Same Direction Sideswipe/Angle Crash ^^--","Right Turn and Thru, Same Direction Sideswipe/Angle Crash ^^--",99,99,AMBIGUOUS_SOURCE_CATEGORY,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left Turns, Opposite Directions, Head On/Angle Crash --^v--","Left Turns, Opposite Directions, Head On/Angle Crash --^v--",99,99,AMBIGUOUS_SOURCE_CATEGORY,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left Turn and Thru, Head On ^v--","Left Turn and Thru, Head On ^v--",2,2,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Right Turn and Thru, Head On v^--","Right Turn and Thru, Head On v^--",2,2,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left and Right Turns, Simultaneous Turn Crash --vv--","Left and Right Turns, Simultaneous Turn Crash --vv--",11,11,COARSENED_FROM_SOURCE,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left Turns, Same Direciton, Rear End v--v--","Left Turns, Same Direciton, Rear End v--v--",1,1,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Left Turns, Same Direction, Rear End v--v--","Left Turns, Same Direction, Rear End v--v--",1,1,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Right Turn, Same Direciton, Rear End ^--^--","Right Turn, Same Direciton, Rear End ^--^--",1,1,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,manner,"Right Turn, Same Direction, Rear End ^--^--","Right Turn, Same Direction, Rear End ^--^--",1,1,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,weather,Freezing Precipitation,Freezing Precipitation,FREEZING_RAIN_DRIZZLE,FREEZING_RAIN_DRIZZLE,COARSENED_FROM_SOURCE,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,weather,Wind,Wind,OTHER,OTHER,COARSENED_FROM_SOURCE,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,light_condition,Day,Day,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,light_condition,Night,Night,DARK_UNKNOWN_LIGHTING,DARK_UNKNOWN_LIGHTING,COARSENED_FROM_SOURCE,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Ice,Ice,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Slush,Slush,SLUSH,SLUSH,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,"Sand, mud, dirt, oil, gravel","Sand, mud, dirt, oil, gravel",SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,COARSENED_FROM_SOURCE,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Other - Explain in Narrative,Other - Explain in Narrative,OTHER,OTHER,CROSSWALK,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Water (standing / moving),Water (standing / moving),WATER,WATER,COARSENED_FROM_SOURCE,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED
+VT,*,road_surface_condition,Not Reported,Not Reported,UNKNOWN,UNKNOWN,SOURCE_NOT_REPORTED,MMUCC6,VTrans CrashPQT public field labels and Vermont UCRF Investigator Guide 2017,REVIEWED

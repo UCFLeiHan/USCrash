@@ -1,0 +1,26 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+ME,*,severity,Fatal (FARS),Fatal (FARS),K,Fatal injury,CROSSWALK,analysis_crash_severity_kabco,Maine public portal embedded label,REVIEWED
+ME,*,severity,Property Damage Only,Property Damage Only,O,No apparent injury / property damage only,CROSSWALK,analysis_crash_severity_kabco,Maine public portal embedded label,REVIEWED
+ME,*,severity,Injury,Injury,U,Injury; KABCO level not disclosed,COARSE_CROSSWALK,analysis_crash_severity_kabco,Maine public portal only discloses Injury,REVIEWED
+ME,*,severity,Unknown,Unknown,U,Unknown,CROSSWALK,analysis_crash_severity_kabco,Maine public portal embedded label,REVIEWED
+ME,*,severity,,,,,UNAVAILABLE,analysis_crash_severity_kabco,Source value blank,REVIEWED
+ME,*,manner,Rear End / Sideswipe,Rear End / Sideswipe,,Manner not uniquely recoverable from grouped Maine crash type,UNRESOLVED_CODE,MMUCC6-C09,Maine public crash type combines multiple MMUCC manners,REVIEWED
+ME,*,manner,Went Off Road,Went Off Road,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Deer,Deer,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Intersection Movement,Intersection Movement,,Manner not uniquely recoverable from grouped Maine crash type,UNRESOLVED_CODE,MMUCC6-C09,Maine public crash type combines multiple MMUCC manners,REVIEWED
+ME,*,manner,Head-on / Sideswipe,Head-on / Sideswipe,,Manner not uniquely recoverable from grouped Maine crash type,UNRESOLVED_CODE,MMUCC6-C09,Maine public crash type combines multiple MMUCC manners,REVIEWED
+ME,*,manner,Other,Other,11,Other,CROSSWALK,MMUCC6-C09,Maine public portal embedded label,REVIEWED
+ME,*,manner,Object in Road,Object in Road,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Moose,Moose,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Pedestrians,Pedestrians,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,All Other Animal,All Other Animal,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Thrown or Falling Object,Thrown or Falling Object,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Bicycle,Bicycle,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Fire,Fire,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Rollover,Rollover,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Bear,Bear,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Turkey,Turkey,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Jackknife,Jackknife,,Manner not uniquely recoverable from grouped Maine crash type,UNRESOLVED_CODE,MMUCC6-C09,Maine public crash type combines multiple MMUCC manners,REVIEWED
+ME,*,manner,,,,,UNAVAILABLE,MMUCC6-C09,Source value blank,REVIEWED
+ME,*,manner,Train,Train,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED
+ME,*,manner,Submersion,Submersion,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Maine crash type explicitly identifies non-motor-vehicle event,REVIEWED

@@ -1,0 +1,44 @@
+{
+  "state": "WY",
+  "generated_utc": "2026-10-13T20:01:56.906934+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "WY_candidate_2016_2025_1",
+      "header_signature": "fe0304008e4975c7",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "WY/2016/WY_crash_2016.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 72,
+      "field_candidates": {
+        "crash_id": "INTCRASHID",
+        "crash_date": "DATCRASHDATE",
+        "crash_time": "INTMILITARYCRASHTIME",
+        "latitude": "DECSYSTEMLATITUDE",
+        "longitude": "DECSYSTEMLONGITUDE",
+        "severity": "SEVERITY",
+        "manner_collision": "MANNER_OF_COLLISION"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

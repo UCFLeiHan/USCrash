@@ -1,0 +1,67 @@
+{
+  "state": "NC",
+  "generated_utc": "2026-10-13T20:01:56.899939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "NC_candidate_2016_2020_1",
+      "header_signature": "af055971471f288d",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "example_source": "NC/2016/NCDOT_KA_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 36,
+      "field_candidates": {
+        "crash_id": "Crash_ID",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "Crash_Seve",
+        "manner_collision": "Crash_Type"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 0,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NC_candidate_2021_2026_2",
+      "header_signature": "5c7074a5032ce8c3",
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "NC/2021/NCDOT_public_crash_table.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 36,
+      "field_candidates": {
+        "crash_id": "Crash_ID",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "manner_collision": "CrashType"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 20,
+        "time": 0,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

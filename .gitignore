@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+/data_downloads/
+/Crash/
+/States/*
+!/States/field_schemas/
+/verification/
+/Unified_MMUCC6/data/
+/dataset/data/
+*.zip
+*.7z
+*.parquet

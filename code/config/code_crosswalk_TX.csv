@@ -1,0 +1,97 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+TX,TX_CRIS_2018_2026_SAFE,severity,0,,U,Unknown,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,severity,1,,A,Suspected serious injury,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,severity,2,,B,Suspected minor injury,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,severity,3,,C,Possible injury,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,severity,4,,K,Fatal injury,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,severity,5,,O,Not injured,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,1,,0,Not collision with motor vehicle in transport,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,2,,0,Not collision with motor vehicle in transport,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,3,,0,Not collision with motor vehicle in transport,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,4,,0,Not collision with motor vehicle in transport,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,5,,0,Not collision with motor vehicle in transport,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,10,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,11,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,12,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,13,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,14,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,15,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,16,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,17,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,18,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,19,,6,Angle,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,20,,1,Front to rear,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,22,,1,Front to rear,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,21,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,23,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,24,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,25,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,26,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,27,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,28,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,29,,7,Sideswipe same direction,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,30,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,31,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,32,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,33,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,34,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,35,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,36,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,37,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,38,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,39,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,40,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,41,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,42,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,43,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,44,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,45,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,manner,46,,11,Other/insufficient geometry for narrower C09,CONDITIONAL_CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,0,,UNKNOWN,Unknown,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,2,,RAIN,Rain,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,3,,SLEET_HAIL_FREEZING_RAIN,Sleet/hail,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,4,,SNOW,Snow,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,5,,FOG_SMOKE,Fog,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,6,,BLOWING_SAND_OR_SNOW,Blowing sand/snow,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,7,,SEVERE_CROSSWIND,Severe crosswinds,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,8,,OTHER,Other,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,11,,CLEAR,Clear,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,weather,12,,CLOUDY,Cloudy,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,0,,UNKNOWN,Unknown,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,1,,DAYLIGHT,Daylight,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,2,,DAWN,Dawn,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,3,,DARK_UNLIGHTED,Dark not lighted,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,4,,DARK_LIGHTED,Dark lighted,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,5,,DUSK,Dusk,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,6,,DARK_UNKNOWN_LIGHTING,Dark unknown lighting,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,light_condition,8,,OTHER,Other,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,0,,UNKNOWN,Unknown,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,1,,DRY,Dry,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,2,,WET,Wet,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,3,,WATER,Standing water,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,5,,SLUSH,Slush,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,6,,ICE_FROST,Ice,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,8,,OTHER,Other,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,9,,SNOW,Snow,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,road_surface_condition,10,,MUD_DIRT_GRAVEL,Sand mud dirt,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,1,,COLLISION_WITH_PEDESTRIAN,COLLISION_WITH_PEDESTRIAN,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,1,,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,2,,COLLISION_WITH_MOTOR_VEHICLE_IN_TRANSPORT,COLLISION_WITH_MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,2,,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,3,,COLLISION_WITH_RAILWAY_VEHICLE_TRAIN,COLLISION_WITH_RAILWAY_VEHICLE_TRAIN,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,3,,TRAIN,TRAIN,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,4,,COLLISION_WITH_PARKED_MOTOR_VEHICLE,COLLISION_WITH_PARKED_MOTOR_VEHICLE,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,4,,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,5,,COLLISION_WITH_PEDALCYCLIST,COLLISION_WITH_PEDALCYCLIST,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,5,,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,6,,COLLISION_WITH_ANIMAL,COLLISION_WITH_ANIMAL,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,6,,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,7,,COLLISION_WITH_OTHER_FIXED_OBJECT,COLLISION_WITH_OTHER_FIXED_OBJECT,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,7,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,8,,COLLISION_WITH_OTHER_NON_FIXED_OBJECT,COLLISION_WITH_OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,8,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,9,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,9,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event,10,,OVERTURN_ROLLOVER,OVERTURN_ROLLOVER,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,first_harmful_event_group,10,,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,Official TxDOT CRIS lookup table (schemas 2018/2023/2026),REVIEWED
+TX,TX_CRIS_2018_2026_SAFE,severity,95,,O,No injury; all 10 observed code-95 records have zero deaths and zero injuries,DERIVED_ZERO_FATALITY_INJURY_COUNTS,project audited exception,Code 95 absent from TxDOT lookup schemas 2018/2023/2026; record-level injury/fatality counts audited,REVIEWED

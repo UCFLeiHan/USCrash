@@ -1,0 +1,175 @@
+﻿path,stage,description,execution
+code/acquisition/_write_paper_tables.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/analyze_national_crash_comprehensive.py,analysis_or_support,Comprehensive national analysis of the multi-state crash archive.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/analyze_national_crash_geography.py,analysis_or_support,Sample crash coordinates nationwide and produce analysis figures + summary tables.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/audit_redistribution_sources.py,audit_or_revision_control,Collect per-state SOURCE.md URLs and overview notes for redistribution audit.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/build_current_inventory.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/build_state_overview.py,preparation_or_enrichment,Build statewide crash-data overview from local States/ inventory + known notes.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/build_states_inventory_html.py,preparation_or_enrichment,Build States/ inventory HTML + per-state field/attribute maps for unified ingest.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/consolidate_and_verify.py,analysis_or_support,Final archive audit after download processes finish; no source-data cleaning.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_alabama_crashes.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_arkansas_acat.py,acquisition,Download Arkansas ARDOT ACAT crash records and split them into yearly CSVs.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_ca_fast.py,acquisition,"Prefill pending historical CHP files using checked byte ranges, without sharing partial files.",EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_district_of_columbia.py,acquisition,Download DDOT/MPD public crash points + details from Open Data DC / ArcGIS.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_expansion1.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_expansion2.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_expansion3.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_expansion4.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_expansion5.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_expansionCO.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_expansionNY.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_fars.py,acquisition,Official nationwide fatal-crash annual CSV bundles; separate from all-crash state archives.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_georgia_dashboard.py,acquisition,Download Georgia GDOT dashboard crash records by year in the background.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_maine_public.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_michigan_arcgis.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_mississippi.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_missouri.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_nebraska_2021_current.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_nebraska_portal.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_nevada_arcgis_2019_2023.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_new_jersey_2001_2018.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_new_jersey_2020_2023.py,acquisition,Download NJDOT statewide crash ZIPs for 2020-2023 and extract to yearly CSVs.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_new_jersey_portal_api.py,acquisition,Download NJDOT AASHTOWare Crash Portal crash rows for years without classic ZIPs.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_new_mexico_2019.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_ok_remaining.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_pa.py,acquisition,"Official PennDOT statewide annual raw ZIPs, as linked by the public download web map.",EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_supplement.py,acquisition,Complete sources needing alternate query/date handling; uses main downloader.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_us_crashes.py,acquisition,Archive identified public official crash sources by jurisdiction/year.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_wa.py,acquisition,Archive public Washington CAT summary exports; partition below the public export limit.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/download_wisconsin_box_annual.py,acquisition,Download WisDOT public annual crash extracts listed in WI_Annual_Crash_Data_Flyer.pdf.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/enrich_kentucky_incidents.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/enrich_mn_rsic_2025.py,preparation_or_enrichment,Join annual Minnesota RSIC detail to MnCrash public collision records.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/enrich_montana_crashes.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/enrich_nevada_official.py,preparation_or_enrichment,Build one auditable crash-level Nevada table from official Crash/Person/Vehicle CSVs.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/enrich_pennsylvania_flags.py,preparation_or_enrichment,Attach PennDOT's official crash-level FLAGS table to annual CRASH rows.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/enrich_tennessee_titan.py,preparation_or_enrichment,Create reproducible crash-level Tennessee TITAN enrichments from linked official tables.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/enrich_texas_cris.py,preparation_or_enrichment,Build PII-minimized crash-level analytical files from official TxDOT CRIS extracts.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/kentucky_crash_downloader.py,analysis_or_support,Download recent Kentucky statewide crash extracts from crashinformationky.org.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/maine_crash_public_downloader.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/michigan_crash_downloader.py,analysis_or_support,"Download Michigan Traffic Crash Facts list records, 90 rows per page.",EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/organize_crash_data.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/organize_for_github.py,analysis_or_support,Organize States/ for GitHub: year folders + SOURCE.md; drop process/zip clutter.,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/prefill_fdot.py,analysis_or_support,"Prefill future FDOT jobs with four independent readonly ID batches, without touching active partial files.",EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/process_wy_official_2016_2025.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/acquisition/split_mt_years.py,analysis_or_support,Split official MT originals into calendar-year copies; preserve the original workbooks.,EXPLICIT_ONLY; importing some scripts can write files
+States/SD/code/acquisition/download_sd_crashes.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+States/TN/code/acquisition/download_tn_arcgis.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+States/TN/code/acquisition/partition_titan_extract.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+States/UT/code/acquisition/download_ut_crashes.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+States/VA/code/acquisition/download_va_crashes.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+States/VT/code/acquisition/download_vt_crashes.py,acquisition,,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_coordinate_supplement_2026-10-16_010438/executed_scripts/finalize_ca_coordinate_revision_20261016.py,audit_or_revision_control,Summarize the two recorded passes and normalized-key withdrawals.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_coordinate_supplement_2026-10-16_010438/executed_scripts/reconcile_ca_lapd_normalized_keys.py,coordinate_revision,Withdraw earlier v1 local supplements invalidated by normalized-key ambiguity.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_coordinate_supplement_2026-10-16_010438/executed_scripts/supplement_ca_coordinates.py,coordinate_revision,Reproducible conservative local-source coordinate overlay; source files immutable.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_coordinate_supplement_2026-10-16_010438/executed_scripts/validate_ca_coordinate_supplement.py,audit_or_revision_control,Independent post-write accounting of all changed canonical annual files.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/audit_ca_other_cities.py,audit_or_revision_control,Independent audit of CA other-city overlays and source/precision limitations.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/coordinate_supplement_utils.py,analysis_or_support,Audited coordinate-only promotions. All other canonical fields are immutable.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/document_ca_source_inventory.py,analysis_or_support,"Document archived public source coverage, linkage tiers and clock limitations.",EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/download_ca_other_city_sources.py,acquisition,Cache official public CA city/region point sources with completeness checks.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/finalize_ca_other_cities.py,audit_or_revision_control,Publish current CA revision manifest and reconcile refreshed canonical availability.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/pilot_ca_composite_coordinates.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/review_ca_other_city_candidates.py,audit_or_revision_control,Final conservative review before coordinate-only promotion.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/supplement_ca_lacounty_report_coordinates.py,coordinate_revision,Exact agency-scoped police report number + date/roads/counts linkage.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/supplement_ca_other_cities.py,coordinate_revision,Reviewed composite linkage of official regional/city points to existing CCRS crashes.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/supplement_ca_pasadena_report_coordinates.py,coordinate_revision,Pasadena exact report ID linkage with independent timestamp/road/outcome checks.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/CA_other_cities_2026-10-16/executed_scripts/validate_ca_composite_negative_controls.py,audit_or_revision_control,"Date-displacement negative controls; diagnostic, not a formal false-match rate.",EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/audit_coordinate_recovery.py,audit_or_revision_control,Independent before/final comparison and coordinate-only recovery report.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/coordinate_supplement_utils.py,analysis_or_support,Audited coordinate-only promotions. All other canonical fields are immutable.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/finalize_coordinate_recovery_report.py,audit_or_revision_control,Reconcile ledger accounting against an independent full canonical availability scan.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/run_coordinate_recovery.py,coordinate_revision,Sequential coordinate overlay runner. Default: audit only; --apply applies reviewed overlays.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_al_care_coordinates.py,coordinate_revision,Recover explicitly published CARE historical coordinate columns omitted by old export.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_ca_coordinates.py,coordinate_revision,Reproducible conservative local-source coordinate overlay; source files immutable.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_id_published_geometry.py,coordinate_revision,Restore ITD published map geometry; never infer points from blank GPS fields.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_ma_archived_geometry.py,coordinate_revision,Recover existing declared WGS84 geometry when reported MA LAT/LON is absent.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_nc_ka_coordinates.py,coordinate_revision,Use archived official NCDOT K/A points to fill exact-ID/date matched crashes.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_nc_public_mapped_layers.py,coordinate_revision,Download public NCDOT mapped subsets; link only exact Crash ID/date pairs.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_nj_dvrpc_coordinates.py,coordinate_revision,"Use DVRPC's published NJDOT/LRS geocoded points, not invented GPS.",EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_oh_cleveland_coordinates.py,coordinate_revision,City-published ODOT/GCAT points linked to Ohio's retained 2017–2020 crashes.,EXPLICIT_ONLY; importing some scripts can write files
+verification/unified_revision_evidence/coordinate_recovery_2026-10-16/executed_scripts/supplement_tx_austin_coordinates.py,coordinate_revision,Fill statewide CRIS missing locations from preserved official Austin exports.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/analyze_chicago_cpd_recent.py,analysis_or_support,Separate CPD annual and matched Jan–Sep comparisons; never merge with IDOT.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/analyze_chicago_temporal.py,analysis_or_support,Read-only city-label annual crash trends and an independent CPD source comparison.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/archive/audit_existing_ms_2004_2008.py,audit_or_revision_control,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/archive/migrate_batch1_74_to_77.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_all_state_annual_integrity.py,audit_or_revision_control,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_ca_city_coordinates.py,audit_or_revision_control,Audit original CCRS coordinate availability by city/year and reporting code.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_ca_other_cities.py,audit_or_revision_control,Independent audit of CA other-city overlays and source/precision limitations.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_coordinate_recovery.py,audit_or_revision_control,Independent before/final comparison and coordinate-only recovery report.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_cross_state_consistency.py,audit_or_revision_control,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_mo_recent_coverage.py,audit_or_revision_control,Read-only MO 2023-2026 coverage audit; preserve current public count evidence.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_source_inventory.py,audit_or_revision_control,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_unified_storage.py,audit_or_revision_control,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_wa_srff_revision.py,audit_or_revision_control,Independent conservation/lineage checks for the promoted WA source union.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/audit_xy_coordinates.py,audit_or_revision_control,Read-only XY/CRS validation for MT and NV; official inputs never change.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_analysis_readiness.py,preparation_or_enrichment,Variable-specific screening from existing QA; no crash records are modified.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_ca_crash_level.py,preparation_or_enrichment,Build reproducible California crash-level inputs from the three CCRS tables.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_external_validation_and_eligibility.py,preparation_or_enrichment,Freeze external comparison evidence and conservative analysis eligibility.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_final_42_state_integrity_audit.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_oh_crash_level.py,preparation_or_enrichment,Build reproducible Ohio crash-level inputs without double-counting flat rows.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_preflight.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_sd_crash_level.py,preparation_or_enrichment,"Aggregate South Dakota crash, person, vehicle and weather tables safely.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_source_file_manifest.py,preparation_or_enrichment,Build a deterministic SHA-256 manifest for the preserved source tree.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_ut_crash_level.py,preparation_or_enrichment,Create one reviewed Utah crash-level table per year from official UDOT exports.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_va_crash_level.py,preparation_or_enrichment,Normalize official VDOT annual crash layers to reviewed crash-level inputs.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/build_wa_crash_level.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/check_ca_regional_alternatives.py,audit_or_revision_control,"Archive and inspect the public SANDAG regional alternative, no data merging.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/coordinate_supplement_utils.py,analysis_or_support,Audited coordinate-only promotions. All other canonical fields are immutable.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/describe_crash_attributes.py,analysis_or_support,"Read-only, reproducible crash attribute diagnostics for a common year.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/discover_state_schemas.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/document_ca_source_inventory.py,analysis_or_support,"Document archived public source coverage, linkage tiers and clock limitations.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/download_ca_other_city_sources.py,acquisition,Cache official public CA city/region point sources with completeness checks.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/enrich_ct_entity_counts.py,preparation_or_enrichment,Aggregate official CT person/vehicle entity tables to canonical crash counts/flags.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/enrich_id_from_units.py,preparation_or_enrichment,Conservatively enrich Idaho crash tables from official crash-unit MHE records.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/enrich_ms_from_vehicle_events.py,preparation_or_enrichment,Conservatively enrich Mississippi crashes from ordered vehicle events.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/enrich_wa_from_srff.py,preparation_or_enrichment,"Deterministic WA CAT + agency SRFF union, staged validation and promotion.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/export_mmucc6_dictionary.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/finalize_ca_coordinate_revision_20261016.py,audit_or_revision_control,Summarize the two recorded passes and normalized-key withdrawals.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/finalize_ca_other_cities.py,audit_or_revision_control,Publish current CA revision manifest and reconcile refreshed canonical availability.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/finalize_coordinate_recovery_report.py,audit_or_revision_control,Reconcile ledger accounting against an independent full canonical availability scan.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/finalize_fl_revision_reports.py,audit_or_revision_control,Refresh current release summaries after an audited FL promotion; no raw writes.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/finalize_wa_srff_revision.py,audit_or_revision_control,Refresh current documentation only after the WA revision validates.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/harmonize_crash.py,core_harmonization_validation,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/inspect_xy_crs.py,audit_or_revision_control,Capture official CRS evidence without modifying source crash records.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/link_ca_regional_coordinates.py,analysis_or_support,"Download audit, annual coordinate extracts, and strict ID/date/street linkage.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/normalize_source_formats.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/pilot_ca_composite_coordinates.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/pilot_ca_coordinate_linkage_la.py,analysis_or_support,Stage candidate coordinate recovery from official LAPD historical records.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/pilot_ca_coordinate_linkage_sf.py,analysis_or_support,Non-destructive proof of coordinate recovery from local official SF data.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/plot_spatiotemporal_quality.py,analysis_or_support,"Read-only, full-record spatiotemporal diagnostics for the formal crash CSVs.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/prepare_nj_crash_level.py,preparation_or_enrichment,"Build named, crash-level New Jersey staging tables without modifying source files.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/prepare_vt_crash_level.py,preparation_or_enrichment,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/prepare_wa_srff_rules.py,preparation_or_enrichment,"Create an explicit, reviewable WA SRFF crosswalk from profiled labels.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/profile_state_codes.py,core_harmonization_validation,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/project_source_coordinates.py,core_harmonization_validation,"Explicit, version-specific XY conversion; no inferred CRS or geocoding.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/rebuild_mt_coordinates.py,analysis_or_support,"Stage, validate, compare and promote MT coordinates. Raw sources are read-only.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/reconcile_ca_lapd_normalized_keys.py,coordinate_revision,Withdraw earlier v1 local supplements invalidated by normalized-key ambiguity.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/review_ca_other_city_candidates.py,audit_or_revision_control,Final conservative review before coordinate-only promotion.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/run_coordinate_recovery.py,coordinate_revision,Sequential coordinate overlay runner. Default: audit only; --apply applies reviewed overlays.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/summarize_harmonization.py,analysis_or_support,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_al_care_coordinates.py,coordinate_revision,Recover explicitly published CARE historical coordinate columns omitted by old export.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_ca_coordinates.py,coordinate_revision,Reproducible conservative local-source coordinate overlay; source files immutable.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_ca_lacounty_report_coordinates.py,coordinate_revision,Exact agency-scoped police report number + date/roads/counts linkage.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_ca_other_cities.py,coordinate_revision,Reviewed composite linkage of official regional/city points to existing CCRS crashes.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_ca_pasadena_report_coordinates.py,coordinate_revision,Pasadena exact report ID linkage with independent timestamp/road/outcome checks.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_id_published_geometry.py,coordinate_revision,Restore ITD published map geometry; never infer points from blank GPS fields.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_ma_archived_geometry.py,coordinate_revision,Recover existing declared WGS84 geometry when reported MA LAT/LON is absent.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_nc_ka_coordinates.py,coordinate_revision,Use archived official NCDOT K/A points to fill exact-ID/date matched crashes.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_nc_public_mapped_layers.py,coordinate_revision,Download public NCDOT mapped subsets; link only exact Crash ID/date pairs.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_nj_dvrpc_coordinates.py,coordinate_revision,"Use DVRPC's published NJDOT/LRS geocoded points, not invented GPS.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_oh_cleveland_coordinates.py,coordinate_revision,City-published ODOT/GCAT points linked to Ohio's retained 2017–2020 crashes.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/supplement_tx_austin_coordinates.py,coordinate_revision,Fill statewide CRIS missing locations from preserved official Austin exports.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/validate_ca_composite_negative_controls.py,audit_or_revision_control,"Date-displacement negative controls; diagnostic, not a formal false-match rate.",EXPLICIT_ONLY; importing some scripts can write files
+code/processing/validate_ca_coordinate_supplement.py,audit_or_revision_control,Independent post-write accounting of all changed canonical annual files.,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/validate_harmonized_crash.py,core_harmonization_validation,,EXPLICIT_ONLY; importing some scripts can write files
+code/processing/verify_promote_fl_revision.py,audit_or_revision_control,Validate and promote the isolated 2026-10-14 Florida rebuild.,EXPLICIT_ONLY; importing some scripts can write files
+code/reproducibility/compare_replay.py,reproducibility,,EXPLICIT_ONLY; use code/README.md
+code/reproducibility/recheck_base_and_fix.py,reproducibility,Diagnostic reruns; frozen code and canonical outputs remain untouched.,EXPLICIT_ONLY; use code/README.md
+code/reproducibility/replay_coordinate_stages.py,reproducibility,"Rerun coordinate linkage using preserved donor snapshots, without network acquisition.",EXPLICIT_ONLY; use code/README.md
+code/reproducibility/replay_prepared_state.py,reproducibility,"Rebuild from preserved prepared inputs in a fresh, isolated output directory.",EXPLICIT_ONLY; use code/README.md
+code/reproducibility/replay_representative_years.py,reproducibility,Isolated representative-year rerun. Never writes into the original source/data tree.,EXPLICIT_ONLY; use code/README.md
+code/reproducibility/replay_wa_union.py,reproducibility,Full WA dependency rerun: cross-year ID reconciliation needs all ten CAT baselines.,EXPLICIT_ONLY; use code/README.md
+code/reproducibility/run_representative_replay.py,reproducibility,"One command for the representative-year replay, including documented repairs and overlays.",EXPLICIT_ONLY; use code/README.md
+code/reproducibility/summarize_representative_replay.py,reproducibility,,EXPLICIT_ONLY; use code/README.md
+code/reproducibility/verify_snapshot.py,reproducibility,Verify archived bytes against this release; never regenerate or alter data.,EXPLICIT_ONLY; use code/README.md
+code/processing/build_source_field_inventory.py,documentation_inventory,Index all configured annual source headers and current source bindings.,EXPLICIT_ONLY; read-only for source and final records.
+code/processing/rebuild_fl_signal4_2017_2019.py,processing,Isolated rebuild from designated Signal4 sources with validation,EXPLICIT_ONLY; guarded writes
+code/processing/finalize_fl_signal4_2017_2019.py,processing,One-time audited promotion of the 2026-10-18 Florida source revision,EXPLICIT_ONLY; guarded writes

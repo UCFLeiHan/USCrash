@@ -1,0 +1,104 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+MI,*,severity,1,1,K,K,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,2,2,A,A,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,3,3,B,B,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,4,4,C,C,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,5,5,O,O,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,Fatal Injury (K),Fatal Injury (K),K,K,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,Suspected Serious Injury (A),Suspected Serious Injury (A),A,A,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,Suspected Minor Injury (B),Suspected Minor Injury (B),B,B,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,Possible Injury (C),Possible Injury (C),C,C,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,severity,No Injury (O),No Injury (O),O,O,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,1,1,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,2,2,2,Front to front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,3,3,6,Angle,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,4,4,6,Angle,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,5,5,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,6,6,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,7,7,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,8,8,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,9,9,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,10,10,11,Other,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,97,97,11,Other,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,98,98,99,Unknown,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Single Motor Vehicle,Single Motor Vehicle,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Head-On,Head-On,2,Front to front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Head-On - Left Turn,Head-On - Left Turn,6,Angle,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Angle,Angle,6,Angle,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Rear-End,Rear-End,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Rear-End - Left Turn,Rear-End - Left Turn,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Rear-End - Right Turn,Rear-End - Right Turn,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Sideswipe - Same Direction,Sideswipe - Same Direction,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Sideswipe - Opposite Directions,Sideswipe - Opposite Directions,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Backing,Backing,11,Other,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Other,Other,11,Other,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,manner,Unknown,Unknown,99,Unknown,CROSSWALK,MMUCC6-C09,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,1,1,CLEAR,CLEAR,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,2,2,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,3,3,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,4,4,RAIN,RAIN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,5,5,SNOW,SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,6,6,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,7,7,SLEET_HAIL_FREEZING_RAIN,SLEET_HAIL_FREEZING_RAIN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,8,8,BLOWING_SAND_OR_SNOW,BLOWING_SAND_OR_SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,9,9,BLOWING_SAND_OR_SNOW,BLOWING_SAND_OR_SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,10,10,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,98,98,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,57,57,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,20,20,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,23,23,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Fog,Fog,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Severe Crosswinds,Severe Crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Sleet/Hail,Sleet/Hail,SLEET_HAIL_FREEZING_RAIN,SLEET_HAIL_FREEZING_RAIN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Blowing Snow,Blowing Snow,BLOWING_SAND_OR_SNOW,BLOWING_SAND_OR_SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,"Blowing Sand, Soil, Dirt","Blowing Sand, Soil, Dirt",BLOWING_SAND_OR_SNOW,BLOWING_SAND_OR_SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Smoke,Smoke,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,1,1,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,2,2,DAWN,DAWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,3,3,DUSK,DUSK,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,4,4,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,5,5,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,97,97,OTHER,OTHER,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,98,98,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,6,6,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,8,8,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,9,9,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,Dawn,Dawn,DAWN,DAWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,Dusk,Dusk,DUSK,DUSK,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,Dark - Lighted,Dark - Lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,Dark - Unlighted,Dark - Unlighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,light_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,1,1,DRY,DRY,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,2,2,WET,WET,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,3,3,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,4,4,SNOW,SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,5,5,MUD_DIRT_GRAVEL,MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,6,6,SLUSH,SLUSH,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,7,7,DEBRIS,DEBRIS,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,8,8,WATER_STANDING_MOVING,WATER_STANDING_MOVING,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,9,9,SAND,SAND,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,10,10,OIL,OIL,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,97,97,OTHER,OTHER,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,98,98,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,34,34,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,36,36,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Ice,Ice,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,"Mud, Dirt, Gravel","Mud, Dirt, Gravel",MUD_DIRT_GRAVEL,MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Slush,Slush,SLUSH,SLUSH,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Debris,Debris,DEBRIS,DEBRIS,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Water (standing/moving),Water (standing/moving),WATER_STANDING_MOVING,WATER_STANDING_MOVING,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Sand,Sand,SAND,SAND,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Oily,Oily,OIL,OIL,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED
+MI,*,road_surface_condition,Uncoded & Errors,Uncoded & Errors,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Michigan MSP UD-10 Traffic Crash Report User Guide,REVIEWED

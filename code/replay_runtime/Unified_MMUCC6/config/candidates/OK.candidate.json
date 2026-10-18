@@ -1,0 +1,33 @@
+{
+  "state": "OK",
+  "generated_utc": "2026-10-13T20:01:56.902939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "OK_candidate_2019_2021_1",
+      "header_signature": "57566d6224f734ee",
+      "years": [
+        2019,
+        2020,
+        2021
+      ],
+      "example_source": "OK/2019/OK_2019_OHSO_KAB_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 42,
+      "field_candidates": {
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "severity": "SEVERITY"
+      },
+      "completeness_score": 40,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

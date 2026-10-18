@@ -1,0 +1,55 @@
+{
+  "state": "WY",
+  "state_name": "Wyoming",
+  "official_agency": "Wyoming Department of Transportation",
+  "crash_id_scope": "YEAR",
+  "deduplicate_by_crash_id": true,
+  "coordinate_bounds": [
+    -111.2,
+    40.8,
+    -103.8,
+    45.2
+  ],
+  "versions": [
+    {
+      "schema_id": "WY_official_2016_2025",
+      "year_start": 2016,
+      "year_end": 2025,
+      "source_patterns": [
+        "WY_crash_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "INTCRASHID",
+        "crash_date": "DATCRASHDATE",
+        "crash_time_raw": "INTMILITARYCRASHTIME",
+        "crash_hour": "?CRASH_HOUR_NOT_PROVIDED",
+        "latitude": "DECSYSTEMLATITUDE",
+        "longitude": "DECSYSTEMLONGITUDE",
+        "county": "VCHCOUNTY",
+        "city": "VCHCITY",
+        "severity_raw_code": "SEVERITY",
+        "severity_raw_label": "SEVERITY",
+        "manner_raw_code": "MANNER_OF_COLLISION",
+        "manner_raw_label": "MANNER_OF_COLLISION",
+        "fatalities": "TINTNUMBERKILLED",
+        "injuries": "TINTNUMBERINJURED",
+        "vehicles": "TINTNUMBERVEHICLES",
+        "weather_raw_code": "WEATHER",
+        "weather_raw_label": "WEATHER",
+        "light_raw_code": "LIGHTING",
+        "light_raw_label": "LIGHTING",
+        "road_surface_raw_code": "ROAD_CONDITION",
+        "road_surface_raw_label": "ROAD_CONDITION",
+        "first_harmful_event_raw_code": "FIRST_HARMFUL_EVENT",
+        "first_harmful_event_raw_label": "FIRST_HARMFUL_EVENT",
+        "alcohol_involved": "CHRALCOHOLINVOLVED",
+        "drug_involved": "CHRDRUGSINVOLVED",
+        "hit_and_run": "CHRHITANDRUN",
+        "work_zone_related": "WORK_ZONE_RELATED",
+        "school_bus_related": "SCHOOL_BUS_RELATED",
+        "pedestrian_count": "TINTNUMBERPEDESTRIANS",
+        "bicyclist_count": "TINTNUMBERPEDACYCLISTS"
+      }
+    }
+  ]
+}

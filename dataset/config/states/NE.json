@@ -1,0 +1,27 @@
+{
+  "state": "NE",
+  "state_name": "Nebraska",
+  "official_agency": "Nebraska Department of Transportation",
+  "crash_id_scope": "STATE",
+  "coordinate_bounds": [-104.2, 39.9, -95.2, 43.1],
+  "versions": [
+    {
+      "schema_id": "NDOT_Self_Service_Portal_2010_2026",
+      "year_start": 2010,
+      "year_end": 2026,
+      "source_patterns": ["NE_mapped_crashes_{year}.csv"],
+      "fields": {
+        "crash_id": "crash_key",
+        "crash_date": "date",
+        "crash_time_raw": "time",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "county": "county",
+        "severity_raw_code": "severity_code",
+        "severity_raw_label": "severity_code",
+        "weather_raw_code": "weather",
+        "weather_raw_label": "weather"
+      }
+    }
+  ]
+}

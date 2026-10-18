@@ -1,0 +1,46 @@
+{
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "official_agency": "Oklahoma Highway Safety Office / Oklahoma Department of Transportation",
+  "crash_id_scope": "STATE",
+  "deduplicate_by_crash_id": true,
+  "coordinate_bounds": [
+    -103.1,
+    33.6,
+    -94.4,
+    37.1
+  ],
+  "versions": [
+    {
+      "schema_id": "OK_OHSO_KAB_2019_2021",
+      "year_start": 2019,
+      "year_end": 2021,
+      "source_patterns": [
+        "OK_{year}_OHSO_KAB_crashes.csv"
+      ],
+      "fields": {
+        "crash_id": "DOC_ID",
+        "crash_date": "DATE",
+        "crash_time_raw": "TIME",
+        "latitude": "__geometry_latitude_wgs84|LATITUDE",
+        "longitude": "__geometry_longitude_wgs84|LONGITUDE",
+        "county": "COUNTY",
+        "city": "CITY",
+        "severity_raw_code": "SEVERITY",
+        "severity_raw_label": "SEVERITY",
+        "fatalities": "TOTAL_KILLED",
+        "injuries": "TOTAL_INJURED",
+        "vehicles": "NUMBER_OF_VEHICLES",
+        "weather_raw_code": "WEATHER",
+        "weather_raw_label": "WEATHER",
+        "light_raw_code": "LIGHTING",
+        "light_raw_label": "LIGHTING",
+        "work_zone_related": "WORKZONE",
+        "alcohol_involved": "ALCOHOL",
+        "drug_involved": "DRUG",
+        "speeding_involved": "SPEED",
+        "hit_and_run": "HIT_RUN"
+      }
+    }
+  ]
+}

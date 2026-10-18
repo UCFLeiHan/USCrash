@@ -1,0 +1,67 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+OH,*,severity,1,,K,K,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,severity,2,,A,A,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,severity,3,,B,B,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,severity,4,,C,C,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,severity,5,,O,O,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,manner,0,,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,1,,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,2,,2,Front to front,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,6,,6,Angle,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,7,,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,8,,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,11,,11,Other,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,99,,99,Unknown,CROSSWALK,MMUCC6-C09,Ohio crash type,REVIEWED
+OH,*,manner,,Not Collision Between Two Motor Vehicles in Transport,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Rear End,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Head On,2,Front to front,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Rear to Rear,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Backing,11,Other,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Angle,6,Angle,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Sideswipe Same Direction,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Sideswipe Opposite Direction,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,manner,,Other/Unknown,99,Unknown,CROSSWALK,MMUCC6-C09,Ohio crash dictionary,REVIEWED
+OH,*,weather,1,,CLEAR,Clear,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,2,,CLOUDY,Cloudy,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,3,,FOG_SMOKE,"Fog, smog, smoke",CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,4,,RAIN,Rain,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,5,,SLEET_HAIL,"Sleet, hail",CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,6,,SNOW,Snow,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,7,,SEVERE_CROSSWIND,Severe crosswinds,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,8,,BLOWING_SAND_SOIL,"Blowing sand, soil, dirt, snow",CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,9,,SLEET_HAIL,Freezing rain or drizzle,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,weather,99,,UNKNOWN,Other or unknown,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,light_condition,1,,DAYLIGHT,Daylight,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,light_condition,2,,OTHER,Dawn or dusk,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,light_condition,3,,DARK_LIGHTED,Dark lighted,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,light_condition,4,,DARK_UNLIGHTED,Dark unlighted,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,light_condition,5,,UNKNOWN,Dark unknown lighting,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,light_condition,9,,UNKNOWN,Other or unknown,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,1,,DRY,Dry,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,2,,WET,Wet,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,3,,SNOW,Snow,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,4,,ICE_FROST,Ice,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,5,,MUD_DIRT_GRAVEL,"Sand, mud, dirt, oil, gravel",CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,6,,WATER_STANDING_MOVING,Water standing or moving,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,7,,SLUSH,Slush,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,road_surface_condition,9,,UNKNOWN,Other or unknown,CROSSWALK,MMUCC6,Ohio crash data dictionary,REVIEWED
+OH,*,first_harmful_event,MOTOR_VEHICLE_IN_TRANSPORT,,MOTOR_VEHICLE_IN_TRANSPORT,Motor vehicle in transport,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,PARKED_VEHICLE,,PARKED_VEHICLE,Parked vehicle,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,PEDESTRIAN,,PEDESTRIAN,Pedestrian,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,PEDALCYCLIST,,PEDALCYCLIST,Pedalcyclist,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,ANIMAL,,ANIMAL,Animal,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,TRAIN,,TRAIN,Train,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,FIXED_OBJECT,,FIXED_OBJECT,Fixed object,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,OTHER_NON_FIXED_OBJECT,,OTHER_NON_FIXED_OBJECT,Other nonfixed object,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,OTHER_NON_COLLISION,,OTHER_NON_COLLISION,Other noncollision,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event,UNKNOWN,,UNKNOWN,Unknown,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,MOTOR_VEHICLE_IN_TRANSPORT,,MOTOR_VEHICLE_IN_TRANSPORT,Motor vehicle in transport,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,PARKED_VEHICLE,,PARKED_VEHICLE,Parked vehicle,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,PEDESTRIAN,,PEDESTRIAN,Pedestrian,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,PEDALCYCLIST,,PEDALCYCLIST,Pedalcyclist,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,ANIMAL,,ANIMAL,Animal,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,TRAIN,,TRAIN,Train,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,FIXED_OBJECT,,FIXED_OBJECT,Fixed object,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,OTHER_NON_FIXED_OBJECT,,OTHER_NON_FIXED_OBJECT,Other nonfixed object,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,OTHER_NON_COLLISION,,OTHER_NON_COLLISION,Other noncollision,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED
+OH,*,first_harmful_event_group,UNKNOWN,,UNKNOWN,Unknown,CROSSWALK,MMUCC6-C10,Ohio crash/unit data,REVIEWED

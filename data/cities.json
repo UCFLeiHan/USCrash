@@ -1,0 +1,122 @@
+[
+  {
+    "key": "chicago",
+    "name": "Chicago",
+    "state": "IL",
+    "counts": [
+      98438,
+      5601
+    ],
+    "source": "Manuscript Figure 5"
+  },
+  {
+    "key": "houston",
+    "name": "Houston",
+    "state": "TX",
+    "counts": [
+      86658,
+      28245
+    ],
+    "source": "Manuscript Figure 5"
+  },
+  {
+    "key": "phoenix",
+    "name": "Phoenix",
+    "state": "AZ",
+    "counts": [
+      41049,
+      9348
+    ],
+    "source": "Manuscript Figure 5"
+  },
+  {
+    "key": "san-francisco",
+    "name": "San Francisco",
+    "state": "CA",
+    "counts": [
+      4022,
+      2929
+    ],
+    "source": "Manuscript Figure 5"
+  },
+  {
+    "key": "hillsborough",
+    "name": "Hillsborough County",
+    "state": "FL",
+    "counts": [
+      26040,
+      11581
+    ],
+    "source": "Supplementary Figure S1"
+  },
+  {
+    "key": "atlanta",
+    "name": "Atlanta",
+    "state": "GA",
+    "counts": [
+      37189,
+      4306
+    ],
+    "source": "Supplementary Figure S1"
+  },
+  {
+    "key": "dallas",
+    "name": "Dallas",
+    "state": "TX",
+    "counts": [
+      36536,
+      26037
+    ],
+    "source": "Supplementary Figure S1"
+  },
+  {
+    "key": "san-antonio",
+    "name": "San Antonio",
+    "state": "TX",
+    "counts": [
+      42472,
+      5747
+    ],
+    "source": "Supplementary Figure S1"
+  },
+  {
+    "key": "cedar-rapids",
+    "name": "Cedar Rapids",
+    "state": "IA",
+    "counts": [
+      2008,
+      264
+    ],
+    "source": "Supplementary Figure S1"
+  },
+  {
+    "key": "aurora",
+    "name": "Aurora",
+    "state": "IL",
+    "counts": [
+      3541,
+      20
+    ],
+    "source": "Supplementary Figure S1"
+  },
+  {
+    "key": "kansas-city",
+    "name": "Kansas City",
+    "state": "MO",
+    "counts": [
+      17788,
+      4324
+    ],
+    "source": "Supplementary Figure S1"
+  },
+  {
+    "key": "seattle",
+    "name": "Seattle",
+    "state": "WA",
+    "counts": [
+      11532,
+      3542
+    ],
+    "source": "Supplementary Figure S1"
+  }
+]

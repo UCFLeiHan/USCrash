@@ -1,0 +1,32 @@
+state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+NE,*,severity,1,1,K,Fatal Injury (K),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,01,01,K,Fatal Injury (K),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,2,2,A,Suspected Serious Injury (A),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,02,02,A,Suspected Serious Injury (A),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,3,3,B,Suspected Minor Injury (B),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,03,03,B,Suspected Minor Injury (B),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,4,4,C,Possible Injury (C),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,04,04,C,Possible Injury (C),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,5,5,O,No Apparent Injury (O),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,05,05,O,No Apparent Injury (O),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary,REVIEWED
+NE,*,severity,6,6,O,No Apparent Injury (O),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary - NonReportable,REVIEWED
+NE,*,severity,06,06,O,No Apparent Injury (O),CROSSWALK,MMUCC6,Nebraska DOT portal severity summary - NonReportable,REVIEWED
+NE,*,weather,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Not stated,Not stated,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Not Stated,Not Stated,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,"Fog, smog, smoke","Fog, smog, smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,"Fog, Smog, Smoke","Fog, Smog, Smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,"Sleet, hail, freezing rain/drizzle","Sleet, hail, freezing rain/drizzle",SLEET_HAIL_FREEZING_RAIN,SLEET_HAIL_FREEZING_RAIN,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Freezing Rain/Drizzle,Freezing Rain/Drizzle,FREEZING_RAIN_DRIZZLE,FREEZING_RAIN_DRIZZLE,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Sleet or Hail,Sleet or Hail,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,"Blowing sand, soil, dirt, snow","Blowing sand, soil, dirt, snow",BLOWING_SAND_SOIL_DIRT_OR_SNOW,BLOWING_SAND_SOIL_DIRT_OR_SNOW,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,"Blowing Sand, Soil, Dirt","Blowing Sand, Soil, Dirt",BLOWING_SAND_SOIL_DIRT,BLOWING_SAND_SOIL_DIRT,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Blowing Snow,Blowing Snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Severe crosswinds,Severe crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Severe Crosswinds,Severe Crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Nebraska DOT portal embedded label,REVIEWED
+NE,*,weather,History,History,UNKNOWN,UNKNOWN,UNRESOLVED_SOURCE_VALUE,MMUCC6,Nebraska DOT portal embedded label - invalid portal artifact,REVIEWED

@@ -1,0 +1,186 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+WY,*,severity,FATAL INJURY,FATAL INJURY,K,Fatal injury,CROSSWALK,analysis_crash_severity_kabco,WY 2021 Data Dictionary and embedded official labels,REVIEWED
+WY,*,severity,SUSPECTED SERIOUS INJURY,SUSPECTED SERIOUS INJURY,A,Suspected serious injury,CROSSWALK,analysis_crash_severity_kabco,WY 2021 Data Dictionary and embedded official labels,REVIEWED
+WY,*,severity,SUSPECTED MINOR INJURY,SUSPECTED MINOR INJURY,B,Suspected minor injury,CROSSWALK,analysis_crash_severity_kabco,WY 2021 Data Dictionary and embedded official labels,REVIEWED
+WY,*,severity,POSSIBLE INJURY,POSSIBLE INJURY,C,Possible injury,CROSSWALK,analysis_crash_severity_kabco,WY 2021 Data Dictionary and embedded official labels,REVIEWED
+WY,*,severity,PROPERTY DAMAGE ONLY,PROPERTY DAMAGE ONLY,O,No apparent injury / property damage only,CROSSWALK,analysis_crash_severity_kabco,WY 2021 Data Dictionary and embedded official labels,REVIEWED
+WY,*,severity,UNKNOWN,UNKNOWN,U,Unknown,CROSSWALK,analysis_crash_severity_kabco,WY 2021 Data Dictionary and embedded official labels,REVIEWED
+WY,*,manner,Not a Collision w/2 Vehicles in Transport,Not a Collision w/2 Vehicles in Transport,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Rear End (Front to Rear),Rear End (Front to Rear),1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Rear to Front (Normally Backing),Rear to Front (Normally Backing),1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Head On (Front to Front),Head On (Front to Front),2,Front to front,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,"Angle Right (Front to Side, includes Broadside)","Angle Right (Front to Side, includes Broadside)",6,Angle,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,"Angle (Front to Side), Opposing Direction","Angle (Front to Side), Opposing Direction",6,Angle,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Angle Same Direction (Front to Side),Angle Same Direction (Front to Side),6,Angle,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Angle Direction not Specified,Angle Direction not Specified,6,Angle,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Sideswipe Same Direction (Passing),Sideswipe Same Direction (Passing),7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Sideswipe Opposite Direction (Meeting),Sideswipe Opposite Direction (Meeting),8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Rear to Side (Normally Backing),Rear to Side (Normally Backing),9,Rear-to-side or side-to-rear,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Rear to Rear (Normally Backing),Rear to Rear (Normally Backing),10,Rear to rear,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Other,Other,11,Other,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,Unknown,Unknown,99,Unknown,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 C09 and WY embedded label,REVIEWED
+WY,*,manner,,,,,UNAVAILABLE,MMUCC6-C09,Source value blank,REVIEWED
+WY,*,weather,Blizzard,Blizzard,SNOW,SNOW,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Blowing Dust/Sand/Dirt,Blowing Dust/Sand/Dirt,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Blowing Snow,Blowing Snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Fog,Fog,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Raining,Raining,RAIN,RAIN,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Severe Wind Only,Severe Wind Only,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Sleet/Hail/Freezing Rain,Sleet/Hail/Freezing Rain,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Smoke,Smoke,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Snowing,Snowing,SNOW,SNOW,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,light_condition,Darkness Lighted,Darkness Lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6_light_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,light_condition,Darkness Unlighted,Darkness Unlighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6_light_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,light_condition,Dawn,Dawn,DAWN,DAWN,CROSSWALK,MMUCC6_light_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6_light_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,light_condition,Dusk,Dusk,DUSK,DUSK,CROSSWALK,MMUCC6_light_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,light_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6_light_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,light_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_light_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Ice/Frost,Ice/Frost,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Mud/Dirt/Gravel,Mud/Dirt/Gravel,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Oil/Fuel,Oil/Fuel,OIL,OIL,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Sand of Icy Road,Sand of Icy Road,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Sand on Dry Pavement,Sand on Dry Pavement,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Slush,Slush,SLUSH,SLUSH,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Water Standing/Running,Water Standing/Running,STANDING_WATER,STANDING_WATER,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6_road_surface_condition,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,weather,"Cloudy, Overcast","Cloudy, Overcast",CLOUDY,CLOUDY,CROSSWALK,MMUCC6_weather,WYDOT official embedded labels and 2021 data dictionary,REVIEWED
+WY,*,first_harmful_event,Antelope,Antelope,ANTELOPE,ANTELOPE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Antelope,Antelope,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Barricade,Barricade,BARRICADE,BARRICADE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Barricade,Barricade,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Bridge Overhead Structure,Bridge Overhead Structure,BRIDGE_OVERHEAD_STRUCTURE,BRIDGE_OVERHEAD_STRUCTURE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Bridge Overhead Structure,Bridge Overhead Structure,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Bridge Pier or Support,Bridge Pier or Support,BRIDGE_PIER_OR_SUPPORT,BRIDGE_PIER_OR_SUPPORT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Bridge Pier or Support,Bridge Pier or Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Bridge Rail,Bridge Rail,BRIDGE_RAIL,BRIDGE_RAIL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Bridge Rail,Bridge Rail,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Buffalo,Buffalo,BUFFALO,BUFFALO,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Buffalo,Buffalo,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Building or Other Structure Wall,Building or Other Structure Wall,BUILDING_OR_OTHER_STRUCTURE_WALL,BUILDING_OR_OTHER_STRUCTURE_WALL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Building or Other Structure Wall,Building or Other Structure Wall,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Cable Barrier,Cable Barrier,CABLE_BARRIER,CABLE_BARRIER,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Cable Barrier,Cable Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Cargo/Equipment Loss or Shift,Cargo/Equipment Loss or Shift,CARGO_EQUIPMENT_LOSS_OR_SHIFT,CARGO_EQUIPMENT_LOSS_OR_SHIFT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Cargo/Equipment Loss or Shift,Cargo/Equipment Loss or Shift,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Cattle Guard,Cattle Guard,CATTLE_GUARD,CATTLE_GUARD,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Cattle Guard,Cattle Guard,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Concrete Traffic Barrier/Jersey Barrier,Concrete Traffic Barrier/Jersey Barrier,CONCRETE_TRAFFIC_BARRIER_JERSEY_BARRIER,CONCRETE_TRAFFIC_BARRIER_JERSEY_BARRIER,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Concrete Traffic Barrier/Jersey Barrier,Concrete Traffic Barrier/Jersey Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Cow,Cow,COW,COW,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Cow,Cow,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Cut Slope,Cut Slope,CUT_SLOPE,CUT_SLOPE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Cut Slope,Cut Slope,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Deer,Deer,DEER,DEER,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Deer,Deer,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Delineator Post,Delineator Post,DELINEATOR_POST,DELINEATOR_POST,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Delineator Post,Delineator Post,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Ditch,Ditch,DITCH,DITCH,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Ditch,Ditch,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Earth Embankment/Berm,Earth Embankment/Berm,EARTH_EMBANKMENT_BERM,EARTH_EMBANKMENT_BERM,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Earth Embankment/Berm,Earth Embankment/Berm,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Elk,Elk,ELK,ELK,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Elk,Elk,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,End of Drainage Pipe/Structure/Culvert,End of Drainage Pipe/Structure/Culvert,END_OF_DRAINAGE_PIPE_STRUCTURE_CULVERT,END_OF_DRAINAGE_PIPE_STRUCTURE_CULVERT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,End of Drainage Pipe/Structure/Culvert,End of Drainage Pipe/Structure/Culvert,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Equipment Failure,Equipment Failure,EQUIPMENT_FAILURE,EQUIPMENT_FAILURE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Equipment Failure,Equipment Failure,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Fell/Jumped from a MV,Fell/Jumped from a MV,FELL_JUMPED_FROM_A_MV,FELL_JUMPED_FROM_A_MV,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Fell/Jumped from a MV,Fell/Jumped from a MV,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Fence (including Post),Fence (including Post),FENCE_INCLUDING_POST,FENCE_INCLUDING_POST,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Fence (including Post),Fence (including Post),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Fire/Explosion,Fire/Explosion,FIRE_EXPLOSION,FIRE_EXPLOSION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Fire/Explosion,Fire/Explosion,FIRE_EXPLOSION,FIRE_EXPLOSION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Guardrail End,Guardrail End,GUARDRAIL_END,GUARDRAIL_END,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Guardrail End,Guardrail End,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Guardrail Face,Guardrail Face,GUARDRAIL_FACE,GUARDRAIL_FACE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Guardrail Face,Guardrail Face,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Horse,Horse,HORSE,HORSE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Horse,Horse,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Immersion,Immersion,IMMERSION,IMMERSION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Immersion,Immersion,IMMERSION,IMMERSION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Impact Attenuator/Crash Cushion,Impact Attenuator/Crash Cushion,IMPACT_ATTENUATOR_CRASH_CUSHION,IMPACT_ATTENUATOR_CRASH_CUSHION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Impact Attenuator/Crash Cushion,Impact Attenuator/Crash Cushion,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Injuries by being thrown against part of vehicle,Injuries by being thrown against part of vehicle,INJURIES_BY_BEING_THROWN_AGAINST_PART_OF_VEHICLE,INJURIES_BY_BEING_THROWN_AGAINST_PART_OF_VEHICLE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Injuries by being thrown against part of vehicle,Injuries by being thrown against part of vehicle,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Jacknife,Jacknife,JACKNIFE,JACKNIFE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Jacknife,Jacknife,JACKKNIFE,JACKKNIFE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Mail Box,Mail Box,MAIL_BOX,MAIL_BOX,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Mail Box,Mail Box,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Moose,Moose,MOOSE,MOOSE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Moose,Moose,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Motor Vehicle in Transport on OTHER Roadway,Motor Vehicle in Transport on OTHER Roadway,MOTOR_VEHICLE_IN_TRANSPORT_ON_OTHER_ROADWAY,MOTOR_VEHICLE_IN_TRANSPORT_ON_OTHER_ROADWAY,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Motor Vehicle in Transport on OTHER Roadway,Motor Vehicle in Transport on OTHER Roadway,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Motor Vehicle in Transport on Roadway,Motor Vehicle in Transport on Roadway,MOTOR_VEHICLE_IN_TRANSPORT_ON_ROADWAY,MOTOR_VEHICLE_IN_TRANSPORT_ON_ROADWAY,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Motor Vehicle in Transport on Roadway,Motor Vehicle in Transport on Roadway,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Object Set in Motion by Another Vehicle (Single Veh Crash),Object Set in Motion by Another Vehicle (Single Veh Crash),OBJECT_SET_IN_MOTION_BY_ANOTHER_VEHICLE_SINGLE_VEH_CRASH,OBJECT_SET_IN_MOTION_BY_ANOTHER_VEHICLE_SINGLE_VEH_CRASH,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Object Set in Motion by Another Vehicle (Single Veh Crash),Object Set in Motion by Another Vehicle (Single Veh Crash),OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,"Other Domestic (Dog, Llama...)","Other Domestic (Dog, Llama...)",OTHER_DOMESTIC_DOG_LLAMA,OTHER_DOMESTIC_DOG_LLAMA,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,"Other Domestic (Dog, Llama...)","Other Domestic (Dog, Llama...)",ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Other Fixed Object,Other Fixed Object,OTHER_FIXED_OBJECT,OTHER_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Other Fixed Object,Other Fixed Object,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Other NON-Fixed Object,Other NON-Fixed Object,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Other NON-Fixed Object,Other NON-Fixed Object,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Other Non-Collision (MC Loss of Control),Other Non-Collision (MC Loss of Control),OTHER_NON_COLLISION_MC_LOSS_OF_CONTROL,OTHER_NON_COLLISION_MC_LOSS_OF_CONTROL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Other Non-Collision (MC Loss of Control),Other Non-Collision (MC Loss of Control),OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Other Traffic Barrier (includes temporary),Other Traffic Barrier (includes temporary),OTHER_TRAFFIC_BARRIER_INCLUDES_TEMPORARY,OTHER_TRAFFIC_BARRIER_INCLUDES_TEMPORARY,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Other Traffic Barrier (includes temporary),Other Traffic Barrier (includes temporary),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Other Traffic Sign Support,Other Traffic Sign Support,OTHER_TRAFFIC_SIGN_SUPPORT,OTHER_TRAFFIC_SIGN_SUPPORT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Other Traffic Sign Support,Other Traffic Sign Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Other Wild,Other Wild,OTHER_WILD,OTHER_WILD,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Other Wild,Other Wild,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Overhead Traffic Sign,Overhead Traffic Sign,OVERHEAD_TRAFFIC_SIGN,OVERHEAD_TRAFFIC_SIGN,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Overhead Traffic Sign,Overhead Traffic Sign,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Overturn/Rollover,Overturn/Rollover,OVERTURN_ROLLOVER,OVERTURN_ROLLOVER,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Overturn/Rollover,Overturn/Rollover,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Parked Motor Vehicle,Parked Motor Vehicle,PARKED_MOTOR_VEHICLE,PARKED_MOTOR_VEHICLE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Parked Motor Vehicle,Parked Motor Vehicle,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Pedacycle,Pedacycle,PEDACYCLE,PEDACYCLE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Pedacycle,Pedacycle,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Pedestrian,Pedestrian,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Pedestrian,Pedestrian,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Pig,Pig,PIG,PIG,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Pig,Pig,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Railway Vehicle,Railway Vehicle,RAILWAY_VEHICLE,RAILWAY_VEHICLE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Railway Vehicle,Railway Vehicle,TRAIN,TRAIN,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Raised Median or Curb,Raised Median or Curb,RAISED_MEDIAN_OR_CURB,RAISED_MEDIAN_OR_CURB,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Raised Median or Curb,Raised Median or Curb,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Road Approach,Road Approach,ROAD_APPROACH,ROAD_APPROACH,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Road Approach,Road Approach,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,"Rock, Boulder, Rock Slide","Rock, Boulder, Rock Slide",ROCK_BOULDER_ROCK_SLIDE,ROCK_BOULDER_ROCK_SLIDE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,"Rock, Boulder, Rock Slide","Rock, Boulder, Rock Slide",FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Sheep,Sheep,SHEEP,SHEEP,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Sheep,Sheep,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Sign Support Multiple Post,Sign Support Multiple Post,SIGN_SUPPORT_MULTIPLE_POST,SIGN_SUPPORT_MULTIPLE_POST,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Sign Support Multiple Post,Sign Support Multiple Post,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Sign Support Single Post,Sign Support Single Post,SIGN_SUPPORT_SINGLE_POST,SIGN_SUPPORT_SINGLE_POST,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Sign Support Single Post,Sign Support Single Post,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Snow Embankment,Snow Embankment,SNOW_EMBANKMENT,SNOW_EMBANKMENT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Snow Embankment,Snow Embankment,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,"Struck by Falling, Shifting Cargo or Anything Else Set in Motion by Motor Vehicle","Struck by Falling, Shifting Cargo or Anything Else Set in Motion by Motor Vehicle",STRUCK_BY_FALLING_SHIFTING_CARGO_OR_ANYTHING_ELSE_SET_IN_MOTION_BY_MOTOR_VEHICLE,STRUCK_BY_FALLING_SHIFTING_CARGO_OR_ANYTHING_ELSE_SET_IN_MOTION_BY_MOTOR_VEHICLE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,"Struck by Falling, Shifting Cargo or Anything Else Set in Motion by Motor Vehicle","Struck by Falling, Shifting Cargo or Anything Else Set in Motion by Motor Vehicle",OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Thrown or Falling Object,Thrown or Falling Object,THROWN_OR_FALLING_OBJECT,THROWN_OR_FALLING_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Thrown or Falling Object,Thrown or Falling Object,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Traffic Sign Support,Traffic Sign Support,TRAFFIC_SIGN_SUPPORT,TRAFFIC_SIGN_SUPPORT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Traffic Sign Support,Traffic Sign Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Traffic Signal Support,Traffic Signal Support,TRAFFIC_SIGNAL_SUPPORT,TRAFFIC_SIGNAL_SUPPORT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Traffic Signal Support,Traffic Signal Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Trees/Shrubbery,Trees/Shrubbery,TREES_SHRUBBERY,TREES_SHRUBBERY,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Trees/Shrubbery,Trees/Shrubbery,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Tunnel,Tunnel,TUNNEL,TUNNEL,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Tunnel,Tunnel,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Uknown,Uknown,UKNOWN,UKNOWN,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Uknown,Uknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Utility Pole/Light Support,Utility Pole/Light Support,UTILITY_POLE_LIGHT_SUPPORT,UTILITY_POLE_LIGHT_SUPPORT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Utility Pole/Light Support,Utility Pole/Light Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Work Zone Channeling Device,Work Zone Channeling Device,WORK_ZONE_CHANNELING_DEVICE,WORK_ZONE_CHANNELING_DEVICE,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Work Zone Channeling Device,Work Zone Channeling Device,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event,Work Zone/Maintenance Equipment,Work Zone/Maintenance Equipment,WORK_ZONE_MAINTENANCE_EQUIPMENT,WORK_ZONE_MAINTENANCE_EQUIPMENT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED
+WY,*,first_harmful_event_group,Work Zone/Maintenance Equipment,Work Zone/Maintenance Equipment,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,WYDOT official extract embedded labels; group reviewed against MMUCC6 event taxonomy,REVIEWED

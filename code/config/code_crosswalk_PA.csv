@@ -1,0 +1,63 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+PA,PA_PennDOT_Public_2006_2025,severity,0,,O,No apparent injury,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,severity,1,,K,Fatal injury,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,severity,2,,A,Suspected serious injury,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,severity,3,,B,Suspected minor injury,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,severity,4,,C,Possible injury,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,severity,5,,U,Died prior to crash,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,severity,8,,U,Injury severity unknown,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,severity,9,,U,Unknown,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,0,,0,Not collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,1,,1,Front to rear,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,2,,2,Head on,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,3,,11,Other: backing,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,4,,6,Angle,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,5,,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,6,,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,7,,0,Fixed object/non-transport collision,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,8,,0,Nonmotorist/non-transport collision,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,9,,11,Other,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,98,,11,Other,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,manner,99,,99,Unknown,CROSSWALK,MMUCC6-C09,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,1,,BLOWING_SAND_SOIL,Blowing sand/soil/dirt,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,2,,BLOWING_SNOW,Blowing snow,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,3,,CLEAR,Clear,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,4,,CLOUDY,Cloudy,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,5,,FOG_SMOKE,Fog/smog/smoke,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,6,,SLEET_HAIL_FREEZING_RAIN,Freezing rain/drizzle,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,7,,RAIN,Rain,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,8,,SEVERE_CROSSWIND,Severe crosswind,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,9,,SLEET_HAIL_FREEZING_RAIN,Sleet/hail,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,10,,SNOW,Snow,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,11,,FOG_SMOKE,Fog/smoke,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,98,,OTHER,Other,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,99,,UNKNOWN,Unknown,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,1,,DAYLIGHT,Daylight,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,2,,DARK_UNLIGHTED,Dark unlighted,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,3,,DARK_LIGHTED,Dark lighted,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,4,,DUSK,Dusk,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,5,,DAWN,Dawn,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,6,,DARK_UNKNOWN_LIGHTING,Dark unknown roadway lighting,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,8,,OTHER,Other,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,light_condition,9,,UNKNOWN,Unknown,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,1,,DRY,Dry,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,2,,ICE_FROST,Ice/frost,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,3,,MUD_DIRT_GRAVEL,Mud/dirt/gravel,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,4,,OIL,Oil,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,5,,SAND,Sand,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,6,,SLUSH,Slush,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,7,,SNOW,Snow,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,8,,WATER,Water,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,9,,WET,Wet,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,22,,OTHER,Expired composite condition,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,98,,OTHER,Other,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,road_surface_condition,99,,UNKNOWN,Unknown,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,01,,BLOWING_SAND_SOIL,Blowing sand/soil/dirt,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,02,,BLOWING_SNOW,Blowing snow,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,03,,CLEAR,Clear,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,04,,CLOUDY,Cloudy,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,05,,FOG_SMOKE,Fog/smog/smoke,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,06,,SLEET_HAIL_FREEZING_RAIN,Freezing rain/drizzle,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,07,,RAIN,Rain,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,08,,SEVERE_CROSSWIND,Severe crosswind,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED
+PA,PA_PennDOT_Public_2006_2025,weather,09,,SLEET_HAIL_FREEZING_RAIN,Sleet/hail,CROSSWALK,MMUCC6,PennDOT Crash Data Dictionary 2026,REVIEWED

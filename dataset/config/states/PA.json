@@ -1,0 +1,63 @@
+{
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "official_agency": "Pennsylvania Department of Transportation",
+  "crash_id_scope": "STATE",
+  "coordinate_bounds": [
+    -80.7,
+    39.5,
+    -74.6,
+    42.6
+  ],
+  "allow_missing_crash_date": true,
+  "severity_from_fatalities_always": true,
+  "versions": [
+    {
+      "schema_id": "PA_PennDOT_Public_2006_2025",
+      "year_start": 2006,
+      "year_end": 2025,
+      "source_patterns": [
+        "CSV/CRASH_enriched_{year}.csv"
+      ],
+      "date_precision": "MONTH",
+      "fields": {
+        "crash_id": "CRN",
+        "crash_year": "CRASH_YEAR",
+        "crash_month": "CRASH_MONTH",
+        "crash_time_raw": "TIME_OF_DAY",
+        "latitude": "DEC_LATITUDE",
+        "longitude": "DEC_LONGITUDE",
+        "county": "COUNTY",
+        "city": "MUNICIPALITY",
+        "severity_raw_code": "MAX_SEVERITY_LEVEL",
+        "fatalities": "FATAL_COUNT",
+        "injuries": "TOT_INJ_COUNT",
+        "vehicles": "VEHICLE_COUNT",
+        "manner_raw_code": "COLLISION_TYPE",
+        "weather_raw_code": "WEATHER1",
+        "light_raw_code": "ILLUMINATION",
+        "road_surface_raw_code": "ROAD_CONDITION",
+        "intersection_related": "INTERSECTION_RELATED",
+        "intersection_type": "INTERSECT_TYPE",
+        "work_zone_related": "WORK_ZONE_IND",
+        "work_zone_type": "WORK_ZONE_TYPE",
+        "alcohol_involved": "FLAG_ALCOHOL_RELATED",
+        "drug_involved": "FLAG_DRUG_RELATED",
+        "speeding_involved": "FLAG_SPEEDING_RELATED",
+        "hit_and_run": "FLAG_HIT_RUN",
+        "pedestrian_involved": "FLAG_PEDESTRIAN",
+        "pedestrian_count": "PED_COUNT",
+        "bicyclist_involved": "FLAG_BICYCLE",
+        "bicyclist_count": "BICYCLE_COUNT",
+        "motorcycle_involved": "FLAG_MOTORCYCLE",
+        "motorcycle_count": "MOTORCYCLE_COUNT",
+        "commercial_vehicle_involved": "FLAG_COMM_VEHICLE",
+        "commercial_vehicle_count": "COMM_VEH_COUNT",
+        "school_bus_related": "FLAG_SCHOOL_BUS_RELATED",
+        "urban_rural": "URBAN_RURAL",
+        "relation_to_trafficway": "RELATION_TO_ROAD",
+        "severity_raw_label": "MAX_SEVERITY_LEVEL"
+      }
+    }
+  ]
+}

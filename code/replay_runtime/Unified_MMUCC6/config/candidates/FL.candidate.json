@@ -1,0 +1,153 @@
+{
+  "state": "FL",
+  "generated_utc": "2026-10-13T20:01:56.891943+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "FL_candidate_2007_2009_1",
+      "header_signature": "74ac14429d20b798",
+      "years": [
+        2007,
+        2008,
+        2009
+      ],
+      "example_source": "FL/2007/FDOT_SSOGIS_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 117,
+      "field_candidates": {
+        "crash_id": "CASE_NUMBER",
+        "crash_date": "CRASH_DATE",
+        "crash_time": "CRASH_TIME",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "FL_candidate_2010_2010_2",
+      "header_signature": "797466bfb18fb5ed",
+      "years": [
+        2010
+      ],
+      "example_source": "FL/2010/FDOT_SSOGIS_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 117,
+      "field_candidates": {
+        "crash_id": "CASE_NUMBER",
+        "crash_date": "CRASH_DATE",
+        "crash_time": "CRASH_TIME",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "FL_candidate_2011_2019_3",
+      "header_signature": "634dc9e55bb20be2",
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "example_source": "FL/2011/FDOT_all_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 159,
+      "field_candidates": {
+        "crash_id": "CASE_NUMBER",
+        "crash_date": "CRASH_DATE",
+        "crash_time": "CRASH_TIME",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "FL_candidate_2020_2023_4",
+      "header_signature": "15be2e4714e62f26",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "example_source": "FL/2020/CSV/FL_Signal4_crashes_2020.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 117,
+      "field_candidates": {
+        "crash_id": "REPORT_NUMBER",
+        "crash_datetime": "CRASH_DATE_AND_TIME",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "severity": "S4_CRASH_SEVERITY",
+        "manner_collision": "TYPE_OF_IMPACT"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "FL_candidate_2024_2025_5",
+      "header_signature": "53a9796fb3d0024e",
+      "years": [
+        2024,
+        2025
+      ],
+      "example_source": "FL/2024/CSV/FL_Signal4_crashes_2024.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 119,
+      "field_candidates": {
+        "crash_id": "REPORT_NUMBER",
+        "crash_datetime": "CRASH_DATE_AND_TIME",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "severity": "S4_CRASH_SEVERITY",
+        "manner_collision": "TYPE_OF_IMPACT"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

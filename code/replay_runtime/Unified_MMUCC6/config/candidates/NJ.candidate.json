@@ -1,0 +1,478 @@
+{
+  "state": "NJ",
+  "generated_utc": "2026-10-13T20:01:56.900936+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "NJ_candidate_2001_2001_1",
+      "header_signature": "ca9fdd7ca3614fe8",
+      "years": [
+        2001
+      ],
+      "example_source": "NJ/2001/NJ_accidents_2001.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2002_2002_2",
+      "header_signature": "10179be427da9af8",
+      "years": [
+        2002
+      ],
+      "example_source": "NJ/2002/NJ_accidents_2002.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2003_2003_3",
+      "header_signature": "b9aa7ac9bdffedf1",
+      "years": [
+        2003
+      ],
+      "example_source": "NJ/2003/NJ_accidents_2003.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2004_2004_4",
+      "header_signature": "18fc6194630ad245",
+      "years": [
+        2004
+      ],
+      "example_source": "NJ/2004/NJ_accidents_2004.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2005_2005_5",
+      "header_signature": "c4aacc205b7402e7",
+      "years": [
+        2005
+      ],
+      "example_source": "NJ/2005/NJ_accidents_2005.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2006_2006_6",
+      "header_signature": "2c91325c41f93680",
+      "years": [
+        2006
+      ],
+      "example_source": "NJ/2006/NJ_accidents_2006.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2007_2007_7",
+      "header_signature": "0c2889386451a030",
+      "years": [
+        2007
+      ],
+      "example_source": "NJ/2007/NJ_accidents_2007.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2008_2008_8",
+      "header_signature": "4a9654080044ceb7",
+      "years": [
+        2008
+      ],
+      "example_source": "NJ/2008/NJ_accidents_2008.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2009_2009_9",
+      "header_signature": "768fc86d049bfae5",
+      "years": [
+        2009
+      ],
+      "example_source": "NJ/2009/NJ_accidents_2009.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2010_2010_10",
+      "header_signature": "a8f2df2d9f18f2a2",
+      "years": [
+        2010
+      ],
+      "example_source": "NJ/2010/NJ_accidents_2010.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2011_2011_11",
+      "header_signature": "0c995f34683ec279",
+      "years": [
+        2011
+      ],
+      "example_source": "NJ/2011/NJ_accidents_2011.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2012_2012_12",
+      "header_signature": "e4a4ddcd692399f5",
+      "years": [
+        2012
+      ],
+      "example_source": "NJ/2012/NJ_accidents_2012.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2013_2013_13",
+      "header_signature": "d5ed44d8bffe8ce4",
+      "years": [
+        2013
+      ],
+      "example_source": "NJ/2013/NJ_accidents_2013.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2014_2014_14",
+      "header_signature": "437f386c2d634298",
+      "years": [
+        2014
+      ],
+      "example_source": "NJ/2014/NJ_accidents_2014.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2015_2015_15",
+      "header_signature": "db5d2d5725a6dfbf",
+      "years": [
+        2015
+      ],
+      "example_source": "NJ/2015/NJ_accidents_2015.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2016_2016_16",
+      "header_signature": "7698714845a3ad47",
+      "years": [
+        2016
+      ],
+      "example_source": "NJ/2016/NJ_accidents_2016.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 47,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2017_2017_17",
+      "header_signature": "fd568d6b6243da11",
+      "years": [
+        2017
+      ],
+      "example_source": "NJ/2017/NJ_accidents_2017.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 50,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2018_2018_18",
+      "header_signature": "d114fb1e087232e0",
+      "years": [
+        2018
+      ],
+      "example_source": "NJ/2018/NJ_accidents_2018.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 50,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2019_2026_19",
+      "header_signature": "80189ac85d391a41",
+      "years": [
+        2019,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "NJ/2019/NJ_portal_crashes_2019.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 125,
+      "field_candidates": {
+        "crash_id": "casenumber",
+        "crash_date": "dateofcrash",
+        "crash_time": "timeofcrash",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "severity": "severitycode",
+        "manner_collision": "Crash Type"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2020_2020_20",
+      "header_signature": "f135243b8d41e4d1",
+      "years": [
+        2020
+      ],
+      "example_source": "NJ/2020/NJ_accidents_2020.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 50,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2021_2021_21",
+      "header_signature": "9dd4b8f2dd1a3759",
+      "years": [
+        2021
+      ],
+      "example_source": "NJ/2021/NJ_accidents_2021.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 50,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2022_2022_22",
+      "header_signature": "0be11b044adc92dc",
+      "years": [
+        2022
+      ],
+      "example_source": "NJ/2022/NJ_accidents_2022.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 50,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "NJ_candidate_2023_2023_23",
+      "header_signature": "2f5476c4ccf7e9ff",
+      "years": [
+        2023
+      ],
+      "example_source": "NJ/2023/NJ_accidents_2023.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 50,
+      "field_candidates": {},
+      "completeness_score": 0,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

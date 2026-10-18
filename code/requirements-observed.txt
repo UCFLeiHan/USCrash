@@ -1,0 +1,14 @@
+# Observed installed dependencies; not a claimed clean-environment lockfile.
+beautifulsoup4==4.12.2
+fiona==1.9.6
+geopandas==0.14.4
+matplotlib==3.7.1
+numpy==1.26.4
+openpyxl==3.0.10
+pandas==2.3.3
+plotly==5.9.0
+pypdf==6.7.5
+pyproj==3.6.1
+requests==2.31.0
+selenium==4.51.0
+shapely==2.0.4

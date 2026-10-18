@@ -1,0 +1,44 @@
+{
+  "state": "CT",
+  "generated_utc": "2026-10-13T20:01:56.890930+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "CT_candidate_2015_2026_1",
+      "header_signature": "434a4c5b26bed1f0",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "CT/2015/CTDOT_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 28,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_date": "CrashDate",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CrashSeverity"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

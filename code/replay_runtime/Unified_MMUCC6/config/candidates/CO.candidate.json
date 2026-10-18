@@ -1,0 +1,75 @@
+{
+  "state": "CO",
+  "generated_utc": "2026-10-13T20:01:56.857540+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "CO_candidate_2007_2020_1",
+      "header_signature": "c691e19d8c95938c",
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "example_source": "CO/2007/CSV/CO_Official_Crashes_2007.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 84,
+      "field_candidates": {
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "severity": "SEVERITY"
+      },
+      "completeness_score": 40,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "CO_candidate_2021_2026_2",
+      "header_signature": "4095bb7c57a10dfd",
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "CO/2021/CSV/CO_Official_Crashes_2021.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 110,
+      "field_candidates": {
+        "crash_date": "Crash Date",
+        "crash_time": "Crash Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "manner_collision": "Crash Type"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

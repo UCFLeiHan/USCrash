@@ -1,0 +1,50 @@
+{
+  "state": "DC",
+  "generated_utc": "2026-10-13T20:01:56.890930+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "DC_candidate_2010_2026_1",
+      "header_signature": "21647cc46b99e500",
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "DC/2010/DC_crashes_2010.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 69,
+      "field_candidates": {
+        "crash_id": "CCN",
+        "crash_datetime": "CrashDateTime_ISO",
+        "crash_date": "FROMDATE",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "severity": "SeverityDerived"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

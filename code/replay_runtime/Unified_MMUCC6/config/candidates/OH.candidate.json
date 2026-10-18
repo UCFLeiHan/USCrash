@@ -1,0 +1,89 @@
+{
+  "state": "OH",
+  "generated_utc": "2026-10-13T20:01:56.902939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "OH_candidate_2017_2020_1",
+      "header_signature": "b9017dfbddaf73f4",
+      "years": [
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "example_source": "OH/2017/CSV/OH_2017_crash_vehicle_person_flat.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 119,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_datetime": "CrashDateTime",
+        "severity": "CrashSeverity",
+        "manner_collision": "MannerOfCollision"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 0,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "OH_candidate_2021_2023_2",
+      "header_signature": "9cf1b8dcbcd72e18",
+      "years": [
+        2021,
+        2022,
+        2023
+      ],
+      "example_source": "OH/2021/CSV/OH_2021_crash_enriched_figshare_tims.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 69,
+      "field_candidates": {
+        "crash_id": "CrashID",
+        "crash_datetime": "CrashDateTime",
+        "latitude": "TIMS_geometry_latitude",
+        "longitude": "TIMS_geometry_longitude",
+        "severity": "CrashSeverity",
+        "manner_collision": "MannerOfCollision"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "OH_candidate_2024_2025_3",
+      "header_signature": "372e5491c331b0d8",
+      "years": [
+        2024,
+        2025
+      ],
+      "example_source": "OH/2024/ODOT_crash_locations_2024.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 23,
+      "field_candidates": {
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CRASH_SEVERITY_CD"
+      },
+      "completeness_score": 40,
+      "score_components": {
+        "identifier": 0,
+        "time": 0,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

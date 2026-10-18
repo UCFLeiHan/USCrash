@@ -1,0 +1,77 @@
+{
+  "state": "VA",
+  "generated_utc": "2026-10-13T20:01:56.905935+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "VA_candidate_2009_2016_1",
+      "header_signature": "a1886a74d0fb1949",
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "example_source": "VA/2009/CSV/VDOT_Crashes_2009.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 74,
+      "field_candidates": {
+        "crash_date": "CRASH_DT",
+        "crash_time": "CRASH_MILITARY_TM",
+        "latitude": "LAT",
+        "longitude": "LON",
+        "severity": "CRASH_SEVERITY",
+        "manner_collision": "COLLISION_TYPE"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "VA_candidate_2017_2026_2",
+      "header_signature": "fb12525ee4e57bee",
+      "years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "VA/2017/Supplemental_PreviousExport/VDOT_Full_Crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 75,
+      "field_candidates": {
+        "crash_date": "CRASH_DT",
+        "crash_time": "CRASH_MILITARY_TM",
+        "latitude": "LAT",
+        "longitude": "LON",
+        "severity": "CRASH_SEVERITY",
+        "manner_collision": "COLLISION_TYPE"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

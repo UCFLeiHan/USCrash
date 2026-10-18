@@ -1,0 +1,8 @@
+2026-10-09T23:48:53+00:00 Georgia dashboard downloader started
+2026-10-09T23:48:55+00:00 2021: existing validated file, 389,636 rows
+2026-10-09T23:48:57+00:00 2022: existing validated file, 388,575 rows
+2026-10-09T23:48:58+00:00 2023: existing validated file, 376,449 rows
+2026-10-09T23:49:00+00:00 2024: existing validated file, 372,983 rows
+2026-10-09T23:49:01+00:00 2025: {'status': 'FILE_READY', 'link': '[ready download URL omitted]'}
+2026-10-09T23:49:25+00:00 2025: saved and validated, 367,506 rows, 196,094,361 bytes
+2026-10-09T23:49:25+00:00 All Georgia years completed

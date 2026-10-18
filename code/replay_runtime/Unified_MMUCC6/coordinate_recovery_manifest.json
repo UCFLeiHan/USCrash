@@ -1,0 +1,25 @@
+{
+  "records": 65541414,
+  "jurisdictions": 42,
+  "annual_files": 511,
+  "new_coordinates": 1489889,
+  "states_improved": 7,
+  "valid_before": 51290965,
+  "valid_after": 52780854,
+  "modified_annual_files": 40,
+  "independent_checks": "PASS",
+  "raw_files_modified": false,
+  "fields_changed": [
+    "latitude",
+    "longitude",
+    "coordinate_status"
+  ],
+  "full_511_file_scan_reconciled": true,
+  "ID_county_screen_withdrawn": 64,
+  "source_files_hash_verified": 58,
+  "revision_directory": "F:\\LH_Research\\USCrash\\Crash\\Unified_MMUCC6\\qa\\coordinate_recovery_2026-10-16",
+  "report": "F:\\LH_Research\\USCrash\\Crash\\Unified_MMUCC6\\qa\\coordinate_recovery_2026-10-16\\index.html",
+  "code_runner": "F:\\LH_Research\\USCrash\\Crash\\Unified_MMUCC6\\scripts\\run_coordinate_recovery.py",
+  "historical_snapshot_only": true,
+  "subsequent_CA_revision": "F:\\LH_Research\\USCrash\\Crash\\Unified_MMUCC6\\CA_coordinate_recovery_manifest.json"
+}

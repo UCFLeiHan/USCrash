@@ -1,0 +1,52 @@
+{
+  "state": "PA",
+  "generated_utc": "2026-10-13T20:01:56.903938+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "PA_candidate_2006_2025_1",
+      "header_signature": "9e715386ea52efd2",
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "PA/2006/CSV/CRASH_2006.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 102,
+      "field_candidates": {
+        "crash_id": "CRN",
+        "crash_time": "TIME_OF_DAY",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "manner_collision": "COLLISION_TYPE"
+      },
+      "completeness_score": 70,
+      "score_components": {
+        "identifier": 20,
+        "time": 10,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

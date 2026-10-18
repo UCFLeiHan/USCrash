@@ -1,0 +1,105 @@
+{
+  "state": "MA",
+  "generated_utc": "2026-10-13T20:01:56.894936+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "MA_candidate_2001_2020_1",
+      "header_signature": "9d14bb633336c544",
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "example_source": "MA/2001/MassDOT_historical_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 32,
+      "field_candidates": {
+        "crash_date": "CRASH_DATE",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CRASH_SEVERITY_DESCR"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "MA_candidate_2021_2023_2",
+      "header_signature": "6597cdd62e45b156",
+      "years": [
+        2021,
+        2022,
+        2023
+      ],
+      "example_source": "MA/2021/MassDOT_2021_Crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 121,
+      "field_candidates": {
+        "crash_datetime": "CRASH_DATETIME",
+        "latitude": "LAT",
+        "longitude": "LON",
+        "severity": "CRASH_SEVERITY_DESCR"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "MA_candidate_2024_2026_3",
+      "header_signature": "cda8a021913a97a1",
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "MA/2024/MassDOT_2024_Crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 127,
+      "field_candidates": {
+        "crash_datetime": "CRASH_DATETIME",
+        "latitude": "LAT",
+        "longitude": "LON",
+        "severity": "CRASH_SEVERITY_DESCR"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

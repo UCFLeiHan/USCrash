@@ -1,0 +1,51 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+AK,*,severity,Fatal Injury (Killed),Fatal Injury (Killed),K,Fatal injury,CROSSWALK,analysis_crash_severity_kabco,Alaska portal embedded label,REVIEWED
+AK,*,severity,Suspected Serious Injury,Suspected Serious Injury,A,Suspected serious injury,CROSSWALK,analysis_crash_severity_kabco,Alaska portal embedded label,REVIEWED
+AK,*,severity,Suspected Minor Injury,Suspected Minor Injury,B,Suspected minor injury,CROSSWALK,analysis_crash_severity_kabco,Alaska portal embedded label,REVIEWED
+AK,*,severity,Possible Injury,Possible Injury,C,Possible injury,CROSSWALK,analysis_crash_severity_kabco,Alaska portal embedded label,REVIEWED
+AK,*,severity,No Apparent Injury,No Apparent Injury,O,No apparent injury,CROSSWALK,analysis_crash_severity_kabco,Alaska portal embedded label,REVIEWED
+AK,*,severity,Died Prior to Crash,Died Prior to Crash,U,Not a crash-caused fatal injury,CROSSWALK,analysis_crash_severity_kabco,Alaska portal explicitly identifies death before crash,REVIEWED
+AK,*,manner,Not a Collision with a Motor Vehicle In-Transport,Not a Collision with a Motor Vehicle In-Transport,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Front-To-Rear,Front-To-Rear,1,Front-to-rear or rear-to-front,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Front-To-Front,Front-To-Front,2,Front to front,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Angle,Angle,6,Angle,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Sideswipe - Same Direction,Sideswipe - Same Direction,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Sideswipe - Opposite Direction,Sideswipe - Opposite Direction,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Rear-To-Side,Rear-To-Side,9,Rear-to-side or side-to-rear,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Rear-To-Rear,Rear-To-Rear,10,Rear to rear,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Other,Other,11,Other,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,manner,Unknown,Unknown,99,Unknown,CROSSWALK,MMUCC6-C09,NHTSA MMUCC6 MannerofCollisionCodeSimpleType,REVIEWED
+AK,*,weather,Blowing Sand/Dirt/Soil,Blowing Sand/Dirt/Soil,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Blowing Snow,Blowing Snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Fog/Smog/Smoke,Fog/Smog/Smoke,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Freezing Rain or Freezing Drizzle,Freezing Rain or Freezing Drizzle,RAIN,RAIN,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,No Additional Atmospheric Conditions,No Additional Atmospheric Conditions,OTHER,OTHER,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Null value,Null value,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Severe Crosswinds,Severe Crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Sleet or Hail,Sleet or Hail,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_weather,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Dark - Lighted,Dark - Lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Dark - Not Lighted,Dark - Not Lighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Dark - Unknown Lighting,Dark - Unknown Lighting,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Dawn,Dawn,DAWN,DAWN,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Dusk,Dusk,DUSK,DUSK,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,light_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_light_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Ice/Frost,Ice/Frost,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Mud/Dirt/Gravel,Mud/Dirt/Gravel,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Non-Trafficway Area,Non-Trafficway Area,OTHER,OTHER,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Oil,Oil,OIL,OIL,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Sand,Sand,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Slush,Slush,SLUSH,SLUSH,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Water (Standing/Moving),Water (Standing/Moving),STANDING_WATER,STANDING_WATER,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED
+AK,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6_road_surface_condition,Alaska public portal embedded official labels,REVIEWED

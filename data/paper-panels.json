@@ -1,0 +1,152 @@
+{
+  "methods": [
+    {
+      "key": "acquisition",
+      "label": "Sources",
+      "title": "Data sources and acquisition",
+      "paragraphs": [
+        "Official state crash records vary in format, reporting structure, and access mechanism. Data are acquired through downloadable files, public data services and APIs, web-based query and export systems, and formal agency requests.",
+        "Source agencies and reporting systems may change within a state over time. State–year source inventories document the responsible agency, acquisition channel, reporting scope, and applicable access conditions."
+      ],
+      "note": "Supplementary Note 1 documents the sources and coverage.",
+      "image": "assets/panel-acquisition.webp",
+      "full": "assets/panel-acquisition.png"
+    },
+    {
+      "key": "preparation",
+      "label": "Preparation",
+      "title": "Crash-level data preparation",
+      "paragraphs": [
+        "Source data vary in their unit of observation and table structure. Where crash, vehicle, person, or event tables are provided separately, records are linked using source crash identifiers and aggregated to produce one record per crash.",
+        "Crash identifiers are evaluated within their state and year context. Overlapping source batches are reconciled using source-specific rules, with complementary information combined where supported."
+      ],
+      "note": "Supplementary Note 2 describes preparation and quality control.",
+      "image": "assets/panel-preparation.webp",
+      "full": "assets/panel-preparation.png"
+    },
+    {
+      "key": "harmonization",
+      "label": "Harmonization",
+      "title": "MMUCC-guided semantic harmonization",
+      "paragraphs": [
+        "State data dictionaries, reporting manuals, and coded values inform mappings to common concepts guided by MMUCC.",
+        "LLM-assisted candidate mappings are reviewed and validated by human experts against source documentation. Harmonized values are retained alongside available source codes, labels, and provenance. Unsupported values remain unknown, unavailable, or source-specific, as appropriate."
+      ],
+      "note": "Supplementary Note 3 provides field definitions and mapping rules.",
+      "image": "assets/panel-harmonization.webp",
+      "full": "assets/panel-harmonization.png"
+    }
+  ],
+  "coverage": [
+    {
+      "key": "national",
+      "label": "National map",
+      "title": "Geographic distribution in 2021",
+      "paragraphs": [
+        "At the national scale, 5 km × 5 km cells show concentrations around metropolitan regions and along major transportation corridors. The map provides a common-year view of the retained geolocated crash records.",
+        "The distribution reflects both where crashes are recorded and which source populations are available. A blank area should not be interpreted as an absence of crashes."
+      ],
+      "note": "National map: 2021; logarithmic crash counts per 25 km² cell.",
+      "image": "assets/panel-national.webp",
+      "full": "assets/panel-national.png"
+    },
+    {
+      "key": "cities",
+      "label": "City detail",
+      "title": "Street-level patterns within cities",
+      "paragraphs": [
+        "Seattle, Chicago, Los Angeles, and Houston illustrate the finer spatial detail available in urban areas. The 250 m × 250 m grids reveal street networks and localized concentrations that are less visible on the national map.",
+        "These panels describe valid geolocated records, rather than every retained crash in each source."
+      ],
+      "note": "City maps: 2021; logarithmic crash counts per 250 m × 250 m cell.",
+      "image": "assets/panel-cities.webp",
+      "full": "assets/panel-cities.png"
+    },
+    {
+      "key": "years",
+      "label": "Years",
+      "title": "Uneven but extended temporal coverage",
+      "paragraphs": [
+        "USCrash contains 511 annual files spanning 2001–2026. The available years differ by state, with most records concentrated in the more recent releases. Massachusetts and New Jersey each contribute 26 annual files.",
+        "Longitudinal analyses should select comparable state-year populations. The 2026 releases cover only part of the year."
+      ],
+      "note": "Color intensity indicates the number of retained records in an annual file.",
+      "image": "assets/panel-years.webp",
+      "full": "assets/panel-years.png"
+    },
+    {
+      "key": "availability",
+      "label": "Attributes",
+      "title": "Attribute availability varies by source",
+      "paragraphs": [
+        "The common schema gives each field a consistent place and interpretation, but does not make every attribute available in every state. The matrix summarizes availability across the eight schema groups.",
+        "Severity, environmental conditions, and location are more widely available than many roadway and behavioral attributes. Analyses of these contextual fields require attention to missing and unknown values."
+      ],
+      "note": "The matrix summarizes observed availability; it is not an accuracy score.",
+      "image": "assets/panel-availability.webp",
+      "full": "assets/panel-availability.png"
+    }
+  ],
+  "statistics": [
+    {
+      "key": "temporal",
+      "label": "Time",
+      "title": "Temporal patterns",
+      "paragraphs": [
+        "Monthly shares are relatively stable, with higher proportions toward the end of the year. Friday has the largest weekly share (16.7%), and Sunday the smallest (10.9%).",
+        "Weekday crashes show morning and afternoon commuting peaks. Weekend crashes are distributed more broadly from midday into the evening, with relatively higher late-night and early-morning shares."
+      ],
+      "note": "Panels (a)–(c): month, day of week, and hour of day.",
+      "image": "assets/panel-temporal.webp",
+      "full": "assets/panel-temporal.png"
+    },
+    {
+      "key": "severity",
+      "label": "Severity",
+      "title": "Crash severity (KABCO)",
+      "paragraphs": [
+        "No-injury crashes (O) account for 69.5% of records. Possible injury (C) and minor injury (B) represent 11.3% and 8.5%, respectively.",
+        "Serious injury (A) accounts for 2.2%, and fatal crashes (K) for 0.5%. Unknown or unresolved severity remains explicit."
+      ],
+      "note": "Panel (d): percentages describe retained crash records, not individual casualties.",
+      "image": "assets/panel-severity.webp",
+      "full": "assets/panel-severity.png"
+    },
+    {
+      "key": "collision",
+      "label": "Collision",
+      "title": "Crash type and collision manner",
+      "paragraphs": [
+        "Rear-end crashes represent 24.6% of records, followed by events classified as not involving a motor vehicle in transport (22.2%) and angle crashes (19.3%).",
+        "The distribution summarizes harmonized collision-manner categories, including non-collision events where applicable. Unknown and unavailable classifications remain explicit. The manuscript figure provides additional event-level breakdowns."
+      ],
+      "note": "Panel (e): the expanded branch uses its own within-group proportions.",
+      "image": "assets/panel-collision.webp",
+      "full": "assets/panel-collision.png"
+    },
+    {
+      "key": "environment",
+      "label": "Environment",
+      "title": "Weather, lighting, and road-surface conditions",
+      "paragraphs": [
+        "Among records with known weather, lighting, and road-surface conditions, clear weather accounts for 75.2%, daylight for 67.7%, and dry surfaces for 80.5%.",
+        "The three distributions use the same subset of records with known weather, lighting, and road-surface conditions. These frequencies describe observed crash conditions; risk comparisons require corresponding exposure data."
+      ],
+      "note": "Panel (f): linked weather, lighting, and surface categories.",
+      "image": "assets/panel-environment.webp",
+      "full": "assets/panel-environment.png"
+    },
+    {
+      "key": "roadway",
+      "label": "Roadway & behavior",
+      "title": "Roadway characteristics and behavioral factors",
+      "paragraphs": [
+        "Principal arterials account for the largest functional-class share (26.5%), followed by interstates (21.2%). Posted limits are concentrated in the 26–35 mph and 36–45 mph ranges.",
+        "Speeding, alcohol, drugs, and hit-and-run are represented where sources support them. Unknown proportions are substantial, so an unrecorded behavioral factor should not be treated as an observed absence."
+      ],
+      "note": "Panels (g)–(i): functional class, posted speed limit, and behavioral indicators.",
+      "image": "assets/panel-roadway.webp",
+      "full": "assets/panel-roadway.png"
+    }
+  ]
+}

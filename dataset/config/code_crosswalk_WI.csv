@@ -1,0 +1,48 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+WI,*,severity,K,K,K,Fatal injury,CROSSWALK,analysis_crash_severity_kabco,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,severity,A,A,A,Suspected serious injury,CROSSWALK,analysis_crash_severity_kabco,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,severity,B,B,B,Suspected minor injury,CROSSWALK,analysis_crash_severity_kabco,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,severity,C,C,C,Possible injury,CROSSWALK,analysis_crash_severity_kabco,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,severity,O,O,O,No apparent injury,CROSSWALK,analysis_crash_severity_kabco,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,101,101,0,No collision with vehicle in transport,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,102,102,1,Front to rear,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,103,103,2,Front to front,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,104,104,10,Rear to rear,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,105,105,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,106,106,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,107,107,9,Rear to side,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,108,108,6,Front to side / angle,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,998,998,11,Other,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,manner,999,999,99,Unknown,CROSSWALK,MMUCC6-C09,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,101,,CLEAR,CLEAR,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,102,,CLOUDY,CLOUDY,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,103,,RAIN,RAIN,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,104,,SNOW,SNOW,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,105,,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,106,,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,107,,RAIN,RAIN,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,108,,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,109,,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,110,,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,111,,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,998,,OTHER,OTHER,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,weather,999,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_weather,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,light_condition,101,,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6_light_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,light_condition,102,,DAWN,DAWN,CROSSWALK,MMUCC6_light_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,light_condition,103,,DUSK,DUSK,CROSSWALK,MMUCC6_light_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,light_condition,104,,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6_light_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,light_condition,105,,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6_light_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,light_condition,106,,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6_light_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,light_condition,999,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_light_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,101,,DRY,DRY,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,102,,WET,WET,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,103,,SNOW,SNOW,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,104,,SLUSH,SLUSH,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,105,,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,106,,STANDING_WATER,STANDING_WATER,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,107,,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,108,,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,109,,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,110,,OIL,OIL,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,998,,OTHER,OTHER,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED
+WI,*,road_surface_condition,999,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_road_surface_condition,WisDOT DT4000 Field Names and Attributes 2018,REVIEWED

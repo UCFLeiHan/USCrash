@@ -1,0 +1,32 @@
+﻿path,recommendation,reason,bytes
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\_tmp_dup.py,DELETE_AFTER_REVIEW,explicit temporary audit/regression script,430
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\_tmp_ut_audit.py,DELETE_AFTER_REVIEW,explicit temporary audit/regression script,1596
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\_tmp_ut_qa.py,DELETE_AFTER_REVIEW,explicit temporary audit/regression script,3153
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\_tmp_va_audit.py,DELETE_AFTER_REVIEW,explicit temporary audit/regression script,1117
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\_tmp_va_qa.py,DELETE_AFTER_REVIEW,explicit temporary audit/regression script,2440
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\_tmp_wa_audit.py,DELETE_AFTER_REVIEW,explicit temporary audit/regression script,868
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\_tmp_wa_qa.py,DELETE_AFTER_REVIEW,explicit temporary audit/regression script,1790
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\audit_all_state_annual_integrity.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,14849
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\audit_cross_state_consistency.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,13914
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\audit_source_inventory.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,23189
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\build_ca_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,12916
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\build_final_42_state_integrity_audit.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,9940
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\build_oh_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,22051
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\build_sd_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,26313
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\build_ut_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,16884
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\build_va_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,19354
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\build_wa_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,9798
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\discover_state_schemas.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,13893
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\enrich_ct_entity_counts.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,11475
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\enrich_id_from_units.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,17007
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\enrich_ms_from_vehicle_events.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,18250
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\harmonize_crash.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,44674
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\migrate_batch1_74_to_77.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,7080
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\normalize_source_formats.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,16120
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\prepare_nj_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,16064
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\prepare_vt_crash_level.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,8594
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\profile_state_codes.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,12334
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\summarize_harmonization.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,4533
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\__pycache__\validate_harmonized_crash.cpython-311.pyc,DELETE_SAFE_CACHE,generated Python bytecode cache,9173
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\migrate_batch1_74_to_77.py,ARCHIVE,one-time migration or historical audit; retain provenance outside formal entry points,2991
+F:\LH_Research\USCrash\Crash\Unified_MMUCC6\scripts\audit_existing_ms_2004_2008.py,ARCHIVE,one-time migration or historical audit; retain provenance outside formal entry points,2100

@@ -1,0 +1,40 @@
+{
+  "state": "KY",
+  "generated_utc": "2026-10-13T20:01:56.894936+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "KY_candidate_2020_2026_1",
+      "header_signature": "c218a42d94d75751",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "KY/2020/KY_Incident_2020.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 38,
+      "field_candidates": {
+        "crash_id": "IncidentID",
+        "crash_date": "CollisionDate",
+        "crash_time": "CollisionTime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "manner_collision": "MannerofCollision"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

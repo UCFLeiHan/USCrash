@@ -1,0 +1,67 @@
+{
+  "state": "WI",
+  "generated_utc": "2026-10-13T20:01:56.906934+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "WI_candidate_2017_2017_1",
+      "header_signature": "352cb7089a91f01c",
+      "years": [
+        2017
+      ],
+      "example_source": "WI/2017/WIN_annual_dt4000_2017_crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 212,
+      "field_candidates": {
+        "crash_id": "DOCTNMBR",
+        "crash_date": "CRSHDATE",
+        "crash_time": "CRSHTIME",
+        "latitude": "LATDECDG",
+        "longitude": "LONDECDG",
+        "severity": "INJSVR",
+        "manner_collision": "MNRCOLL"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "WI_candidate_2018_2022_2",
+      "header_signature": "9f0342a7d066b087",
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "example_source": "WI/2018/WIN_annual_dt4000_2018_crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 213,
+      "field_candidates": {
+        "crash_id": "DOCTNMBR",
+        "crash_date": "CRSHDATE",
+        "crash_time": "CRSHTIME",
+        "latitude": "LATDECDG",
+        "longitude": "LONDECDG",
+        "severity": "INJSVR",
+        "manner_collision": "MNRCOLL"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

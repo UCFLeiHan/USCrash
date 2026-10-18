@@ -1,0 +1,43 @@
+{
+  "state": "GA",
+  "state_name": "Georgia",
+  "official_agency": "Georgia Department of Transportation",
+  "crash_id_scope": "STATE",
+  "coordinate_bounds": [
+    -85.7,
+    30.3,
+    -80.7,
+    35.1
+  ],
+  "versions": [
+    {
+      "schema_id": "GA_GDOT_dashboard_2021_2025",
+      "year_start": 2021,
+      "year_end": 2025,
+      "source_patterns": [
+        "georgia_gdot_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "Collision ID",
+        "crash_datetime": "Date and Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "county": "Geolocated County",
+        "city": "Geolocated City",
+        "severity_raw_code": "KABCO Severity",
+        "severity_raw_label": "KABCO Severity",
+        "manner_raw_code": "Manner of Collision (Crash Level) ",
+        "manner_raw_label": "Manner of Collision (Crash Level) ",
+        "fatalities": "# of Fatalities per crash (Collision Table)",
+        "vehicles": "# of Vehicles per crash ",
+        "weather_raw_code": "Weather Conditions (Crash Level)",
+        "weather_raw_label": "Weather Conditions (Crash Level)",
+        "light_raw_code": "Light Conditions (Crash Level)",
+        "light_raw_label": "Light Conditions (Crash Level)",
+        "road_surface_raw_code": "Surface Condition (Crash Level) ",
+        "road_surface_raw_label": "Surface Condition (Crash Level) "
+      }
+    }
+  ],
+  "severity_from_fatalities_always": true
+}

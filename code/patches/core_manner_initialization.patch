@@ -1,0 +1,10 @@
+--- portable_code/Unified_MMUCC6/scripts/harmonize_crash.py
++++ isolated_candidate/harmonize_crash.py
+@@ -437,6 +437,7 @@
+                             severity = "K"
+                             severity_prov = "DERIVED_FATALITY_COUNT_OVERRIDES_SOURCE"
+ 
++                    manner_code = ""; manner_prov = "UNRESOLVED_CODE"
+                     if "manner_raw_code" not in fields and "manner_raw_label" not in fields:
+                         mc = ml = manner_code = ""; manner_prov = "UNAVAILABLE"
+                         manner = None

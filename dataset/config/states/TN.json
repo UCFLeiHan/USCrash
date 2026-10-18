@@ -1,0 +1,58 @@
+{
+  "state": "TN",
+  "state_name": "Tennessee",
+  "official_agency": "Tennessee Department of Safety and Homeland Security (TITAN)",
+  "crash_id_scope": "STATE",
+  "coordinate_bounds": [
+    -90.4,
+    34.8,
+    -81.5,
+    36.8
+  ],
+  "severity_from_fatalities_always": true,
+  "versions": [
+    {
+      "schema_id": "TN_TITAN_2016_2026",
+      "year_start": 2016,
+      "year_end": 2026,
+      "source_patterns": [
+        "CSV/TITAN_vwCollision_enriched.csv"
+      ],
+      "fields": {
+        "crash_id": "MstrRecNbrTxt",
+        "crash_date": "CollisionDte",
+        "crash_time_raw": "CollisionTimeTxt",
+        "latitude": "LatDecimalNmb",
+        "longitude": "LongDecimalNmb",
+        "county": "CountyStateCde",
+        "city": "CityCde",
+        "severity_raw_code": "CrashTypeCde",
+        "severity_raw_label": "CrashTypeCde",
+        "fatalities": "NbrFatalitiesNmb",
+        "injuries": "NbrInjuredNmb",
+        "vehicles": "NbrUnitsNmb",
+        "manner_raw_code": "MannerCollisionCde",
+        "first_harmful_event_raw_code": "FirstHarmfulEventCde",
+        "weather_raw_code": "WeatherCde",
+        "light_raw_code": "LightConditionCde",
+        "road_surface_raw_code": "DerivedSurfaceConditionCde",
+        "intersection_related": "IntersectionInd",
+        "intersection_type": "IntersectTypeCde",
+        "work_zone_related": "DerivedWorkZoneRelated",
+        "work_zone_type": "WorkZoneTypeCde",
+        "alcohol_involved": "AlcoholInd",
+        "drug_involved": "DrugInd",
+        "speeding_involved": "DerivedSpeedingRelated",
+        "hit_and_run": "HitRunInd",
+        "pedestrian_count": "DerivedPedestrianCount",
+        "bicyclist_count": "DerivedBicyclistCount",
+        "motorcycle_count": "DerivedMotorcycleCount",
+        "commercial_vehicle_involved": "CommercialInd",
+        "school_bus_related": "DerivedSchoolBusRelated",
+        "relation_to_trafficway": "RelationToRoadCde",
+        "posted_speed_limit": "DerivedPostedSpeedNmb",
+        "number_of_lanes": "DerivedNumberOfLanes"
+      }
+    }
+  ]
+}

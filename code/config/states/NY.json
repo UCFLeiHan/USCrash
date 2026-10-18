@@ -1,0 +1,43 @@
+{
+  "state": "NY",
+  "state_name": "New York",
+  "official_agency": "New York State Department of Motor Vehicles",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -79.8,
+    40.4,
+    -71.7,
+    45.1
+  ],
+  "versions": [
+    {
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "year_start": 2021,
+      "year_end": 2024,
+      "source_patterns": [
+        "NYS_DMV_case.csv"
+      ],
+      "crash_id_from_row_number": true,
+      "fields": {
+        "crash_date": "date",
+        "crash_time_raw": "time",
+        "county": "county_name",
+        "city": "municipality",
+        "severity_raw_code": "accident_descriptor",
+        "severity_raw_label": "accident_descriptor",
+        "vehicles": "number_of_vehicles_involved",
+        "manner_raw_code": "collision_type_descriptor",
+        "manner_raw_label": "collision_type_descriptor",
+        "first_harmful_event_raw_code": "event_descriptor",
+        "first_harmful_event_raw_label": "event_descriptor",
+        "weather_raw_code": "weather_conditions",
+        "weather_raw_label": "weather_conditions",
+        "light_raw_code": "lighting_conditions",
+        "light_raw_label": "lighting_conditions",
+        "road_surface_raw_code": "road_surface_conditions",
+        "road_surface_raw_label": "road_surface_conditions"
+      }
+    }
+  ],
+  "deduplicate_by_crash_id": false
+}

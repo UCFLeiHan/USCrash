@@ -1,0 +1,35 @@
+{
+  "state": "MD",
+  "generated_utc": "2026-10-13T20:01:56.895934+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "MD_candidate_2024_2026_1",
+      "header_signature": "513c821c913e81b3",
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "MD/2024/MD_crashes_2024.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 23,
+      "field_candidates": {
+        "crash_id": "Reportnumber",
+        "latitude": "Latitude (generated)",
+        "longitude": "Longitude (generated)",
+        "severity": "Crash Severity Description",
+        "manner_collision": "CollisionImpact Description"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 0,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

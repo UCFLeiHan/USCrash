@@ -1,0 +1,79 @@
+{
+  "state": "MO",
+  "state_name": "Missouri",
+  "official_agency": "Missouri State Highway Patrol",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -95.9,
+    35.9,
+    -89.0,
+    40.7
+  ],
+  "severity_from_fatalities_always": true,
+  "versions": [
+    {
+      "schema_id": "MO_MSHP_2002_2003",
+      "source_patterns": [
+        "MO_crashes_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "ACCIDENT",
+        "crash_date": "ACC_DATE",
+        "crash_time_raw": "ACC_TIME",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "county": "COUNTY",
+        "city": "CITY",
+        "severity_raw_code": "SEVERITY",
+        "severity_raw_label": "SEVERITY",
+        "fatalities": "KILLED",
+        "injuries": "INJURED",
+        "vehicles": "NO_VEHICLE",
+        "light_raw_code": "LIGHT_COND",
+        "light_raw_label": "LIGHT_COND",
+        "first_harmful_event_raw_code": "ACC_TYPE",
+        "first_harmful_event_raw_label": "ACC_TYPE",
+        "hit_and_run": "LEFT_SCENE",
+        "speeding_involved": "SPEED",
+        "work_zone_related": "CZONE",
+        "school_bus_related": "SCHOOL_BUS",
+        "commercial_vehicle_involved": "CMV",
+        "motorcycle_involved": "MOTORCYCLE"
+      },
+      "year_start": 2002,
+      "year_end": 2003
+    },
+    {
+      "schema_id": "MO_MSHP_2013_2026",
+      "source_patterns": [
+        "MO_crashes_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "ACCIDENT",
+        "crash_date": "ACC_DATE",
+        "crash_time_raw": "ACC_TIME",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "county": "COUNTY",
+        "city": "CITY",
+        "severity_raw_code": "SEVERITY",
+        "severity_raw_label": "SEVERITY",
+        "fatalities": "KILLED",
+        "injuries": "INJURED",
+        "vehicles": "NO_VEHICLE",
+        "light_raw_code": "LIGHT_COND",
+        "light_raw_label": "LIGHT_COND",
+        "first_harmful_event_raw_code": "ACC_TYPE",
+        "first_harmful_event_raw_label": "ACC_TYPE",
+        "hit_and_run": "LEFT_SCENE",
+        "speeding_involved": "SPEED",
+        "work_zone_related": "CZONE",
+        "school_bus_related": "SCHOOL_BUS",
+        "commercial_vehicle_involved": "CMV",
+        "motorcycle_involved": "MOTORCYCLE"
+      },
+      "year_start": 2013,
+      "year_end": 2026
+    }
+  ]
+}

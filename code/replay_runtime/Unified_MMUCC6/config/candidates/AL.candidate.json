@@ -1,0 +1,66 @@
+{
+  "state": "AL",
+  "generated_utc": "2026-10-13T20:01:56.855540+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "AL_candidate_2014_2019_1",
+      "header_signature": "23d182c2506d1bff",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "example_source": "AL/2014/alabama_care_historical_2014.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 43,
+      "field_candidates": {
+        "crash_id": "Crash Number",
+        "severity": "Crash Severity"
+      },
+      "completeness_score": 40,
+      "score_components": {
+        "identifier": 20,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "AL_candidate_2020_2025_2",
+      "header_signature": "853fd4e54eec707b",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "AL/2020/alabama_arcgis_current_2020.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 59,
+      "field_candidates": {
+        "crash_id": "CrashNum",
+        "crash_datetime": "DateTime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "mapSeverity"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

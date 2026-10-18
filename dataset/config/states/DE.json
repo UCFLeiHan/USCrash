@@ -1,0 +1,48 @@
+{
+  "state": "DE",
+  "state_name": "Delaware",
+  "official_agency": "Delaware Department of Transportation",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -75.8,
+    38.4,
+    -74.9,
+    39.9
+  ],
+  "versions": [
+    {
+      "schema_id": "DE_Public_Crash_2009_2026",
+      "year_start": 2009,
+      "year_end": 2026,
+      "source_patterns": [
+        "Delaware_Public_Crash_Data.csv"
+      ],
+      "crash_id_from_row_number": true,
+      "fields": {
+        "crash_datetime": "crash_datetime",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "county": "county_desc",
+        "city": "?not_provided",
+        "severity_raw_code": "crash_class",
+        "severity_raw_label": "crash_class_desc",
+        "manner_raw_code": "impact",
+        "manner_raw_label": "impact_desc",
+        "weather_raw_code": "weather_1",
+        "weather_raw_label": "weather_1_desc",
+        "light_raw_code": "light_cond",
+        "light_raw_label": "light_cond_desc",
+        "road_surface_raw_code": "road_surface",
+        "road_surface_raw_label": "road_surface_desc",
+        "alcohol_involved": "alcohol_involved",
+        "drug_involved": "drug_involved",
+        "work_zone_related": "work_zone",
+        "school_bus_related": "school_bus_involved_desc",
+        "pedestrian_involved": "ped_involved",
+        "bicyclist_involved": "bike_involved",
+        "motorcycle_involved": "mc_involved"
+      }
+    }
+  ],
+  "allow_date_year_mismatch": true
+}

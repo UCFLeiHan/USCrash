@@ -1,0 +1,8 @@
+state,parent_source_code,detail_source_code,detail_source_label,canonical_code,canonical_label,mapping_status,standard_identifier,reason,review_status
+OR,6,B,Entering at angle - all others,6,Angle,CONDITIONAL_CROSSWALK,MMUCC6-C09,Detailed ODOT crash type explicitly identifies angle entry,REVIEWED
+OR,6,A,Entering at angle - one vehicle stopped,6,Angle,CONDITIONAL_CROSSWALK,MMUCC6-C09,Detailed ODOT crash type explicitly identifies angle entry,REVIEWED
+OR,6,H,"From opposite direction-one left turn,one straight",6,Angle,CONDITIONAL_CROSSWALK,MMUCC6-C09,Turning vehicle and opposing through vehicle intersect at an angle,REVIEWED
+OR,6,H,"From opposite direction - one turn, one straight",6,Angle,CONDITIONAL_CROSSWALK,MMUCC6-C09,Turning vehicle and opposing through vehicle intersect at an angle,REVIEWED
+OR,6,6,Pedalcyclist,0,Not a collision with motor vehicle in transport,CONDITIONAL_CROSSWALK,MMUCC6-C09,Pedalcyclist is a non-motorist,REVIEWED
+OR,6,2,Parked motor vehicle,0,Not a collision with motor vehicle in transport,CONDITIONAL_CROSSWALK,MMUCC6-C09,Parked motor vehicle is not in transport,REVIEWED
+OR,6,4,Railway train,0,Not a collision with motor vehicle in transport,CONDITIONAL_CROSSWALK,MMUCC6-C09,Railway train is not a motor vehicle in transport,REVIEWED

@@ -1,0 +1,135 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+CT,*,injury_severity,Fatal Injury (K),Fatal Injury (K),K,K,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,injury_severity,Suspected Serious Injury (A),Suspected Serious Injury (A),A,A,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,injury_severity,Suspected Minor Injury (B),Suspected Minor Injury (B),B,B,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,injury_severity,Possible Injury (C),Possible Injury (C),C,C,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,injury_severity,No Apparent Injury (O),No Apparent Injury (O),O,O,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,severity,Fatal (Kill),Fatal (Kill),K,K,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,severity,"Injury of any type (Serious, Minor, Possible)","Injury of any type (Serious, Minor, Possible)",U,U,INJURY_PRESENT_SEVERITY_UNSPECIFIED,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,severity,Property Damage Only,Property Damage Only,O,O,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Angle,Angle,6,6,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Front to front,Front to front,2,2,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Front to rear,Front to rear,1,1,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Not Applicable,Not Applicable,0,0,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Other,Other,11,11,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Rear to rear,Rear to rear,10,10,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Rear to side,Rear to side,9,9,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,"Sideswipe, opposite direction","Sideswipe, opposite direction",8,8,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,"Sideswipe, same direction","Sideswipe, same direction",7,7,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,manner,Unknown,Unknown,99,99,SOURCE_UNKNOWN,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,"Blowing Sand, Soil, Dirt","Blowing Sand, Soil, Dirt",BLOWING_SAND_SOIL_DIRT,BLOWING_SAND_SOIL_DIRT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Blowing Snow,Blowing Snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,"Fog, Smog, Smoke","Fog, Smog, Smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Freezing Rain or Freezing Drizzle,Freezing Rain or Freezing Drizzle,FREEZING_RAIN_DRIZZLE,FREEZING_RAIN_DRIZZLE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Not Applicable,Not Applicable,NOT_APPLICABLE,NOT_APPLICABLE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Severe Crosswinds,Severe Crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Sleet or Hail,Sleet or Hail,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Dark-Lighted,Dark-Lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Dark-Not Lighted,Dark-Not Lighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Dark-Unknown Lighting,Dark-Unknown Lighting,DARK_UNKNOWN_LIGHTING,DARK_UNKNOWN_LIGHTING,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Dawn,Dawn,DAWN,DAWN,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Dusk,Dusk,DUSK,DUSK,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,light_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Ice / Frost,Ice / Frost,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Moving Water,Moving Water,MOVING_WATER,MOVING_WATER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,"Mud, Dirt, Gravel","Mud, Dirt, Gravel",MUD_DIRT_GRAVEL,MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Oil,Oil,OIL,OIL,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Sand,Sand,SAND,SAND,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Slush,Slush,SLUSH,SLUSH,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Standing Water,Standing Water,STANDING_WATER,STANDING_WATER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Animal Other Than Deer (live),Animal Other Than Deer (live),COLLISION_WITH_ANIMAL_OTHER,COLLISION_WITH_ANIMAL_OTHER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Animal Other Than Deer (live),Animal Other Than Deer (live),ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Bridge Overhead Structure,Bridge Overhead Structure,COLLISION_WITH_BRIDGE_OVERHEAD_STRUCTURE,COLLISION_WITH_BRIDGE_OVERHEAD_STRUCTURE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Bridge Overhead Structure,Bridge Overhead Structure,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Bridge Pier or Support,Bridge Pier or Support,COLLISION_WITH_BRIDGE_PIER_SUPPORT,COLLISION_WITH_BRIDGE_PIER_SUPPORT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Bridge Pier or Support,Bridge Pier or Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Bridge Rail,Bridge Rail,COLLISION_WITH_BRIDGE_RAIL,COLLISION_WITH_BRIDGE_RAIL,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Bridge Rail,Bridge Rail,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Cable Barrier,Cable Barrier,COLLISION_WITH_CABLE_BARRIER,COLLISION_WITH_CABLE_BARRIER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Cable Barrier,Cable Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Cargo/Equipment Loss or Shift,Cargo/Equipment Loss or Shift,CARGO_EQUIPMENT_LOSS_OR_SHIFT,CARGO_EQUIPMENT_LOSS_OR_SHIFT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Cargo/Equipment Loss or Shift,Cargo/Equipment Loss or Shift,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Concrete Traffic Barrier,Concrete Traffic Barrier,COLLISION_WITH_CONCRETE_TRAFFIC_BARRIER,COLLISION_WITH_CONCRETE_TRAFFIC_BARRIER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Concrete Traffic Barrier,Concrete Traffic Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Culvert,Culvert,COLLISION_WITH_CULVERT,COLLISION_WITH_CULVERT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Culvert,Culvert,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Curb,Curb,COLLISION_WITH_CURB,COLLISION_WITH_CURB,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Curb,Curb,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Deer,Deer,COLLISION_WITH_ANIMAL_DEER,COLLISION_WITH_ANIMAL_DEER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Deer,Deer,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Ditch,Ditch,COLLISION_WITH_DITCH,COLLISION_WITH_DITCH,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Ditch,Ditch,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Embankment,Embankment,COLLISION_WITH_EMBANKMENT,COLLISION_WITH_EMBANKMENT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Embankment,Embankment,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Fell/Jumped from Vehicle,Fell/Jumped from Vehicle,FELL_JUMPED_FROM_MOTOR_VEHICLE,FELL_JUMPED_FROM_MOTOR_VEHICLE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Fell/Jumped from Vehicle,Fell/Jumped from Vehicle,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Fence,Fence,COLLISION_WITH_FENCE,COLLISION_WITH_FENCE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Fence,Fence,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Fire / Explosion,Fire / Explosion,FIRE_EXPLOSION,FIRE_EXPLOSION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Fire / Explosion,Fire / Explosion,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Guardrail End,Guardrail End,COLLISION_WITH_GUARDRAIL_END,COLLISION_WITH_GUARDRAIL_END,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Guardrail End,Guardrail End,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Guardrail Face,Guardrail Face,COLLISION_WITH_GUARDRAIL_FACE,COLLISION_WITH_GUARDRAIL_FACE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Guardrail Face,Guardrail Face,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,"Immersion, Full or Partial","Immersion, Full or Partial",IMMERSION,IMMERSION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,"Immersion, Full or Partial","Immersion, Full or Partial",IMMERSION,IMMERSION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Impact Attenuator/Crash Cushion,Impact Attenuator/Crash Cushion,COLLISION_WITH_IMPACT_ATTENUATOR,COLLISION_WITH_IMPACT_ATTENUATOR,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Impact Attenuator/Crash Cushion,Impact Attenuator/Crash Cushion,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Jackknife,Jackknife,JACKKNIFE,JACKKNIFE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Jackknife,Jackknife,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Mailbox,Mailbox,COLLISION_WITH_MAILBOX,COLLISION_WITH_MAILBOX,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Mailbox,Mailbox,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Motor Vehicle in Operation,Motor Vehicle in Operation,COLLISION_WITH_MOTOR_VEHICLE_IN_TRANSPORT,COLLISION_WITH_MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Motor Vehicle in Operation,Motor Vehicle in Operation,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,"Other Fixed Object (wall, building, tunnel, etc.)","Other Fixed Object (wall, building, tunnel, etc.)",COLLISION_WITH_OTHER_FIXED_OBJECT,COLLISION_WITH_OTHER_FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,"Other Fixed Object (wall, building, tunnel, etc.)","Other Fixed Object (wall, building, tunnel, etc.)",FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Other Non-Collision,Other Non-Collision,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Other Non-Collision,Other Non-Collision,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Other Non-Fixed Object,Other Non-Fixed Object,COLLISION_WITH_OTHER_NON_FIXED_OBJECT,COLLISION_WITH_OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Other Non-Fixed Object,Other Non-Fixed Object,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Other Non-motorist,Other Non-motorist,COLLISION_WITH_OTHER_NON_MOTORIST,COLLISION_WITH_OTHER_NON_MOTORIST,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Other Non-motorist,Other Non-motorist,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,"Other Post, Pole or Support","Other Post, Pole or Support",COLLISION_WITH_OTHER_POST_POLE_SUPPORT,COLLISION_WITH_OTHER_POST_POLE_SUPPORT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,"Other Post, Pole or Support","Other Post, Pole or Support",FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Other Traffic Barrier,Other Traffic Barrier,COLLISION_WITH_OTHER_TRAFFIC_BARRIER,COLLISION_WITH_OTHER_TRAFFIC_BARRIER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Other Traffic Barrier,Other Traffic Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Overturn/Rollover,Overturn/Rollover,OVERTURN_ROLLOVER,OVERTURN_ROLLOVER,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Overturn/Rollover,Overturn/Rollover,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Parked Motor Vehicle,Parked Motor Vehicle,COLLISION_WITH_PARKED_MOTOR_VEHICLE,COLLISION_WITH_PARKED_MOTOR_VEHICLE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Parked Motor Vehicle,Parked Motor Vehicle,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Pedalcycle/Pedalcyclist,Pedalcycle/Pedalcyclist,COLLISION_WITH_PEDALCYCLIST,COLLISION_WITH_PEDALCYCLIST,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Pedalcycle/Pedalcyclist,Pedalcycle/Pedalcyclist,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Pedestrian,Pedestrian,COLLISION_WITH_PEDESTRIAN,COLLISION_WITH_PEDESTRIAN,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Pedestrian,Pedestrian,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,"Railway Vehicle (train, engine)","Railway Vehicle (train, engine)",COLLISION_WITH_RAILWAY_VEHICLE,COLLISION_WITH_RAILWAY_VEHICLE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,"Railway Vehicle (train, engine)","Railway Vehicle (train, engine)",TRAIN,TRAIN,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,"Struck by Falling, Shifting Cargo or Anything Set in Motion by Motor Vehicle","Struck by Falling, Shifting Cargo or Anything Set in Motion by Motor Vehicle",STRUCK_BY_FALLING_SHIFTING_CARGO,STRUCK_BY_FALLING_SHIFTING_CARGO,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,"Struck by Falling, Shifting Cargo or Anything Set in Motion by Motor Vehicle","Struck by Falling, Shifting Cargo or Anything Set in Motion by Motor Vehicle",OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Thrown or Falling Object,Thrown or Falling Object,THROWN_OR_FALLING_OBJECT,THROWN_OR_FALLING_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Thrown or Falling Object,Thrown or Falling Object,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Traffic Sign Support,Traffic Sign Support,COLLISION_WITH_TRAFFIC_SIGN_SUPPORT,COLLISION_WITH_TRAFFIC_SIGN_SUPPORT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Traffic Sign Support,Traffic Sign Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Traffic Signal Support,Traffic Signal Support,COLLISION_WITH_TRAFFIC_SIGNAL_SUPPORT,COLLISION_WITH_TRAFFIC_SIGNAL_SUPPORT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Traffic Signal Support,Traffic Signal Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Tree (standing),Tree (standing),COLLISION_WITH_TREE,COLLISION_WITH_TREE,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Tree (standing),Tree (standing),FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Utility Pole/Light Support,Utility Pole/Light Support,COLLISION_WITH_UTILITY_POLE_LIGHT_SUPPORT,COLLISION_WITH_UTILITY_POLE_LIGHT_SUPPORT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Utility Pole/Light Support,Utility Pole/Light Support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event,Work Zone/Maintenance Equipment,Work Zone/Maintenance Equipment,COLLISION_WITH_WORK_ZONE_MAINTENANCE_EQUIPMENT,COLLISION_WITH_WORK_ZONE_MAINTENANCE_EQUIPMENT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,first_harmful_event_group,Work Zone/Maintenance Equipment,Work Zone/Maintenance Equipment,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED
+CT,*,injury_severity,,,U,U,SOURCE_MISSING,MMUCC6,CTDOT/UConn official crash export embedded labels,REVIEWED

@@ -1,0 +1,809 @@
+{
+  "state": "NY",
+  "state_name": "New York",
+  "basis": "All configured annual inputs to harmonization; executable bindings from current state configurations. Inputs may be prepared tables, rather than untouched raw downloads.",
+  "configuration": "code/config/states/NY.json",
+  "annual_inputs": [
+    {
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "output_path": "Unified_MMUCC6/data/crash/NY/NY_crashes_harmonized_2021.csv",
+      "field_count": 18,
+      "header_sha256": "eaee871f2654d04bc76a5e30702445a7195dd6b06495925011b73d215d0fc168",
+      "source_fields": [
+        "year",
+        "accident_descriptor",
+        "time",
+        "date",
+        "day_of_week",
+        "police_report",
+        "lighting_conditions",
+        "municipality",
+        "collision_type_descriptor",
+        "county_name",
+        "road_descriptor",
+        "weather_conditions",
+        "traffic_control_device",
+        "road_surface_conditions",
+        "dot_reference_marker_location",
+        "pedestrian_bicyclist_action",
+        "event_descriptor",
+        "number_of_vehicles_involved"
+      ]
+    },
+    {
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "output_path": "Unified_MMUCC6/data/crash/NY/NY_crashes_harmonized_2022.csv",
+      "field_count": 18,
+      "header_sha256": "eaee871f2654d04bc76a5e30702445a7195dd6b06495925011b73d215d0fc168",
+      "source_fields": [
+        "year",
+        "accident_descriptor",
+        "time",
+        "date",
+        "day_of_week",
+        "police_report",
+        "lighting_conditions",
+        "municipality",
+        "collision_type_descriptor",
+        "county_name",
+        "road_descriptor",
+        "weather_conditions",
+        "traffic_control_device",
+        "road_surface_conditions",
+        "dot_reference_marker_location",
+        "pedestrian_bicyclist_action",
+        "event_descriptor",
+        "number_of_vehicles_involved"
+      ]
+    },
+    {
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "output_path": "Unified_MMUCC6/data/crash/NY/NY_crashes_harmonized_2023.csv",
+      "field_count": 18,
+      "header_sha256": "eaee871f2654d04bc76a5e30702445a7195dd6b06495925011b73d215d0fc168",
+      "source_fields": [
+        "year",
+        "accident_descriptor",
+        "time",
+        "date",
+        "day_of_week",
+        "police_report",
+        "lighting_conditions",
+        "municipality",
+        "collision_type_descriptor",
+        "county_name",
+        "road_descriptor",
+        "weather_conditions",
+        "traffic_control_device",
+        "road_surface_conditions",
+        "dot_reference_marker_location",
+        "pedestrian_bicyclist_action",
+        "event_descriptor",
+        "number_of_vehicles_involved"
+      ]
+    },
+    {
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "output_path": "Unified_MMUCC6/data/crash/NY/NY_crashes_harmonized_2024.csv",
+      "field_count": 18,
+      "header_sha256": "eaee871f2654d04bc76a5e30702445a7195dd6b06495925011b73d215d0fc168",
+      "source_fields": [
+        "year",
+        "accident_descriptor",
+        "time",
+        "date",
+        "day_of_week",
+        "police_report",
+        "lighting_conditions",
+        "municipality",
+        "collision_type_descriptor",
+        "county_name",
+        "road_descriptor",
+        "weather_conditions",
+        "traffic_control_device",
+        "road_surface_conditions",
+        "dot_reference_marker_location",
+        "pedestrian_bicyclist_action",
+        "event_descriptor",
+        "number_of_vehicles_involved"
+      ]
+    }
+  ],
+  "configured_bindings": [
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "crash_date",
+      "source_binding": "date",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "crash_time_raw",
+      "source_binding": "time",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "county",
+      "source_binding": "county_name",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "city",
+      "source_binding": "municipality",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "vehicles",
+      "source_binding": "number_of_vehicles_involved",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_code",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_label",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_code",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_label",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "light_raw_code",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "light_raw_label",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_code",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2021,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2021/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_label",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "crash_date",
+      "source_binding": "date",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "crash_time_raw",
+      "source_binding": "time",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "county",
+      "source_binding": "county_name",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "city",
+      "source_binding": "municipality",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "vehicles",
+      "source_binding": "number_of_vehicles_involved",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_code",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_label",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_code",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_label",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "light_raw_code",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "light_raw_label",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_code",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2022,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2022/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_label",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "crash_date",
+      "source_binding": "date",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "crash_time_raw",
+      "source_binding": "time",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "county",
+      "source_binding": "county_name",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "city",
+      "source_binding": "municipality",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "vehicles",
+      "source_binding": "number_of_vehicles_involved",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_code",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_label",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_code",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_label",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "light_raw_code",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "light_raw_label",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_code",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2023,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2023/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_label",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "crash_date",
+      "source_binding": "date",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "crash_time_raw",
+      "source_binding": "time",
+      "binding_kind": "helper_binding",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "county",
+      "source_binding": "county_name",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "city",
+      "source_binding": "municipality",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_code",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "severity_raw_label",
+      "source_binding": "accident_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "vehicles",
+      "source_binding": "number_of_vehicles_involved",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_code",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "manner_raw_label",
+      "source_binding": "collision_type_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_code",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "first_harmful_event_raw_label",
+      "source_binding": "event_descriptor",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_code",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "weather_raw_label",
+      "source_binding": "weather_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "light_raw_code",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "light_raw_label",
+      "source_binding": "lighting_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_code",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    },
+    {
+      "state": "NY",
+      "year": 2024,
+      "schema_id": "NY_DMV_Public_Case_2021_2024",
+      "input_path": "States/NY/2024/NYS_DMV_case.csv",
+      "target_binding": "road_surface_raw_label",
+      "source_binding": "road_surface_conditions",
+      "binding_kind": "canonical_field",
+      "exact_source_header_match": true
+    }
+  ],
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "input_files": 4
+}

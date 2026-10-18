@@ -1,0 +1,66 @@
+{
+  "state": "MI",
+  "generated_utc": "2026-10-13T20:01:56.895934+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "MI_candidate_2017_2019_1",
+      "header_signature": "ed421778f0b8a799",
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "example_source": "MI/2017/MI_crashes_2017_arcgis.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 74,
+      "field_candidates": {
+        "crash_date": "CRSH_DATE",
+        "crash_time": "CRSH_TIME",
+        "latitude": "latitude",
+        "longitude": "longitude"
+      },
+      "completeness_score": 40,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "MI_candidate_2020_2025_2",
+      "header_signature": "25858f4a12c6e209",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "MI/2020/MI_crashes_2020_mtcf.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 30,
+      "field_candidates": {
+        "crash_id": "crash_id",
+        "crash_time": "time_of_day",
+        "latitude": "lat",
+        "longitude": "lng",
+        "severity": "worst_injury_in_accident",
+        "manner_collision": "crash_type"
+      },
+      "completeness_score": 90,
+      "score_components": {
+        "identifier": 20,
+        "time": 10,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

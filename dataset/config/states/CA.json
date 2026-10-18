@@ -1,0 +1,48 @@
+{
+  "state": "CA",
+  "state_name": "California",
+  "official_agency": "California Highway Patrol / California Crash Reporting System",
+  "crash_id_scope": "YEAR",
+  "deduplicate_by_crash_id": true,
+  "allow_fatality_severity_mismatch": true,
+  "coordinate_bounds": [-124.6, 32.3, -113.9, 42.2],
+  "versions": [
+    {
+      "schema_id": "CA_CCRS_CRASH_LEVEL_2016_2026",
+      "year_start": 2016,
+      "year_end": 2026,
+      "source_patterns": ["Derived/CA_crash_level_{year}.csv"],
+      "fields": {
+        "crash_id": "CollisionId",
+        "crash_datetime": "CrashDateTime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "county": "County",
+        "city": "City",
+        "severity_raw_code": "Severity",
+        "severity_raw_label": "SeverityRaw",
+        "fatalities": "Fatalities",
+        "injuries": "Injuries",
+        "vehicles": "Vehicles",
+        "manner_raw_code": "MannerCategory",
+        "manner_raw_label": "MannerRaw",
+        "first_harmful_event_raw_code": "HarmfulCategory",
+        "first_harmful_event_raw_label": "HarmfulRaw",
+        "weather_raw_code": "WeatherCategory",
+        "weather_raw_label": "WeatherRaw",
+        "light_raw_code": "LightCategory",
+        "light_raw_label": "LightRaw",
+        "road_surface_raw_code": "SurfaceCategory",
+        "road_surface_raw_label": "SurfaceRaw",
+        "work_zone_related": "WorkZone",
+        "alcohol_involved": "AlcoholInvolved",
+        "drug_involved": "DrugInvolved",
+        "hit_and_run": "HitRun",
+        "pedestrian_count": "PedestrianCount",
+        "bicyclist_count": "BicyclistCount",
+        "motorcycle_count": "MotorcycleCount",
+        "school_bus_related": "SchoolBusRelated"
+      }
+    }
+  ]
+}

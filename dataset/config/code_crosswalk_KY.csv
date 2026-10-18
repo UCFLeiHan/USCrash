@@ -1,0 +1,46 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+KY,KY_ClassicCollision_2020_2026,severity,01,01,K,K,DERIVED_PERSON_WORST_INJURY,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,severity,02,02,A,A,DERIVED_PERSON_WORST_INJURY,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,severity,03,03,B,B,DERIVED_PERSON_WORST_INJURY,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,severity,04,04,C,C,DERIVED_PERSON_WORST_INJURY,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,severity,05,05,O,O,DERIVED_PERSON_WORST_INJURY,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,SINGLE VEHICLE,SINGLE VEHICLE,0,0,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,REAR END,REAR END,1,1,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,ANGLE,ANGLE,6,6,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,SIDESWIPE-SAME DIRECTION,SIDESWIPE-SAME DIRECTION,7,7,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,BACKING,BACKING,9,9,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,SIDESWIPE-OPPOSITE DIRECTION,SIDESWIPE-OPPOSITE DIRECTION,8,8,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,OPPOSING LEFT TURN,OPPOSING LEFT TURN,6,6,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,HEAD ON,HEAD ON,2,2,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,manner,REAR TO REAR,REAR TO REAR,10,10,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,CLEAR,CLEAR,CLEAR,CLEAR,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,CLOUDY,CLOUDY,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,RAINING,RAINING,RAIN,RAIN,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,SNOWING,SNOWING,SNOW,SNOW,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,FOG,FOG,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,SLEET HAIL FREEZING RAIN,SLEET HAIL FREEZING RAIN,SLEET_HAIL_FREEZING_RAIN,SLEET_HAIL_FREEZING_RAIN,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,FOG WITH RAIN,FOG WITH RAIN,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,OTHER,OTHER,OTHER,OTHER,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,BLOWING SAND/SOIL/DIRT/SNOW,BLOWING SAND/SOIL/DIRT/SNOW,BLOWING_SAND_OR_SNOW,BLOWING_SAND_OR_SNOW,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,SEVERE CROSSWINDS,SEVERE CROSSWINDS,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,weather,SMOG SMOKE,SMOG SMOKE,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,DRY,DRY,DRY,DRY,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,WET,WET,WET,WET,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,SNOW/SLUSH,SNOW/SLUSH,SNOW,SNOW,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,ICE,ICE,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,WATER (STANDING OR MOVING),WATER (STANDING OR MOVING),WATER_STANDING_MOVING,WATER_STANDING_MOVING,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,GRAVEL,GRAVEL,MUD_DIRT_GRAVEL,MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,FLOODED,FLOODED,STANDING_WATER,STANDING_WATER,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,OTHER,OTHER,OTHER,OTHER,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,MUD-DIRT,MUD-DIRT,MUD_DIRT_GRAVEL,MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,OIL,OIL,OIL,OIL,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,road_surface_condition,SAND,SAND,SAND,SAND,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,DAYLIGHT,DAYLIGHT,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,DARK-HWY LIGHTED/ON,DARK-HWY LIGHTED/ON,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,DARK-HWY NOT LIGHTED,DARK-HWY NOT LIGHTED,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,DUSK,DUSK,DUSK,DUSK,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,DAWN,DAWN,DAWN,DAWN,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,DARK (UNKNOWN ROADWAY LIGHTING),DARK (UNKNOWN ROADWAY LIGHTING),DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,DARK-HWY LIGHTED/OFF,DARK-HWY LIGHTED/OFF,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED
+KY,KY_ClassicCollision_2020_2026,light_condition,OTHER,OTHER,OTHER,OTHER,CROSSWALK,MMUCC6,Kentucky Classic Collision official extract labels and person InjurySeverityCde,REVIEWED

@@ -1,0 +1,75 @@
+{
+  "state": "MS",
+  "generated_utc": "2026-10-13T20:01:56.896939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "MS_candidate_2004_2018_1",
+      "header_signature": "a53ed319816cd2ea",
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "example_source": "MS/2004/CSV/MS_ReportBeam_2004_CrashTable_2004.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 23,
+      "field_candidates": {
+        "crash_id": "intCrashID"
+      },
+      "completeness_score": 20,
+      "score_components": {
+        "identifier": 20,
+        "time": 0,
+        "coordinates": 0,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "MS_candidate_2019_2025_2",
+      "header_signature": "147b4df6c2dbd694",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "MS/2019/mississippi_ecrash_2019.xlsx",
+      "encoding_or_sheet": "xlsx:Crashes",
+      "column_count": 53,
+      "field_candidates": {
+        "crash_id": "Crash ID",
+        "crash_date": "Crash Date",
+        "crash_time": "Crash Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

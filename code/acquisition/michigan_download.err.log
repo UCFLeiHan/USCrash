@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "F:\LH_Research\USCrash\Crash\_scripts\download_michigan_arcgis.py", line 22, in <module>
+    ids=sorted(get(url+'/query',{'where':'1=1','returnIdsOnly':'true'})['objectIds'])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable

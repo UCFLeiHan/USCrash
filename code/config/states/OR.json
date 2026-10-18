@@ -1,0 +1,89 @@
+{
+  "state": "OR",
+  "state_name": "Oregon",
+  "official_agency": "Oregon Department of Transportation Crash Analysis and Reporting Unit",
+  "versions": [
+    {
+      "schema_id": "OR_legacy_2007_2010",
+      "year_start": 2007,
+      "year_end": 2010,
+      "source_patterns": ["CSV/OR_{year}_crash.csv", "crashes{year}.csv"],
+      "fields": {
+        "crash_id": "CRASH_ID",
+        "crash_date": "CRASH_DT",
+        "crash_time_raw": "CRASH_HR_L",
+        "crash_hour": "CRASH_HR_N",
+        "latitude": "latitude_wgs84|LAT_DD",
+        "longitude": "longitude_wgs84|LONGTD_DD",
+        "county": "CNTY_NM",
+        "city": "CITY_SECT1",
+        "severity_raw_code": "CRASH_SVRT",
+        "severity_raw_label": "CRASH_SV_1",
+        "manner_raw_code": "COLLIS_TYP",
+        "manner_raw_label": "COLLIS_T_1",
+        "manner_detail_raw_code": "CRASH_TYP_",
+        "manner_detail_raw_label": "CRASH_TYP1",
+        "fatalities": "TOT_FATAL_",
+        "injuries": "TOT_INJ_CN",
+        "vehicles": "TOT_VHCL_C",
+        "weather_raw_code": "WTHR_COND_",
+        "weather_raw_label": "WTHR_COND1",
+        "light_raw_code": "LGT_COND_C",
+        "light_raw_label": "LGT_COND_L",
+        "road_surface_raw_code": "RD_SURF_CO",
+        "road_surface_raw_label": "RD_SURF_ME"
+      }
+    },
+    {
+      "schema_id": "OR_legacy_gdb_2011_2014",
+      "year_start": 2011,
+      "year_end": 2014,
+      "source_patterns": ["CSV/OR_{year}_crash.csv"],
+      "fields": {
+        "crash_id": "CRASH_ID", "crash_date": "CRASH_DT", "crash_time_raw": "CRASH_HR_L", "crash_hour": "CRASH_HR_N",
+        "latitude": "latitude_wgs84|LAT_DD", "longitude": "longitude_wgs84|LONGTD_DD", "county": "CNTY_NM", "city": "CITY_SECT1",
+        "severity_raw_code": "CRASH_SVRT", "severity_raw_label": "CRASH_SV_1",
+        "injury_severity_raw_code": "?HIGHEST_IN", "injury_severity_raw_label": "?HIGHEST__1",
+        "manner_raw_code": "COLLIS_TYP", "manner_raw_label": "COLLIS_T_1",
+        "manner_detail_raw_code": "CRASH_TYP_", "manner_detail_raw_label": "CRASH_TYP1",
+        "fatalities": "TOT_FATAL_", "injuries": "TOT_INJ_CN", "vehicles": "TOT_VHCL_C",
+        "weather_raw_code": "WTHR_COND_", "weather_raw_label": "WTHR_COND1",
+        "light_raw_code": "LGT_COND_C", "light_raw_label": "LGT_COND_L",
+        "road_surface_raw_code": "RD_SURF_CO", "road_surface_raw_label": "RD_SURF_ME"
+      }
+    },
+    {
+      "schema_id": "OR_modern_2015_2024",
+      "year_start": 2015,
+      "year_end": 2024,
+      "source_patterns": ["CSV/OR_{year}_crash.csv", "CSV/OR_{year}_crashes.csv"],
+      "fields": {
+        "crash_id": "CRASH_ID",
+        "crash_date": "CRASH_DT",
+        "crash_time_raw": "CRASH_HR_LONG_DESC",
+        "crash_hour": "CRASH_HR_NO",
+        "latitude": "LAT_DD",
+        "longitude": "LONGTD_DD",
+        "county": "CNTY_NM",
+        "city": "CITY_SECT_NM",
+        "severity_raw_code": "CRASH_SVRTY_CD",
+        "severity_raw_label": "CRASH_SVRTY_LONG_DESC",
+        "injury_severity_raw_code": "HIGHEST_INJ_SVRTY_CD",
+        "injury_severity_raw_label": "HIGHEST_INJ_SVRTY_DESC",
+        "manner_raw_code": "COLLIS_TYP_CD",
+        "manner_raw_label": "COLLIS_TYP_LONG_DESC",
+        "manner_detail_raw_code": "CRASH_TYP_CD",
+        "manner_detail_raw_label": "CRASH_TYP_LONG_DESC",
+        "fatalities": "TOT_FATAL_CNT",
+        "injuries": "TOT_INJ_CNT",
+        "vehicles": "TOT_VHCL_CNT",
+        "weather_raw_code": "WTHR_COND_CD",
+        "weather_raw_label": "WTHR_COND_LONG_DESC",
+        "light_raw_code": "LGT_COND_CD",
+        "light_raw_label": "LGT_COND_LONG_DESC",
+        "road_surface_raw_code": "RD_SURF_COND_CD",
+        "road_surface_raw_label": "RD_SURF_MED_DESC"
+      }
+    }
+  ]
+}

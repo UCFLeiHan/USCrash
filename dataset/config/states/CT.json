@@ -1,0 +1,48 @@
+{
+  "state": "CT",
+  "state_name": "Connecticut",
+  "official_agency": "Connecticut Department of Transportation / UConn Connecticut Crash Data Repository",
+  "crash_id_scope": "STATE",
+  "coordinate_bounds": [
+    -73.8,
+    40.9,
+    -71.7,
+    42.1
+  ],
+  "versions": [
+    {
+      "schema_id": "CTDOT_UConn_2015_2026",
+      "year_start": 2015,
+      "year_end": 2026,
+      "source_patterns": [
+        "CTDOT_crashes.csv"
+      ],
+      "fields": {
+        "crash_id": "CrashID",
+        "crash_date": "CrashDate",
+        "crash_hour": "CrashTimeHour",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "city": "CrashTownName",
+        "injury_severity_raw_code": "MostSevereInjury",
+        "injury_severity_raw_label": "MostSevereInjury",
+        "manner_raw_code": "MannerOfCrashCollisionImpact",
+        "manner_raw_label": "MannerOfCrashCollisionImpact",
+        "weather_raw_code": "WeatherCondition",
+        "weather_raw_label": "WeatherCondition",
+        "light_raw_code": "LightCondition",
+        "light_raw_label": "LightCondition",
+        "road_surface_raw_code": "TrafficSurfaceCondition",
+        "road_surface_raw_label": "TrafficSurfaceCondition",
+        "first_harmful_event_raw_code": "FirstHarmfulEvent",
+        "first_harmful_event_raw_label": "FirstHarmfulEvent",
+        "work_zone_related": "IsCrashRelatedToAWorkZone",
+        "school_bus_related": "SchoolBusRelated",
+        "severity_raw_code": "CrashSeverity",
+        "severity_raw_label": "CrashSeverity"
+      },
+      "epoch_millis_timezone": "America/New_York",
+      "injury_severity_fallback_to_severity": true
+    }
+  ]
+}

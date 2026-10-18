@@ -1,0 +1,61 @@
+{
+  "state": "NM",
+  "state_name": "New Mexico",
+  "official_agency": "New Mexico Department of Transportation",
+  "crash_id_scope": "STATE",
+  "allow_date_year_mismatch": true,
+  "known_limitations": [
+    "The official 2019 EGIS layer provides year, month, weekday and time but omits the calendar day; crash_date and crash_datetime are intentionally blank."
+  ],
+  "coordinate_bounds": [
+    -109.1,
+    31.0,
+    -102.9,
+    37.1
+  ],
+  "versions": [
+    {
+      "schema_id": "NMDOT_EGIS_Crashes_2019",
+      "year_start": 2019,
+      "year_end": 2019,
+      "source_patterns": [
+        "NM_crashes_{year}.csv"
+      ],
+      "severity_from_injury_counts": true,
+      "fields": {
+        "crash_id": "UCRnumber",
+        "crash_time_raw": "MilitaryTime",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "county": "County",
+        "city": "City",
+        "severity_count_k": "Killed",
+        "severity_count_a": "ClassA",
+        "severity_count_b": "ClassB",
+        "severity_count_c": "ClassC",
+        "fatalities": "Killed",
+        "injuries": "Injured",
+        "vehicles": "NVeh",
+        "manner_raw_code": "Analysis",
+        "manner_raw_label": "Analysis",
+        "first_harmful_event_raw_code": "Class",
+        "first_harmful_event_raw_label": "Class",
+        "weather_raw_code": "Weather",
+        "weather_raw_label": "Weather",
+        "light_raw_code": "Light",
+        "light_raw_label": "Light",
+        "hit_and_run": "HitRun",
+        "alcohol_involved": "AlcInv",
+        "drug_involved": "DrugInv",
+        "pedestrian_involved": "PedInv",
+        "bicyclist_involved": "PecInv",
+        "motorcycle_involved": "McInv",
+        "commercial_vehicle_involved": "TrkInv",
+        "crash_year": "Year",
+        "crash_month": "Month"
+      },
+      "date_precision": "MONTH"
+    }
+  ],
+  "allow_missing_crash_date": true
+}

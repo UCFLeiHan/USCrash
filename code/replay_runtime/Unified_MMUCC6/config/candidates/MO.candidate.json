@@ -1,0 +1,49 @@
+{
+  "state": "MO",
+  "generated_utc": "2026-10-13T20:01:56.896939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "MO_candidate_2002_2026_1",
+      "header_signature": "eaf9b7bc49d3a970",
+      "years": [
+        2002,
+        2003,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "MO/2002/MO_crashes_2002.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 58,
+      "field_candidates": {
+        "crash_date": "ACC_DATE",
+        "crash_time": "ACC_TIME",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "severity": "SEVERITY",
+        "manner_collision": "ACC_TYPE"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "records": 4670092,
+  "years": "2016\u20132026",
+  "valid_before": 3376507,
+  "valid_after": 3421511,
+  "new_coordinates": 45004,
+  "missing_after": 1248581,
+  "missing_pct_after": 26.735683151424,
+  "modified_annual_files": 10,
+  "named_cities_improved": 74,
+  "raw_modified": false,
+  "existing_valid_coordinates_overwritten": false,
+  "noncoordinate_fields_changed": false,
+  "independent_validation": "PASS",
+  "source_hashes_verified": 5,
+  "geometry_precision": "Published/geocoded locations; not necessarily measured GPS. Composite links are not exact police-ID links.",
+  "independent_new_point_county_screen": "PASS",
+  "full_current_CA_scan_reconciled": true,
+  "report": "F:\\LH_Research\\USCrash\\Crash\\Unified_MMUCC6\\qa\\CA_other_cities_2026-10-16\\index.html",
+  "revision_directory": "F:\\LH_Research\\USCrash\\Crash\\Unified_MMUCC6\\qa\\CA_other_cities_2026-10-16"
+}

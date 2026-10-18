@@ -1,0 +1,88 @@
+{
+  "state": "MI",
+  "state_name": "Michigan",
+  "official_agency": "Michigan State Police / Michigan Traffic Crash Facts",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -90.5,
+    41.5,
+    -82.0,
+    48.5
+  ],
+  "versions": [
+    {
+      "schema_id": "MI_ArcGIS_2017_2019",
+      "year_start": 2017,
+      "year_end": 2019,
+      "source_patterns": [
+        "MI_crashes_{year}_arcgis.csv"
+      ],
+      "epoch_millis_timezone": "UTC",
+      "fields": {
+        "crash_id": "CRSH_ID",
+        "crash_date": "CRSH_DATE",
+        "crash_time_raw": "CRSH_TIME",
+        "latitude": "latitude",
+        "longitude": "longitude",
+        "severity_raw_code": "GRTS_SVTY_CD",
+        "severity_raw_label": "GRTS_SVTY_CD",
+        "fatalities": "NUM_FATL",
+        "injuries": "NUM_INJY",
+        "vehicles": "NUM_UNIT",
+        "manner_raw_code": "CRSH_TYPE_CD",
+        "manner_raw_label": "CRSH_TYPE_CD",
+        "weather_raw_code": "WTHR_CD",
+        "weather_raw_label": "WTHR_CD",
+        "light_raw_code": "LIT_CD",
+        "light_raw_label": "LIT_CD",
+        "road_surface_raw_code": "RD_COND_CD",
+        "road_surface_raw_label": "RD_COND_CD",
+        "intersection_related": "INTR_INVL_IND",
+        "work_zone_related": "CNST_TYPE_CD",
+        "alcohol_involved": "ALCH_INVL_IND",
+        "drug_involved": "DRUG_INVL_IND",
+        "hit_and_run": "SPCL_CRCM_FLEE",
+        "pedestrian_involved": "PED_INVL_IND",
+        "bicyclist_involved": "BCYL_INVL_IND",
+        "motorcycle_involved": "MYCY_INVL_IND",
+        "commercial_vehicle_involved": "TRK_BUS_INVL_IND",
+        "school_bus_related": "SPCL_CRCM_SCHL",
+        "posted_speed_limit": "SPD_LIMT",
+        "number_of_lanes": "NUM_LNS"
+      }
+    },
+    {
+      "schema_id": "MI_MTCF_2020_2025",
+      "year_start": 2020,
+      "year_end": 2025,
+      "source_patterns": [
+        "MI_crashes_{year}_mtcf.csv"
+      ],
+      "fields": {
+        "crash_id": "crash_id",
+        "crash_year": "accident_year",
+        "crash_month": "accident_month",
+        "crash_day": "accident_day",
+        "crash_time_raw": "time_of_day",
+        "latitude": "lat",
+        "longitude": "lng",
+        "severity_raw_code": "worst_injury_in_accident",
+        "severity_raw_label": "worst_injury_in_accident",
+        "vehicles": "total_motor_vehicles",
+        "manner_raw_code": "crash_type",
+        "manner_raw_label": "crash_type",
+        "weather_raw_code": "weather_2016",
+        "weather_raw_label": "weather_2016",
+        "light_raw_code": "light",
+        "light_raw_label": "light",
+        "road_surface_raw_code": "road_conditions",
+        "road_surface_raw_label": "road_conditions",
+        "hit_and_run": "crash_hit_and_run",
+        "city": "city_or_township",
+        "county": "county",
+        "relation_to_trafficway": "trafficway"
+      }
+    }
+  ],
+  "deduplicate_by_crash_id": true
+}

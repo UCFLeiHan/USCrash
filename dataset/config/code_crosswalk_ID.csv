@@ -1,0 +1,6 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+ID,*,severity,Fatal Accident,Fatal Accident,K,K,CROSSWALK,MMUCC6,ITD official ArcGIS embedded labels,REVIEWED
+ID,*,severity,A Injury Accident,A Injury Accident,A,A,CROSSWALK,MMUCC6,ITD official ArcGIS embedded labels,REVIEWED
+ID,*,severity,B Injury Accident,B Injury Accident,B,B,CROSSWALK,MMUCC6,ITD official ArcGIS embedded labels,REVIEWED
+ID,*,severity,C Injury Accident,C Injury Accident,C,C,CROSSWALK,MMUCC6,ITD official ArcGIS embedded labels,REVIEWED
+ID,*,severity,Property Dmg Report,Property Dmg Report,O,O,CROSSWALK,MMUCC6,ITD official ArcGIS embedded labels,REVIEWED

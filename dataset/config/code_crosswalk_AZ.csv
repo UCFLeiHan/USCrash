@@ -1,0 +1,143 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+AZ,*,severity,1,1,O,No injury,CROSSWALK,analysis_crash_severity_kabco,ADOT New definition tables.xls,REVIEWED
+AZ,*,severity,2,2,C,Possible injury,CROSSWALK,analysis_crash_severity_kabco,ADOT New definition tables.xls,REVIEWED
+AZ,*,severity,3,3,B,Suspected minor injury,CROSSWALK,analysis_crash_severity_kabco,ADOT New definition tables.xls,REVIEWED
+AZ,*,severity,4,4,A,Suspected serious injury,CROSSWALK,analysis_crash_severity_kabco,ADOT New definition tables.xls,REVIEWED
+AZ,*,severity,5,5,K,Fatal injury,CROSSWALK,analysis_crash_severity_kabco,ADOT New definition tables.xls,REVIEWED
+AZ,*,severity,99,99,U,Unknown,CROSSWALK,analysis_crash_severity_kabco,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,1,1,0,Not a collision with motor vehicle in transport,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,2,2,6,Angle,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,3,3,6,Angle / left turn,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,4,4,1,Front-to-rear,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,5,5,2,Front to front,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,6,6,7,Sideswipe same direction,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,7,7,8,Sideswipe opposite direction,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,8,8,9,Rear-to-side,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,9,9,10,Rear to rear,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,10,10,11,Other / U-turn,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,97,97,11,Other,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,99,99,99,Unknown,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,102,102,6,Angle same direction,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,103,103,6,Angle opposite direction,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,104,104,6,Right angle,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,manner,105,105,6,Angle direction not specified,CROSSWALK,MMUCC6-C09,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,1,,CLEAR,CLEAR,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,2,,CLOUDY,CLOUDY,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,3,,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,4,,RAIN,RAIN,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,5,,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,6,,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,7,,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,8,,SNOW,SNOW,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,9,,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,97,,OTHER,OTHER,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,weather,99,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_weather,ADOT New definition tables.xls,REVIEWED
+AZ,*,light_condition,1,,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6_light_condition,ADOT New definition tables.xls,REVIEWED
+AZ,*,light_condition,2,,DAWN,DAWN,CROSSWALK,MMUCC6_light_condition,ADOT New definition tables.xls,REVIEWED
+AZ,*,light_condition,3,,DUSK,DUSK,CROSSWALK,MMUCC6_light_condition,ADOT New definition tables.xls,REVIEWED
+AZ,*,light_condition,4,,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6_light_condition,ADOT New definition tables.xls,REVIEWED
+AZ,*,light_condition,5,,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6_light_condition,ADOT New definition tables.xls,REVIEWED
+AZ,*,light_condition,51,,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6_light_condition,ADOT New definition tables.xls,REVIEWED
+AZ,*,light_condition,6,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6_light_condition,ADOT New definition tables.xls,REVIEWED
+AZ,*,first_harmful_event,1,,OVERTURN_ROLLOVER,OVERTURN_ROLLOVER,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,1,,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,2,,FIRE_EXPLOSION,FIRE_EXPLOSION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,2,,FIRE_EXPLOSION,FIRE_EXPLOSION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,3,,IMMERSION,IMMERSION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,3,,IMMERSION,IMMERSION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,4,,JACKKNIFE,JACKKNIFE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,4,,JACKKNIFE,JACKKNIFE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,5,,CARGO_EQUIPMENT_LOSS_SHIFT,CARGO_EQUIPMENT_LOSS_SHIFT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,5,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,6,,FELL_JUMPED_FROM_VEHICLE,FELL_JUMPED_FROM_VEHICLE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,6,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,7,,THROWN_OR_FALLING_OBJECT,THROWN_OR_FALLING_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,7,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,8,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,8,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,9,,EQUIPMENT_FAILURE_TIRES_BRAKES,EQUIPMENT_FAILURE_TIRES_BRAKES,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,9,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,10,,SEPARATION_OF_UNITS,SEPARATION_OF_UNITS,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,10,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,11,,RAN_OFF_ROAD_RIGHT,RAN_OFF_ROAD_RIGHT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,11,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,12,,RAN_OFF_ROAD_LEFT,RAN_OFF_ROAD_LEFT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,12,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,13,,CROSS_MEDIAN,CROSS_MEDIAN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,13,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,14,,CROSS_CENTERLINE,CROSS_CENTERLINE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,14,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,15,,DOWNHILL_RUNAWAY,DOWNHILL_RUNAWAY,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,15,,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,16,,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,16,,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,17,,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,17,,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,18,,PEDALCYCLE,PEDALCYCLE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,18,,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,19,,RAILWAY_VEHICLE_TRAIN_ENGINE,RAILWAY_VEHICLE_TRAIN_ENGINE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,19,,TRAIN,TRAIN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,20,,LIGHT_RAILWAY_RAILCAR_VEHICLE,LIGHT_RAILWAY_RAILCAR_VEHICLE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,20,,TRAIN,TRAIN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,21,,ANIMAL_WILD_NON_GAME,ANIMAL_WILD_NON_GAME,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,21,,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,22,,ANIMAL_WILD_GAME,ANIMAL_WILD_GAME,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,22,,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,23,,ANIMAL_PET,ANIMAL_PET,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,23,,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,24,,ANIMAL_LIVESTOCK,ANIMAL_LIVESTOCK,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,24,,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,25,,PARKED_MOTOR_VEHICLE,PARKED_MOTOR_VEHICLE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,25,,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,26,,WORK_ZONE_MAINTENANCE_EQUIPMENT,WORK_ZONE_MAINTENANCE_EQUIPMENT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,26,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,27,,STRUCK_BY_FALLING_SHIFTING_CARGO_OR_OBJECT,STRUCK_BY_FALLING_SHIFTING_CARGO_OR_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,27,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,28,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,28,,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,29,,IMPACT_ATTENUATOR_CRASH_CUSHION,IMPACT_ATTENUATOR_CRASH_CUSHION,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,29,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,30,,BRIDGE_OVERHEAD_STRUCTURE,BRIDGE_OVERHEAD_STRUCTURE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,30,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,31,,BRIDGE_RAIL,BRIDGE_RAIL,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,31,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,32,,CULVERT,CULVERT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,32,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,33,,CURB,CURB,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,33,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,34,,DITCH,DITCH,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,34,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,35,,EMBANKMENT,EMBANKMENT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,35,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,36,,GUARDRAIL_FACE,GUARDRAIL_FACE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,36,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,37,,GUARDRAIL_END,GUARDRAIL_END,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,37,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,38,,CONCRETE_TRAFFIC_BARRIER,CONCRETE_TRAFFIC_BARRIER,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,38,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,39,,CABLE_TRAFFIC_BARRIER,CABLE_TRAFFIC_BARRIER,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,39,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,40,,OTHER_TRAFFIC_BARRIER,OTHER_TRAFFIC_BARRIER,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,40,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,41,,TREE_BUSH_STUMP_STANDING,TREE_BUSH_STUMP_STANDING,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,41,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,42,,TRAFFIC_SIGN_SUPPORT,TRAFFIC_SIGN_SUPPORT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,42,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,43,,TRAFFIC_SIGNAL_SUPPORT,TRAFFIC_SIGNAL_SUPPORT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,43,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,44,,UTILITY_POLE_LIGHT_SUPPORT,UTILITY_POLE_LIGHT_SUPPORT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,44,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,45,,OTHER_POST_POLE_OR_SUPPORT,OTHER_POST_POLE_OR_SUPPORT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,45,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,46,,FENCE,FENCE,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,46,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,47,,MAILBOX,MAILBOX,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,47,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,48,,BUILDING,BUILDING,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,48,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,49,,OTHER_FIXED_OBJECT,OTHER_FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,49,,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,99,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,99,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event,255,,NOT_REPORTED,NOT_REPORTED,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED
+AZ,*,first_harmful_event_group,255,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,"ADOT New definition tables.xls, Code Tables A_L rows 306-356",REVIEWED

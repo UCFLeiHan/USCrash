@@ -1,0 +1,89 @@
+{
+  "state": "AL",
+  "state_name": "Alabama",
+  "official_agency": "Alabama CARE / Alabama Department of Transportation",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -88.6,
+    30.1,
+    -84.8,
+    35.1
+  ],
+  "versions": [
+    {
+      "schema_id": "AL_CARE_historical_2014_2019",
+      "year_start": 2014,
+      "year_end": 2019,
+      "source_patterns": [
+        "alabama_care_historical_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "Record ID",
+        "crash_year": "Year",
+        "crash_month": "Month",
+        "crash_day": "Day of Month",
+        "crash_time_raw": "Time of Day",
+        "latitude": "?not_provided",
+        "longitude": "?not_provided",
+        "county": "County",
+        "city": "City",
+        "severity_raw_code": "Crash Severity",
+        "severity_raw_label": "Crash Severity",
+        "manner_raw_code": "E Manner of Crash",
+        "manner_raw_label": "E Manner of Crash",
+        "fatalities": "Number Killed",
+        "injuries": "Number Injured (Includes Fatalities)",
+        "vehicles": "Number of Vehicles",
+        "weather_raw_code": "Weather",
+        "weather_raw_label": "Weather",
+        "light_raw_code": "Lighting Conditions",
+        "light_raw_label": "Lighting Conditions",
+        "road_surface_raw_code": "CU Roadway Condition",
+        "road_surface_raw_label": "CU Roadway Condition",
+        "first_harmful_event_raw_code": "First Harmful Event",
+        "first_harmful_event_raw_label": "First Harmful Event",
+        "intersection_related": "Intersection Related",
+        "school_bus_related": "School Bus Related",
+        "pedestrian_count": "Number of Pedestrians",
+        "bicyclist_count": "Number of Pedacyclists"
+      },
+      "date_year_from_file": true
+    },
+    {
+      "schema_id": "AL_CARE_ArcGIS_2020_2025",
+      "year_start": 2020,
+      "year_end": 2025,
+      "source_patterns": [
+        "alabama_arcgis_current_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "RecordID",
+        "crash_datetime": "DateTime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "county": "County",
+        "city": "City",
+        "severity_raw_code": "CrashSev",
+        "severity_raw_label": "CrashSev",
+        "manner_raw_code": "ManrCrs",
+        "manner_raw_label": "ManrCrs",
+        "fatalities": "NumKilledN",
+        "injuries": "NumInjFatN",
+        "vehicles": "NumVeh",
+        "weather_raw_code": "Weather",
+        "weather_raw_label": "Weather",
+        "light_raw_code": "Lighting",
+        "light_raw_label": "Lighting",
+        "road_surface_raw_code": "CURdCond",
+        "road_surface_raw_label": "CURdCond",
+        "first_harmful_event_raw_code": "FrstHmEv",
+        "first_harmful_event_raw_label": "FrstHmEv",
+        "intersection_related": "IntRel",
+        "school_bus_related": "SchoolBus",
+        "pedestrian_count": "NumPed",
+        "bicyclist_count": "NumByc"
+      }
+    }
+  ],
+  "severity_from_fatalities_always": true
+}

@@ -1,0 +1,42 @@
+{
+  "state": "KS",
+  "generated_utc": "2026-10-13T20:01:56.893944+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "KS_candidate_2016_2026_1",
+      "header_signature": "9a064c0b5811038b",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "KS/2016/kansas_crashes_2016.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 97,
+      "field_candidates": {
+        "crash_date": "DATE_OF_ACCIDENT",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "severity": "MOST_SERIOUS_INJURY"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

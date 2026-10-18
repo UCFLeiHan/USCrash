@@ -1,0 +1,45 @@
+{
+  "state": "IA",
+  "generated_utc": "2026-10-13T20:01:56.892939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "IA_candidate_2015_2025_1",
+      "header_signature": "dc1fe62148eb3b87",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "IA/2015/Iowa_DOT_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 51,
+      "field_candidates": {
+        "crash_id": "CASENUMBER",
+        "crash_datetime": "CRASH_DATETIME",
+        "crash_date": "CRASH_DATE",
+        "crash_time": "TIMESTR",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CSEV"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

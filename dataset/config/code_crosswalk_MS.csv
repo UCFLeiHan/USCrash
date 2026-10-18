@@ -1,0 +1,87 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+MS,MS_eCrash_2019_2025,weather,"Blowing sand, soil, dirt","Blowing sand, soil, dirt",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Blowing sand, soil, dirt; Cloudy","Blowing sand, soil, dirt; Cloudy",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Blowing sand, soil, dirt; Freezing rain or freezing drizzle","Blowing sand, soil, dirt; Freezing rain or freezing drizzle",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Blowing sand, soil, dirt; Rain","Blowing sand, soil, dirt; Rain",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Blowing sand, soil, dirt; Severe crosswinds","Blowing sand, soil, dirt; Severe crosswinds",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow,Blowing snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow; Cloudy,Blowing snow; Cloudy,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow; Freezing rain or freezing drizzle,Blowing snow; Freezing rain or freezing drizzle,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow; Other,Blowing snow; Other,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow; Rain,Blowing snow; Rain,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow; Severe crosswinds,Blowing snow; Severe crosswinds,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow; Sleet or hail,Blowing snow; Sleet or hail,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Blowing snow; Snow,Blowing snow; Snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Cloudy; Blowing sand, soil, dirt","Cloudy; Blowing sand, soil, dirt",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy; Blowing snow,Cloudy; Blowing snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Cloudy; Fog, smog, smoke","Cloudy; Fog, smog, smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy; Freezing rain or freezing drizzle,Cloudy; Freezing rain or freezing drizzle,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy; Other,Cloudy; Other,OTHER,OTHER,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy; Rain,Cloudy; Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy; Severe crosswinds,Cloudy; Severe crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy; Sleet or hail,Cloudy; Sleet or hail,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Cloudy; Snow,Cloudy; Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Fog, smog, smoke","Fog, smog, smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Fog, smog, smoke; Cloudy","Fog, smog, smoke; Cloudy",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Fog, smog, smoke; Freezing rain or freezing drizzle","Fog, smog, smoke; Freezing rain or freezing drizzle",RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Fog, smog, smoke; Other","Fog, smog, smoke; Other",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Fog, smog, smoke; Rain","Fog, smog, smoke; Rain",RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Fog, smog, smoke; Sleet or hail","Fog, smog, smoke; Sleet or hail",RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Fog, smog, smoke; Snow","Fog, smog, smoke; Snow",SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle,Freezing rain or freezing drizzle,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle; Blowing snow,Freezing rain or freezing drizzle; Blowing snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle; Cloudy,Freezing rain or freezing drizzle; Cloudy,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Freezing rain or freezing drizzle; Fog, smog, smoke","Freezing rain or freezing drizzle; Fog, smog, smoke",RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle; Other,Freezing rain or freezing drizzle; Other,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle; Rain,Freezing rain or freezing drizzle; Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle; Severe crosswinds,Freezing rain or freezing drizzle; Severe crosswinds,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle; Sleet or hail,Freezing rain or freezing drizzle; Sleet or hail,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Freezing rain or freezing drizzle; Snow,Freezing rain or freezing drizzle; Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Other; Cloudy,Other; Cloudy,OTHER,OTHER,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Other; Fog, smog, smoke","Other; Fog, smog, smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Other; Freezing rain or freezing drizzle,Other; Freezing rain or freezing drizzle,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Other; Rain,Other; Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Rain; Blowing sand, soil, dirt","Rain; Blowing sand, soil, dirt",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain; Blowing snow,Rain; Blowing snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain; Cloudy,Rain; Cloudy,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Rain; Fog, smog, smoke","Rain; Fog, smog, smoke",RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain; Freezing rain or freezing drizzle,Rain; Freezing rain or freezing drizzle,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain; Other,Rain; Other,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain; Severe crosswinds,Rain; Severe crosswinds,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain; Sleet or hail,Rain; Sleet or hail,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Rain; Snow,Rain; Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Severe crosswinds,Severe crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Severe crosswinds; Blowing sand, soil, dirt","Severe crosswinds; Blowing sand, soil, dirt",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Severe crosswinds; Blowing snow,Severe crosswinds; Blowing snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Severe crosswinds; Cloudy,Severe crosswinds; Cloudy,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Severe crosswinds; Other,Severe crosswinds; Other,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Severe crosswinds; Rain,Severe crosswinds; Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Severe crosswinds; Snow,Severe crosswinds; Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Sleet or hail,Sleet or hail,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Sleet or hail; Blowing snow,Sleet or hail; Blowing snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Sleet or hail; Cloudy,Sleet or hail; Cloudy,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Sleet or hail; Freezing rain or freezing drizzle,Sleet or hail; Freezing rain or freezing drizzle,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Sleet or hail; Other,Sleet or hail; Other,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Sleet or hail; Rain,Sleet or hail; Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Sleet or hail; Snow,Sleet or hail; Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow; Blowing snow,Snow; Blowing snow,BLOWING_SNOW,BLOWING_SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow; Cloudy,Snow; Cloudy,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,"Snow; Fog, smog, smoke","Snow; Fog, smog, smoke",SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow; Freezing rain or freezing drizzle,Snow; Freezing rain or freezing drizzle,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow; Other,Snow; Other,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow; Rain,Snow; Rain,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow; Severe crosswinds,Snow; Severe crosswinds,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Snow; Sleet or hail,Snow; Sleet or hail,SNOW,SNOW,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,light_condition,Dark - lighted,Dark - lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,light_condition,Dark - not lighted,Dark - not lighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,light_condition,Dark - unknown lighting,Dark - unknown lighting,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,light_condition,Dawn/dusk,Dawn/dusk,DAWN_DUSK,DAWN_DUSK,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,light_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED
+MS,MS_eCrash_2019_2025,light_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Mississippi eCrash official exported field labels,REVIEWED

@@ -1,0 +1,44 @@
+{
+  "state": "WA",
+  "generated_utc": "2026-10-13T20:01:56.905935+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "WA_candidate_2015_2026_1",
+      "header_signature": "35e567dd32872c11",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "WA/2015/WSP_CAT_summary_2015-01-01_2015-12-31.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 1,
+      "field_candidates": {
+        "crash_id": "ReportNumber",
+        "crash_datetime": "DateTimeOfIncident",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "InjurySeverity"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

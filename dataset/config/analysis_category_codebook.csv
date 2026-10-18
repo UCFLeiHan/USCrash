@@ -1,0 +1,51 @@
+field,code,definition,standard_basis
+first_harmful_event_group,MOTOR_VEHICLE_IN_TRANSPORT,Collision with a motor vehicle in transport,MMUCC6
+first_harmful_event_group,PEDESTRIAN,Collision with a pedestrian,MMUCC6/FARS analytical grouping
+first_harmful_event_group,PEDALCYCLIST,Collision with a pedalcyclist or other nonmotorist conveyance,MMUCC6/FARS analytical grouping
+first_harmful_event_group,ANIMAL,Collision with an animal,MMUCC6/FARS analytical grouping
+first_harmful_event_group,PARKED_VEHICLE,Collision with a parked motor vehicle,MMUCC6/FARS analytical grouping
+first_harmful_event_group,FIXED_OBJECT,Collision with a fixed object,MMUCC6/FARS analytical grouping
+first_harmful_event_group,TRAIN,Collision with a railway vehicle,MMUCC6/FARS analytical grouping
+first_harmful_event_group,OTHER_NON_FIXED_OBJECT,Collision with another nonfixed object,MMUCC6/FARS analytical grouping
+first_harmful_event_group,ROLLOVER_OVERTURN,Rollover or overturn,MMUCC6/FARS analytical grouping
+first_harmful_event_group,FIRE_EXPLOSION,Fire or explosion,MMUCC6/FARS analytical grouping
+first_harmful_event_group,IMMERSION,Immersion or partial immersion,MMUCC6/FARS analytical grouping
+first_harmful_event_group,JACKKNIFE,Jackknife event,MMUCC6/FARS analytical grouping
+first_harmful_event_group,OTHER_NON_COLLISION,Other noncollision harmful event,MMUCC6/FARS analytical grouping
+weather,CLEAR,Clear weather,MMUCC6
+weather,CLOUDY,Cloudy weather,MMUCC6
+weather,RAIN,Rain or freezing rain,MMUCC6
+weather,SNOW,Snow,MMUCC6
+weather,SLEET_HAIL,Sleet or hail,MMUCC6
+weather,FOG_SMOKE,Fog smog or smoke,MMUCC6
+weather,SEVERE_CROSSWIND,Severe crosswinds,MMUCC6
+weather,BLOWING_SAND_SOIL,Blowing sand soil or dirt,MMUCC6
+weather,BLOWING_SNOW,Blowing snow,MMUCC6
+weather,OTHER,Other reported weather,MMUCC6
+weather,UNKNOWN,Unknown or not reported,MMUCC6
+light_condition,DAYLIGHT,Daylight,MMUCC6
+light_condition,DAWN,Dawn,MMUCC6
+light_condition,DUSK,Dusk,MMUCC6
+light_condition,DARK_LIGHTED,Dark with roadway lighting,MMUCC6
+light_condition,DARK_UNLIGHTED,Dark without roadway lighting,MMUCC6
+light_condition,DARK_UNKNOWN,Dark with lighting status unknown,MMUCC6
+light_condition,OTHER,Other light condition,MMUCC6
+light_condition,UNKNOWN,Unknown or not reported,MMUCC6
+road_surface_condition,DRY,Dry roadway,MMUCC6
+road_surface_condition,WET,Wet roadway,MMUCC6
+road_surface_condition,SNOW,Snow-covered roadway,MMUCC6
+road_surface_condition,SLUSH,Slush,MMUCC6
+road_surface_condition,ICE_FROST,Ice or frost,MMUCC6
+road_surface_condition,SAND_MUD_DIRT_GRAVEL,Sand mud dirt or gravel,MMUCC6
+road_surface_condition,OIL,Oil on roadway,MMUCC6
+road_surface_condition,STANDING_WATER,Standing or moving water,MMUCC6
+road_surface_condition,OTHER,Other surface condition,MMUCC6
+road_surface_condition,UNKNOWN,Unknown or not reported,MMUCC6
+functional_class,INTERSTATE,Interstate,FHWA
+functional_class,OTHER_FREEWAY_EXPRESSWAY,Other freeway or expressway,FHWA
+functional_class,PRINCIPAL_ARTERIAL,Other principal arterial,FHWA
+functional_class,MINOR_ARTERIAL,Minor arterial,FHWA
+functional_class,MAJOR_COLLECTOR,Major collector,FHWA
+functional_class,MINOR_COLLECTOR,Minor collector,FHWA
+functional_class,LOCAL,Local road,FHWA
+functional_class,UNKNOWN,Unknown functional class,FHWA

@@ -1,0 +1,275 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+FL,*,severity,0,,U,Unknown/not coded,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,severity,1,,O,No injury,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,severity,2,,C,Possible injury,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,severity,3,,B,Non-incapacitating injury,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,severity,4,,A,Incapacitating injury,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,severity,5,,K,Fatal within 30 days,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,severity,6,,O,Non-traffic fatality; traffic-crash injury severity is no injury,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,severity,,No Injury,O,No Injury,EXACT,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,severity,,Possible Injury,C,Possible Injury,EXACT,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,severity,,Non-Incapacitating Injury,B,Non-Incapacitating Injury,EXACT,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,severity,,Incapacitating Injury,A,Incapacitating Injury,EXACT,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,severity,,Fatal (within 30 days),K,Fatal (within 30 days),EXACT,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,severity,,Non-Traffic Fatality,O,Non-Traffic Fatality,EXACT,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,00,,99,Not coded,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,01,,1,Front to rear,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,02,,2,Front to front,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,03,,6,Angle,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,04,,7,Sideswipe same direction,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,05,,8,Sideswipe opposite direction,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,06,,9,Rear to side,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,07,,10,Rear to rear,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,77,,11,Other,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,88,,99,Unknown,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,manner,,Front to Rear,1,1,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,Front to Front,2,2,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,Angle,6,6,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,"Sideswipe, Same Direction",7,7,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,"Sideswipe, Opposite Direction",8,8,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,Rear to Side,9,9,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,Rear to Rear,10,10,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,Other,11,11,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,manner,,Unknown,99,99,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,00,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,01,,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,02,,DUSK,DUSK,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,03,,DAWN,DAWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,04,,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,05,,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,06,,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,77,,OTHER,OTHER,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,88,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,light_condition,,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,,Dusk,DUSK,DUSK,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,,Dawn,DAWN,DAWN,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,,Dark - Lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,,Dark - Not Lighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,,Dark - Unknown Lighting,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,light_condition,,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,00,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,01,,CLEAR,CLEAR,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,02,,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,03,,RAIN,RAIN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,04,,FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,05,,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,06,,BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,07,,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,77,,OTHER,OTHER,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,88,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,weather,,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,"Fog, Smog, Smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,Sleet/Hail/Freezing Rain,SLEET_HAIL,SLEET_HAIL,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,"Blowing Sand, Soil, Dirt",BLOWING_SAND_SOIL,BLOWING_SAND_SOIL,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,Severe Crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,weather,,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,00,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,01,,DRY,DRY,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,02,,WET,WET,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,04,,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,05,,OIL,OIL,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,06,,MUD_DIRT_GRAVEL,MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,07,,SAND,SAND,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,08,,WATER_STANDING_MOVING,WATER_STANDING_MOVING,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,77,,OTHER,OTHER,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,88,,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,road_surface_condition,,Dry,DRY,DRY,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,Wet,WET,WET,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,Ice/Frost,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,Oil,OIL,OIL,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,"Mud, Dirt, Gravel",MUD_DIRT_GRAVEL,MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,Sand,SAND,SAND,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,Water (standing/moving),WATER_STANDING_MOVING,WATER_STANDING_MOVING,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,Other,OTHER,OTHER,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,01,,ROLLOVER_OVERTURN,Overturn/Rollover,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,01,,ROLLOVER_OVERTURN,Overturn/Rollover,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,02,,OTHER_NON_COLLISION,Fire/Explosion,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,02,,OTHER_NON_COLLISION,Fire/Explosion,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,03,,IMMERSION,Immersion,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,03,,IMMERSION,Immersion,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,04,,OTHER_NON_COLLISION,Jackknife,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,04,,OTHER_NON_COLLISION,Jackknife,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,05,,OTHER_NON_COLLISION,Cargo/Equipment Loss or Shift,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,05,,OTHER_NON_COLLISION,Cargo/Equipment Loss or Shift,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,06,,OTHER_NON_COLLISION,Fell/Jumped From Motor Vehicle,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,06,,OTHER_NON_COLLISION,Fell/Jumped From Motor Vehicle,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,07,,OTHER_NON_FIXED_OBJECT,Thrown or Falling Object,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,07,,OTHER_NON_FIXED_OBJECT,Thrown or Falling Object,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,08,,OTHER_NON_COLLISION,Ran into Water/Canal,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,08,,OTHER_NON_COLLISION,Ran into Water/Canal,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,09,,OTHER_NON_COLLISION,Other Non-Collision,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,09,,OTHER_NON_COLLISION,Other Non-Collision,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,10,,PEDESTRIAN,Pedestrian,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,10,,PEDESTRIAN,Pedestrian,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,11,,PEDALCYCLIST,Pedalcycle,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,11,,PEDALCYCLIST,Pedalcycle,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,12,,TRAIN,"Railway Vehicle (train, engine)",CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,12,,TRAIN,"Railway Vehicle (train, engine)",CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,13,,ANIMAL,Animal,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,13,,ANIMAL,Animal,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,14,,MOTOR_VEHICLE_IN_TRANSPORT,Motor Vehicle in Transport,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,14,,MOTOR_VEHICLE_IN_TRANSPORT,Motor Vehicle in Transport,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,15,,PARKED_VEHICLE,Parked Motor Vehicle,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,15,,PARKED_VEHICLE,Parked Motor Vehicle,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,16,,OTHER_NON_FIXED_OBJECT,Work Zone/Maintenance Equipment,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,16,,OTHER_NON_FIXED_OBJECT,Work Zone/Maintenance Equipment,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,17,,OTHER_NON_FIXED_OBJECT,"Struck by Falling, Shifting Cargo",CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,17,,OTHER_NON_FIXED_OBJECT,"Struck by Falling, Shifting Cargo",CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,18,,OTHER_NON_FIXED_OBJECT,Other Non-Fixed Object,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,18,,OTHER_NON_FIXED_OBJECT,Other Non-Fixed Object,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,19,,FIXED_OBJECT,Impact Attenuator/Crash Cushion,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,19,,FIXED_OBJECT,Impact Attenuator/Crash Cushion,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,20,,FIXED_OBJECT,Bridge Overhead Structure,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,20,,FIXED_OBJECT,Bridge Overhead Structure,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,21,,FIXED_OBJECT,Bridge Pier or Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,21,,FIXED_OBJECT,Bridge Pier or Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,22,,FIXED_OBJECT,Bridge Rail,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,22,,FIXED_OBJECT,Bridge Rail,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,23,,FIXED_OBJECT,Culvert,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,23,,FIXED_OBJECT,Culvert,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,24,,FIXED_OBJECT,Curb,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,24,,FIXED_OBJECT,Curb,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,25,,FIXED_OBJECT,Ditch,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,25,,FIXED_OBJECT,Ditch,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,26,,FIXED_OBJECT,Embankment,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,26,,FIXED_OBJECT,Embankment,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,27,,FIXED_OBJECT,Guardrail Face,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,27,,FIXED_OBJECT,Guardrail Face,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,28,,FIXED_OBJECT,Guardrail End,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,28,,FIXED_OBJECT,Guardrail End,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,29,,FIXED_OBJECT,Cable Barrier,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,29,,FIXED_OBJECT,Cable Barrier,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,30,,FIXED_OBJECT,Concrete Traffic Barrier,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,30,,FIXED_OBJECT,Concrete Traffic Barrier,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,31,,FIXED_OBJECT,Other Traffic Barrier,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,31,,FIXED_OBJECT,Other Traffic Barrier,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,32,,FIXED_OBJECT,Tree (standing),CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,32,,FIXED_OBJECT,Tree (standing),CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,33,,FIXED_OBJECT,Utility Pole/Light Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,33,,FIXED_OBJECT,Utility Pole/Light Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,34,,FIXED_OBJECT,Traffic Sign Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,34,,FIXED_OBJECT,Traffic Sign Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,35,,FIXED_OBJECT,Traffic Signal Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,35,,FIXED_OBJECT,Traffic Signal Support,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,36,,FIXED_OBJECT,"Other Post, Pole or Support",CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,36,,FIXED_OBJECT,"Other Post, Pole or Support",CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,37,,FIXED_OBJECT,Fence,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,37,,FIXED_OBJECT,Fence,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,38,,FIXED_OBJECT,Mailbox,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,38,,FIXED_OBJECT,Mailbox,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,39,,FIXED_OBJECT,Other Fixed Object,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,39,,FIXED_OBJECT,Other Fixed Object,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,43,,UNKNOWN,Unknown/other code 43,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,43,,UNKNOWN,Unknown/other code 43,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,00,,UNKNOWN,Not coded,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event_group,00,,UNKNOWN,Not coded,CROSSWALK,MMUCC6,FDOT official ArcGIS domain or Signal Four embedded label,REVIEWED
+FL,*,first_harmful_event,,Overturn/Rollover,ROLLOVER_OVERTURN,Overturn/Rollover,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Overturn/Rollover,ROLLOVER_OVERTURN,Overturn/Rollover,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Fire/Explosion,OTHER_NON_COLLISION,Fire/Explosion,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Fire/Explosion,OTHER_NON_COLLISION,Fire/Explosion,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Immersion,IMMERSION,Immersion,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Immersion,IMMERSION,Immersion,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Jackknife,OTHER_NON_COLLISION,Jackknife,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Jackknife,OTHER_NON_COLLISION,Jackknife,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Cargo/Equipment Loss or Shift,OTHER_NON_COLLISION,Cargo/Equipment Loss or Shift,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Cargo/Equipment Loss or Shift,OTHER_NON_COLLISION,Cargo/Equipment Loss or Shift,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Fell/Jumped From Motor Vehicle,OTHER_NON_COLLISION,Fell/Jumped From Motor Vehicle,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Fell/Jumped From Motor Vehicle,OTHER_NON_COLLISION,Fell/Jumped From Motor Vehicle,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Thrown or Falling Object,OTHER_NON_FIXED_OBJECT,Thrown or Falling Object,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Thrown or Falling Object,OTHER_NON_FIXED_OBJECT,Thrown or Falling Object,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Ran into Water/Canal,OTHER_NON_COLLISION,Ran into Water/Canal,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Ran into Water/Canal,OTHER_NON_COLLISION,Ran into Water/Canal,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Other Non-Collision,OTHER_NON_COLLISION,Other Non-Collision,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Other Non-Collision,OTHER_NON_COLLISION,Other Non-Collision,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Pedestrian,PEDESTRIAN,Pedestrian,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Pedestrian,PEDESTRIAN,Pedestrian,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Pedalcycle,PEDALCYCLIST,Pedalcycle,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Pedalcycle,PEDALCYCLIST,Pedalcycle,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,"Railway Vehicle (train, engine)",TRAIN,"Railway Vehicle (train, engine)",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,"Railway Vehicle (train, engine)",TRAIN,"Railway Vehicle (train, engine)",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Animal,ANIMAL,Animal,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Animal,ANIMAL,Animal,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Motor Vehicle in Transport,MOTOR_VEHICLE_IN_TRANSPORT,Motor Vehicle in Transport,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Motor Vehicle in Transport,MOTOR_VEHICLE_IN_TRANSPORT,Motor Vehicle in Transport,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Parked Motor Vehicle,PARKED_VEHICLE,Parked Motor Vehicle,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Parked Motor Vehicle,PARKED_VEHICLE,Parked Motor Vehicle,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Work Zone/Maintenance Equipment,OTHER_NON_FIXED_OBJECT,Work Zone/Maintenance Equipment,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Work Zone/Maintenance Equipment,OTHER_NON_FIXED_OBJECT,Work Zone/Maintenance Equipment,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,"Struck by Falling, Shifting Cargo",OTHER_NON_FIXED_OBJECT,"Struck by Falling, Shifting Cargo",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,"Struck by Falling, Shifting Cargo",OTHER_NON_FIXED_OBJECT,"Struck by Falling, Shifting Cargo",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Other Non-Fixed Object,OTHER_NON_FIXED_OBJECT,Other Non-Fixed Object,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Other Non-Fixed Object,OTHER_NON_FIXED_OBJECT,Other Non-Fixed Object,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Impact Attenuator/Crash Cushion,FIXED_OBJECT,Impact Attenuator/Crash Cushion,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Impact Attenuator/Crash Cushion,FIXED_OBJECT,Impact Attenuator/Crash Cushion,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Bridge Overhead Structure,FIXED_OBJECT,Bridge Overhead Structure,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Bridge Overhead Structure,FIXED_OBJECT,Bridge Overhead Structure,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Bridge Pier or Support,FIXED_OBJECT,Bridge Pier or Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Bridge Pier or Support,FIXED_OBJECT,Bridge Pier or Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Bridge Rail,FIXED_OBJECT,Bridge Rail,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Bridge Rail,FIXED_OBJECT,Bridge Rail,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Culvert,FIXED_OBJECT,Culvert,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Culvert,FIXED_OBJECT,Culvert,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Curb,FIXED_OBJECT,Curb,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Curb,FIXED_OBJECT,Curb,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Ditch,FIXED_OBJECT,Ditch,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Ditch,FIXED_OBJECT,Ditch,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Embankment,FIXED_OBJECT,Embankment,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Embankment,FIXED_OBJECT,Embankment,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Guardrail Face,FIXED_OBJECT,Guardrail Face,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Guardrail Face,FIXED_OBJECT,Guardrail Face,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Guardrail End,FIXED_OBJECT,Guardrail End,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Guardrail End,FIXED_OBJECT,Guardrail End,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Cable Barrier,FIXED_OBJECT,Cable Barrier,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Cable Barrier,FIXED_OBJECT,Cable Barrier,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Concrete Traffic Barrier,FIXED_OBJECT,Concrete Traffic Barrier,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Concrete Traffic Barrier,FIXED_OBJECT,Concrete Traffic Barrier,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Other Traffic Barrier,FIXED_OBJECT,Other Traffic Barrier,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Other Traffic Barrier,FIXED_OBJECT,Other Traffic Barrier,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Tree (standing),FIXED_OBJECT,Tree (standing),CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Tree (standing),FIXED_OBJECT,Tree (standing),CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Utility Pole/Light Support,FIXED_OBJECT,Utility Pole/Light Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Utility Pole/Light Support,FIXED_OBJECT,Utility Pole/Light Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Traffic Sign Support,FIXED_OBJECT,Traffic Sign Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Traffic Sign Support,FIXED_OBJECT,Traffic Sign Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Traffic Signal Support,FIXED_OBJECT,Traffic Signal Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Traffic Signal Support,FIXED_OBJECT,Traffic Signal Support,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,"Other Post, Pole or Support",FIXED_OBJECT,"Other Post, Pole or Support",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,"Other Post, Pole or Support",FIXED_OBJECT,"Other Post, Pole or Support",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Fence,FIXED_OBJECT,Fence,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Fence,FIXED_OBJECT,Fence,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Mailbox,FIXED_OBJECT,Mailbox,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Mailbox,FIXED_OBJECT,Mailbox,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Other Fixed Object,FIXED_OBJECT,Other Fixed Object,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Other Fixed Object,FIXED_OBJECT,Other Fixed Object,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Equipment Failure,OTHER_NON_COLLISION,Equipment Failure,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Equipment Failure,OTHER_NON_COLLISION,Equipment Failure,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,"Ran Off Roadway, Right",OTHER_NON_COLLISION,"Ran Off Roadway, Right",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,"Ran Off Roadway, Right",OTHER_NON_COLLISION,"Ran Off Roadway, Right",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,road_surface_condition,03,,OTHER,Slippery (legacy Florida category),CROSSWALK,MMUCC6,Florida legacy crash-report manual: 03 Slippery,REVIEWED
+FL,*,first_harmful_event,41,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event_group,41,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event,42,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event_group,42,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event,44,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event_group,44,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event,45,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event_group,45,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event,40,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event_group,40,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event,46,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event_group,46,,UNKNOWN,Legacy source code not defined in current public domain,UNRESOLVED_CODE,MMUCC6,Legacy FDOT source value; current official domain omits code,REVIEWED
+FL,*,first_harmful_event,,Cross Median,OTHER_NON_COLLISION,Cross Median,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Cross Median,OTHER_NON_COLLISION,Cross Median,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,"Ran Off Roadway, Left",OTHER_NON_COLLISION,"Ran Off Roadway, Left",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,"Ran Off Roadway, Left",OTHER_NON_COLLISION,"Ran Off Roadway, Left",CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Downhill Runaway,OTHER_NON_COLLISION,Downhill Runaway,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Downhill Runaway,OTHER_NON_COLLISION,Downhill Runaway,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Separation of Units,OTHER_NON_COLLISION,Separation of Units,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Separation of Units,OTHER_NON_COLLISION,Separation of Units,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event,,Cross Centerline,OTHER_NON_COLLISION,Cross Centerline,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED
+FL,*,first_harmful_event_group,,Cross Centerline,OTHER_NON_COLLISION,Cross Centerline,CROSSWALK,MMUCC6,Signal Four official embedded label,REVIEWED

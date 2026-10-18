@@ -1,0 +1,66 @@
+{
+  "state": "UT",
+  "generated_utc": "2026-10-13T20:01:56.904935+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "UT_candidate_2018_2024_1",
+      "header_signature": "bbb0874e3d2ddd14",
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "example_source": "UT/2018/UDOT_crash_locations.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 71,
+      "field_candidates": {
+        "crash_id": "CRASH_ID",
+        "crash_datetime": "CRASH_DATETIME",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "CRASH_SEVERITY_DESC"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "UT_candidate_2025_2026_2",
+      "header_signature": "4382ff120f109b44",
+      "years": [
+        2025,
+        2026
+      ],
+      "example_source": "UT/2025/CSV/UDOT_Crashes_2025.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 71,
+      "field_candidates": {
+        "crash_id": "crash_id",
+        "crash_datetime": "crash_datetime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "crash_severity_desc"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

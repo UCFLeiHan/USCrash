@@ -1,0 +1,157 @@
+{
+  "state": "OR",
+  "generated_utc": "2026-10-13T20:01:56.902939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "OR_candidate_2007_2010_1",
+      "header_signature": "63ad2c12377fab52",
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ],
+      "example_source": "OR/2007/crashes2007.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 135,
+      "field_candidates": {
+        "crash_id": "CRASH_ID",
+        "crash_date": "CRASH_DT",
+        "crash_time": "CRASH_HR_N",
+        "latitude": "LAT_DD",
+        "severity": "CRASH_SVRT",
+        "manner_collision": "COLLIS_TYP"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 0,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "OR_candidate_2011_2012_2",
+      "header_signature": "71c908575f7d4bf0",
+      "years": [
+        2011,
+        2012
+      ],
+      "example_source": "OR/2011/CSV/OR_2011_crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 136,
+      "field_candidates": {
+        "crash_id": "CRASH_ID",
+        "crash_date": "CRASH_DT",
+        "crash_time": "CRASH_HR_N",
+        "latitude": "latitude_wgs84",
+        "longitude": "longitude_wgs84",
+        "severity": "CRASH_SVRT",
+        "manner_collision": "COLLIS_TYP"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "OR_candidate_2013_2014_3",
+      "header_signature": "17d7451cf7fe0fc5",
+      "years": [
+        2013,
+        2014
+      ],
+      "example_source": "OR/2013/CSV/OR_2013_crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 139,
+      "field_candidates": {
+        "crash_id": "CRASH_ID",
+        "crash_date": "CRASH_DT",
+        "crash_time": "CRASH_HR_L",
+        "latitude": "latitude_wgs84",
+        "longitude": "longitude_wgs84",
+        "severity": "CRASH_SVRT",
+        "manner_collision": "COLLIS_TYP"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "OR_candidate_2015_2018_4",
+      "header_signature": "771894c66ffead7b",
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "example_source": "OR/2015/CSV/OR_2015_crash.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 139,
+      "field_candidates": {
+        "crash_id": "CRASH_ID",
+        "crash_date": "CRASH_DT",
+        "crash_time": "CRASH_HR_LONG_DESC",
+        "latitude": "LAT_DD",
+        "severity": "CRASH_SVRTY_CD",
+        "manner_collision": "COLLIS_TYP_CD"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 0,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "OR_candidate_2019_2024_5",
+      "header_signature": "d12a5d0ab5b78415",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "example_source": "OR/2019/CSV/OR_2019_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 142,
+      "field_candidates": {
+        "crash_id": "CRASH_ID",
+        "crash_date": "CRASH_DT",
+        "crash_time": "CRASH_HR_LONG_DESC",
+        "latitude": "LAT_DD",
+        "severity": "CRASH_SVRTY_CD",
+        "manner_collision": "COLLIS_TYP_CD"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 0,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

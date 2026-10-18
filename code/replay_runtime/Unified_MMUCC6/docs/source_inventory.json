@@ -1,0 +1,2892 @@
+{
+  "draft": true,
+  "states": [
+    {
+      "state": "AL",
+      "formal_config": true,
+      "official_agency": "Alabama CARE / Alabama Department of Transportation",
+      "coverage_years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2014-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://safety.aladata.com/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 17,
+      "documentation_and_scripts": [
+        "AL/SOURCE.md",
+        "AL/metadata.json"
+      ]
+    },
+    {
+      "state": "AK",
+      "formal_config": true,
+      "official_agency": "Alaska Department of Transportation and Public Facilities",
+      "coverage_years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2021-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://dot.alaska.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 13,
+      "documentation_and_scripts": [
+        "AK/SOURCE.md"
+      ]
+    },
+    {
+      "state": "AZ",
+      "formal_config": true,
+      "official_agency": "Arizona Department of Transportation",
+      "coverage_years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2020-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://azdot.gov/planning/traffic-safety/acis-access-request-form",
+        "https://azdot.gov/planning/traffic-safety/arizona-motor-vehicle-crash-facts"
+      ],
+      "table_formats": [
+        "CSV",
+        "XLSX",
+        "XLS",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle/unit",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 47,
+      "documentation_and_scripts": [
+        "AZ/2020/Documentation/Disclaimer Crash Data.pdf",
+        "AZ/2021/Documentation/Disclaimer Crash Data.pdf",
+        "AZ/2022/Documentation/Disclaimer Crash Data.pdf",
+        "AZ/2023/Documentation/Disclaimer Crash Data.pdf",
+        "AZ/2024/Documentation/Disclaimer Crash Data.pdf",
+        "AZ/2025/Documentation/Disclaimer Crash Data.pdf",
+        "AZ/PUBLIC_RECORDS_REQUEST_DRAFT.txt",
+        "AZ/SOURCE.md",
+        "AZ/metadata.json"
+      ]
+    },
+    {
+      "state": "AR",
+      "formal_config": true,
+      "official_agency": "Arkansas Department of Transportation ACAT",
+      "coverage_years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2021-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://www.ardot.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 9,
+      "documentation_and_scripts": [
+        "AR/SOURCE.md",
+        "AR/metadata.json"
+      ]
+    },
+    {
+      "state": "CA",
+      "formal_config": true,
+      "official_agency": "California Highway Patrol / California Crash Reporting System",
+      "coverage_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2016-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://iswitrs.chp.ca.gov/",
+        "https://tims.berkeley.edu/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 47,
+      "documentation_and_scripts": [
+        "CA/SOURCE.md"
+      ]
+    },
+    {
+      "state": "CO",
+      "formal_config": true,
+      "official_agency": "Colorado Department of Transportation",
+      "coverage_years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2007-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.codot.gov/safety/traffic-safety"
+      ],
+      "table_formats": [
+        "CSV",
+        "XLSX",
+        "XLS"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 44,
+      "documentation_and_scripts": [
+        "CO/CDOTRM_CD_Crash_Data_Dictionary_-_5-12-2023.xlsx",
+        "CO/CDOTRM_CD_Crash_Data_Dictionary_-_9-20-2023.xlsx",
+        "CO/SOURCE.md"
+      ]
+    },
+    {
+      "state": "CT",
+      "formal_config": true,
+      "official_agency": "Connecticut Department of Transportation / UConn Connecticut Crash Data Repository",
+      "coverage_years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2015-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.ctcrash.uconn.edu/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 37,
+      "documentation_and_scripts": [
+        "CT/SOURCE.md"
+      ]
+    },
+    {
+      "state": "DE",
+      "formal_config": true,
+      "official_agency": "Delaware Department of Transportation",
+      "coverage_years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2009-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://deldot.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 22,
+      "documentation_and_scripts": [
+        "DE/SOURCE.md",
+        "DE/_undated/Raw/Delaware_Public_Crash_Data.csv.gz.metadata.json"
+      ]
+    },
+    {
+      "state": "FL",
+      "formal_config": true,
+      "official_agency": "Florida Department of Highway Safety and Motor Vehicles / Signal Four Analytics",
+      "coverage_years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2007-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://signal4analytics.com/",
+        "https://www.flhsmv.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 31,
+      "documentation_and_scripts": [
+        "FL/SOURCE.md"
+      ]
+    },
+    {
+      "state": "GA",
+      "formal_config": true,
+      "official_agency": "Georgia Department of Transportation",
+      "coverage_years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2021-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://www.dot.ga.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 8,
+      "documentation_and_scripts": [
+        "GA/SOURCE.md"
+      ]
+    },
+    {
+      "state": "HI",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": false,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "NO_VERIFIED_HARMONIZABLE_LOCAL_SOURCE",
+      "file_count": 0,
+      "documentation_and_scripts": []
+    },
+    {
+      "state": "ID",
+      "formal_config": true,
+      "official_agency": "Idaho Transportation Department",
+      "coverage_years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "coverage_span": "2005-2023",
+      "source_md": true,
+      "official_urls": [
+        "https://iplan.maps.arcgis.com/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle/unit"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 39,
+      "documentation_and_scripts": [
+        "ID/SOURCE.md"
+      ]
+    },
+    {
+      "state": "IL",
+      "formal_config": true,
+      "official_agency": "Illinois Department of Transportation",
+      "coverage_years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2014-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://idot.illinois.gov/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 13,
+      "documentation_and_scripts": [
+        "IL/SOURCE.md"
+      ]
+    },
+    {
+      "state": "IN",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": false,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "NO_VERIFIED_HARMONIZABLE_LOCAL_SOURCE",
+      "file_count": 0,
+      "documentation_and_scripts": []
+    },
+    {
+      "state": "IA",
+      "formal_config": true,
+      "official_agency": "Iowa Department of Transportation",
+      "coverage_years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2015-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://data.iowadot.gov/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 12,
+      "documentation_and_scripts": [
+        "IA/SOURCE.md"
+      ]
+    },
+    {
+      "state": "KS",
+      "formal_config": true,
+      "official_agency": "Kansas Department of Transportation",
+      "coverage_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2016-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.ksdot.gov/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 12,
+      "documentation_and_scripts": [
+        "KS/SOURCE.md"
+      ]
+    },
+    {
+      "state": "KY",
+      "formal_config": true,
+      "official_agency": "Kentucky State Police / Kentucky Transportation Cabinet Crash Data Portal",
+      "coverage_years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2020-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://transportation.ky.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "ZIP",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "vehicle",
+        "vehicle/unit",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 2548,
+      "documentation_and_scripts": [
+        "KY/2020/KY_Incident_enriched_2020.metadata.json",
+        "KY/2021/KY_Incident_enriched_2021.metadata.json",
+        "KY/2022/KY_Incident_enriched_2022.metadata.json",
+        "KY/2023/KY_Incident_enriched_2023.metadata.json",
+        "KY/2024/KY_Incident_enriched_2024.metadata.json",
+        "KY/2025/KY_Incident_enriched_2025.metadata.json",
+        "KY/2026/KY_Incident_enriched_2026.metadata.json",
+        "KY/SOURCE.md"
+      ]
+    },
+    {
+      "state": "LA",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": false,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "NO_VERIFIED_HARMONIZABLE_LOCAL_SOURCE",
+      "file_count": 0,
+      "documentation_and_scripts": []
+    },
+    {
+      "state": "ME",
+      "formal_config": true,
+      "official_agency": "Maine Department of Transportation",
+      "coverage_years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2020-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://mdotapps.maine.gov/MaineCrashPublic/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 9,
+      "documentation_and_scripts": [
+        "ME/DOWNLOAD_STATUS.md",
+        "ME/SOURCE.md"
+      ]
+    },
+    {
+      "state": "MD",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2024-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://analytics.mdsp.org/t/Public/views/PublicCrash2/PublicCrash?:embed=y&:showVizHome=no"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": false,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "LOCAL_PARTIAL_NOT_FORMALLY_HARMONIZED",
+      "file_count": 21,
+      "documentation_and_scripts": [
+        "MD/DOWNLOAD_STATUS.md",
+        "MD/SOURCE.md"
+      ]
+    },
+    {
+      "state": "MA",
+      "formal_config": true,
+      "official_agency": "Massachusetts Department of Transportation (MassDOT)",
+      "coverage_years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2001-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://apps.impact.dot.state.ma.us/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 50,
+      "documentation_and_scripts": [
+        "MA/2000/Raw/MassDOT_historical_crashes.csv.gz.metadata.json",
+        "MA/2001/Raw/MassDOT_historical_crashes.csv.gz.metadata.json",
+        "MA/SOURCE.md"
+      ]
+    },
+    {
+      "state": "MI",
+      "formal_config": true,
+      "official_agency": "Michigan State Police / Michigan Traffic Crash Facts",
+      "coverage_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2017-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://gisago-qa.mcgi.state.mi.us/arcgis/rest/services/MSP/CrashDashboard/MapServer",
+        "https://www.michigan.gov/msp/services/ohsp"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 14,
+      "documentation_and_scripts": [
+        "MI/2016/arcgis_metadata.json",
+        "MI/2017/arcgis_metadata.json",
+        "MI/2018/arcgis_metadata.json",
+        "MI/2019/arcgis_metadata.json",
+        "MI/SOURCE.md"
+      ]
+    },
+    {
+      "state": "MN",
+      "formal_config": true,
+      "official_agency": "Minnesota Department of Public Safety / MnCrash",
+      "coverage_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2016-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.dot.state.mn.us/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": false,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 45,
+      "documentation_and_scripts": [
+        "MN/2019/MN_MnCrash_RSIC_enriched_2019.metadata.json",
+        "MN/2020/MN_MnCrash_RSIC_enriched_2020.metadata.json",
+        "MN/2021/MN_MnCrash_RSIC_enriched_2021.metadata.json",
+        "MN/2022/MN_MnCrash_RSIC_enriched_2022.metadata.json",
+        "MN/2023/MN_MnCrash_RSIC_enriched_2023.metadata.json",
+        "MN/2024/MN_MnCrash_RSIC_enriched_2024.metadata.json",
+        "MN/2025/MN_MnCrash_RSIC_enriched_2025.metadata.json",
+        "MN/2026/MN_MnCrash_RSIC_enriched_2026.metadata.json",
+        "MN/SOURCE.md"
+      ]
+    },
+    {
+      "state": "MS",
+      "formal_config": true,
+      "official_agency": "Mississippi Department of Transportation / eCrash",
+      "coverage_years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2004-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://mdot.ms.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "XLSX",
+        "XLS",
+        "ZIP",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 137,
+      "documentation_and_scripts": [
+        "MS/SOURCE.md"
+      ]
+    },
+    {
+      "state": "MO",
+      "formal_config": true,
+      "official_agency": "Missouri State Highway Patrol",
+      "coverage_years": [
+        2002,
+        2003,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2002-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.modot.org/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 27,
+      "documentation_and_scripts": [
+        "MO/SOURCE.md"
+      ]
+    },
+    {
+      "state": "MT",
+      "formal_config": true,
+      "official_agency": "Montana Department of Transportation",
+      "coverage_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2016-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://www.mdt.mt.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "XLSX",
+        "XLS",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 57,
+      "documentation_and_scripts": [
+        "MT/2016/MDT_Crash_enriched.metadata.json",
+        "MT/2017/MDT_Crash_enriched.metadata.json",
+        "MT/2018/MDT_Crash_enriched.metadata.json",
+        "MT/2019/MDT_Crash_enriched.metadata.json",
+        "MT/2020/MDT_Crash_enriched.metadata.json",
+        "MT/2021/MDT_Crash_enriched.metadata.json",
+        "MT/2022/MDT_Crash_enriched.metadata.json",
+        "MT/2023/MDT_Crash_enriched.metadata.json",
+        "MT/2024/MDT_Crash_enriched.metadata.json",
+        "MT/2025/MDT_Crash_enriched.metadata.json",
+        "MT/SOURCE.md",
+        "MT/_source/CrashDatabase-CrashTable_2016-2025_.xlsx.metadata.json",
+        "MT/_source/CrashDatabase-PersonTable_2016-2025_.xlsx.metadata.json",
+        "MT/_source/CrashDatabase-VehicleTable_2016-2025_.xlsx.metadata.json"
+      ]
+    },
+    {
+      "state": "NE",
+      "formal_config": true,
+      "official_agency": "Nebraska Department of Transportation",
+      "coverage_years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2010-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://dot.nebraska.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 37,
+      "documentation_and_scripts": [
+        "NE/DOWNLOAD_STATUS.md",
+        "NE/SOURCE.md"
+      ]
+    },
+    {
+      "state": "NV",
+      "formal_config": true,
+      "official_agency": "Nevada Department of Transportation",
+      "coverage_years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "coverage_span": "2019-2024",
+      "source_md": true,
+      "official_urls": [
+        "https://www.dot.nv.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 38,
+      "documentation_and_scripts": [
+        "NV/2020/CSV/NV_Official_Crash_enriched_2020.metadata.json",
+        "NV/2021/CSV/NV_Official_Crash_enriched_2021.metadata.json",
+        "NV/2022/CSV/NV_Official_Crash_enriched_2022.metadata.json",
+        "NV/2023/CSV/NV_Official_Crash_enriched_2023.metadata.json",
+        "NV/2024/CSV/NV_Official_Crash_enriched_2024.metadata.json",
+        "NV/DOWNLOAD_STATUS.md",
+        "NV/SOURCE.md",
+        "NV/arcgis_metadata.json"
+      ]
+    },
+    {
+      "state": "NH",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": true,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "ACCESS_REQUEST_REQUIRED",
+      "file_count": 2,
+      "documentation_and_scripts": [
+        "NH/DOWNLOAD_STATUS.md",
+        "NH/SOURCE.md"
+      ]
+    },
+    {
+      "state": "NJ",
+      "formal_config": true,
+      "official_agency": "New Jersey Department of Transportation",
+      "coverage_years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2001-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://njdot.aashtowaresafety.net/njdot-crash-data-dashboard",
+        "https://www.nj.gov/transportation/refdata/accident/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant",
+        "pedestrian"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 156,
+      "documentation_and_scripts": [
+        "NJ/DOWNLOAD_STATUS.md",
+        "NJ/SOURCE.md"
+      ]
+    },
+    {
+      "state": "NM",
+      "formal_config": true,
+      "official_agency": "New Mexico Department of Transportation",
+      "coverage_years": [
+        2019
+      ],
+      "coverage_span": "2019-2019",
+      "source_md": true,
+      "official_urls": [
+        "https://www.dot.nm.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 4,
+      "documentation_and_scripts": [
+        "NM/2019/arcgis_metadata.json",
+        "NM/DOWNLOAD_STATUS.md",
+        "NM/SOURCE.md"
+      ]
+    },
+    {
+      "state": "NY",
+      "formal_config": true,
+      "official_agency": "New York State Department of Motor Vehicles",
+      "coverage_years": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "coverage_span": "2021-2024",
+      "source_md": true,
+      "official_urls": [
+        "https://data.ny.gov/"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": false,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 17,
+      "documentation_and_scripts": [
+        "NY/SOURCE.md"
+      ]
+    },
+    {
+      "state": "NC",
+      "formal_config": true,
+      "official_agency": "North Carolina Department of Transportation",
+      "coverage_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2016-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://connect.ncdot.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 19,
+      "documentation_and_scripts": [
+        "NC/SOURCE.md",
+        "NC/_source/NCDOT_KA_crashes.csv.gz.metadata.json"
+      ]
+    },
+    {
+      "state": "ND",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": true,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "ACCESS_REQUEST_REQUIRED",
+      "file_count": 2,
+      "documentation_and_scripts": [
+        "ND/DOWNLOAD_STATUS.md",
+        "ND/SOURCE.md"
+      ]
+    },
+    {
+      "state": "OH",
+      "formal_config": true,
+      "official_agency": "Ohio Department of Transportation TIMS; Ohio crash microdata research release",
+      "coverage_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2017-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://gis.dot.state.oh.us/tims"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 43,
+      "documentation_and_scripts": [
+        "OH/2021/Metadata/OH_2021_layer_metadata.json",
+        "OH/2022/Metadata/OH_2022_layer_metadata.json",
+        "OH/2023/Metadata/OH_2023_layer_metadata.json",
+        "OH/2024/Metadata/OH_2024_layer_metadata.json",
+        "OH/2025/Metadata/OH_2025_layer_metadata.json",
+        "OH/Metadata/Figshare_29437694/figshare_article_metadata.json",
+        "OH/SOURCE.md"
+      ]
+    },
+    {
+      "state": "OK",
+      "formal_config": true,
+      "official_agency": "Oklahoma Highway Safety Office / Oklahoma Department of Transportation",
+      "coverage_years": [
+        2019,
+        2020,
+        2021
+      ],
+      "coverage_span": "2019-2021",
+      "source_md": true,
+      "official_urls": [
+        "https://oklahoma.gov/odot.html"
+      ],
+      "table_formats": [
+        "CSV"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 5,
+      "documentation_and_scripts": [
+        "OK/SOURCE.md"
+      ]
+    },
+    {
+      "state": "OR",
+      "formal_config": true,
+      "official_agency": "Oregon Department of Transportation Crash Analysis and Reporting Unit",
+      "coverage_years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "coverage_span": "2007-2024",
+      "source_md": true,
+      "official_urls": [
+        "https://www.oregon.gov/odot/"
+      ],
+      "table_formats": [
+        "CSV",
+        "ZIP",
+        "JSON/GeoJSON",
+        "FileGDB"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 74,
+      "documentation_and_scripts": [
+        "OR/2011/Raw/crashes2011.gdb.zip.metadata.json",
+        "OR/2012/Raw/crashes2012.gdb.zip.metadata.json",
+        "OR/2013/Raw/crashes2013.gdb.zip.metadata.json",
+        "OR/2014/Raw/crashes2014.gdb.zip.metadata.json",
+        "OR/2015/metadata.json",
+        "OR/2016/metadata.json",
+        "OR/2017/metadata.json",
+        "OR/2018/metadata.json",
+        "OR/2019/metadata.json",
+        "OR/2020/metadata.json",
+        "OR/2021/metadata.json",
+        "OR/2022/metadata.json",
+        "OR/2023/metadata.json",
+        "OR/2024/metadata.json",
+        "OR/SOURCE.md"
+      ]
+    },
+    {
+      "state": "PA",
+      "formal_config": true,
+      "official_agency": "Pennsylvania Department of Transportation",
+      "coverage_years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2006-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://www.penndot.pa.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 226,
+      "documentation_and_scripts": [
+        "PA/2006/CSV/CRASH_enriched_2006.metadata.json",
+        "PA/2006/metadata.json",
+        "PA/2007/CSV/CRASH_enriched_2007.metadata.json",
+        "PA/2007/metadata.json",
+        "PA/2008/CSV/CRASH_enriched_2008.metadata.json",
+        "PA/2008/metadata.json",
+        "PA/2009/CSV/CRASH_enriched_2009.metadata.json",
+        "PA/2009/metadata.json",
+        "PA/2010/CSV/CRASH_enriched_2010.metadata.json",
+        "PA/2010/metadata.json",
+        "PA/2011/CSV/CRASH_enriched_2011.metadata.json",
+        "PA/2011/metadata.json",
+        "PA/2012/CSV/CRASH_enriched_2012.metadata.json",
+        "PA/2012/metadata.json",
+        "PA/2013/CSV/CRASH_enriched_2013.metadata.json",
+        "PA/2013/metadata.json",
+        "PA/2014/CSV/CRASH_enriched_2014.metadata.json",
+        "PA/2014/metadata.json",
+        "PA/2015/CSV/CRASH_enriched_2015.metadata.json",
+        "PA/2015/metadata.json",
+        "PA/2016/CSV/CRASH_enriched_2016.metadata.json",
+        "PA/2016/metadata.json",
+        "PA/2017/CSV/CRASH_enriched_2017.metadata.json",
+        "PA/2017/metadata.json",
+        "PA/2018/CSV/CRASH_enriched_2018.metadata.json",
+        "PA/2018/metadata.json",
+        "PA/2019/CSV/CRASH_enriched_2019.metadata.json",
+        "PA/2019/metadata.json",
+        "PA/2020/CSV/CRASH_enriched_2020.metadata.json",
+        "PA/2020/metadata.json",
+        "PA/2021/CSV/CRASH_enriched_2021.metadata.json",
+        "PA/2021/metadata.json",
+        "PA/2022/CSV/CRASH_enriched_2022.metadata.json",
+        "PA/2022/metadata.json",
+        "PA/2023/CSV/CRASH_enriched_2023.metadata.json",
+        "PA/2023/metadata.json",
+        "PA/2024/CSV/CRASH_enriched_2024.metadata.json",
+        "PA/2024/metadata.json",
+        "PA/2025/CSV/CRASH_enriched_2025.metadata.json",
+        "PA/2025/metadata.json",
+        "PA/Metadata/Crash_Data_Dictionary_2026.extracted.txt",
+        "PA/Metadata/Crash_Data_Dictionary_2026.pdf",
+        "PA/SOURCE.md"
+      ]
+    },
+    {
+      "state": "RI",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": true,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "APPLICATION_DRAFT_UNCONFIRMED",
+      "file_count": 2,
+      "documentation_and_scripts": [
+        "RI/Metadata/RIDOT_APRA_crash_data_request.txt",
+        "RI/SOURCE.md"
+      ]
+    },
+    {
+      "state": "SC",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": true,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PAID_CUSTOM_REQUEST_REQUIRED",
+      "file_count": 3,
+      "documentation_and_scripts": [
+        "SC/Metadata/SCDPS_statewide_crash_data_request.txt",
+        "SC/SOURCE.md"
+      ]
+    },
+    {
+      "state": "SD",
+      "formal_config": true,
+      "official_agency": "South Dakota Department of Public Safety / Department of Transportation",
+      "coverage_years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2011-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://dot.sd.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 222,
+      "documentation_and_scripts": [
+        "SD/SOURCE.md",
+        "SD/acquisition/download_sd_crashes.py"
+      ]
+    },
+    {
+      "state": "TN",
+      "formal_config": true,
+      "official_agency": "Tennessee Department of Safety and Homeland Security (TITAN)",
+      "coverage_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2016-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.tn.gov/tdot.html"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle/unit",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "LEGAL_ACCESS_RESTRICTION",
+      "file_count": 325,
+      "documentation_and_scripts": [
+        "TN/2016/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2017/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2018/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2019/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2020/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2021/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2022/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2023/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2024/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2025/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/2026/CSV/TITAN_vwCollision_enriched.metadata.json",
+        "TN/Metadata/arcgis_layer_metadata.json",
+        "TN/SOURCE.md",
+        "TN/acquisition/download_tn_arcgis.py",
+        "TN/acquisition/partition_titan_extract.py"
+      ]
+    },
+    {
+      "state": "TX",
+      "formal_config": true,
+      "official_agency": "Texas Department of Transportation (CRIS)",
+      "coverage_years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2019-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.txdot.gov/data-maps/crash-reports-records.html"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle/unit",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 93,
+      "documentation_and_scripts": [
+        "TX/2019/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/2020/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/2021/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/2022/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/2023/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/2024/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/2025/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/2026/CSV/TX_crash_enriched_safe.metadata.json",
+        "TX/SOURCE.md"
+      ]
+    },
+    {
+      "state": "UT",
+      "formal_config": true,
+      "official_agency": "Utah Department of Transportation",
+      "coverage_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2018-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://udot.utah.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 51,
+      "documentation_and_scripts": [
+        "UT/Metadata/Utah_Crash_Report_Data_Dictionary_2021.pdf",
+        "UT/SOURCE.md",
+        "UT/acquisition/download_ut_crashes.py"
+      ]
+    },
+    {
+      "state": "VT",
+      "formal_config": true,
+      "official_agency": "Vermont Agency of Transportation",
+      "coverage_years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2010-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://vtrans.vermont.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 62,
+      "documentation_and_scripts": [
+        "VT/Metadata/CrashPQT_layer_metadata.json",
+        "VT/Metadata/Vermont_UCRF_Investigator_Guide_2017.pdf",
+        "VT/SOURCE.md",
+        "VT/acquisition/download_vt_crashes.py",
+        "VT/_undated/Raw/VTrans_public_crashes_undated.csv.gz.metadata.json"
+      ]
+    },
+    {
+      "state": "VA",
+      "formal_config": true,
+      "official_agency": "Virginia Department of Transportation",
+      "coverage_years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2009-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.virginiadot.org/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 73,
+      "documentation_and_scripts": [
+        "VA/Metadata/Full_Crash_layer_metadata.json",
+        "VA/Metadata/VDOT_Crash_Analysis_User_Manual_Data_Dictionary.pdf",
+        "VA/SOURCE.md",
+        "VA/acquisition/download_va_crashes.py"
+      ]
+    },
+    {
+      "state": "WA",
+      "formal_config": true,
+      "official_agency": "Washington State Patrol",
+      "coverage_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2017-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://www.wsdot.wa.gov/"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": false,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 225,
+      "documentation_and_scripts": [
+        "WA/2014/Raw/WSP_CAT_summary_2014-01-01_2014-12-31.csv.gz.metadata.json",
+        "WA/2015/Raw/WSP_CAT_summary_2015-01-01_2015-12-31.csv.gz.metadata.json",
+        "WA/SOURCE.md"
+      ]
+    },
+    {
+      "state": "WV",
+      "formal_config": false,
+      "official_agency": "",
+      "coverage_years": [],
+      "coverage_span": "",
+      "source_md": false,
+      "official_urls": [],
+      "table_formats": [],
+      "record_levels_inferred_from_filenames": [],
+      "field_capabilities": {
+        "date_or_datetime": false,
+        "time": false,
+        "coordinates": false,
+        "severity": false,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "APPLICATION_PENDING_NO_LOCAL_DATA",
+      "file_count": 0,
+      "documentation_and_scripts": []
+    },
+    {
+      "state": "WI",
+      "formal_config": true,
+      "official_agency": "Wisconsin Department of Transportation",
+      "coverage_years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "coverage_span": "2017-2022",
+      "source_md": true,
+      "official_urls": [
+        "https://transportal.cee.wisc.edu/services/crash-data/requests/",
+        "https://wisdot.app.box.com/s/m2zb01vibvqglci1ec59c8jcbr65ud1k"
+      ],
+      "table_formats": [
+        "CSV",
+        "XLSX",
+        "XLS",
+        "ZIP",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle",
+        "person/occupant"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 124,
+      "documentation_and_scripts": [
+        "WI/2017/WIN_DT4000 Crash Data Dictionary.pdf",
+        "WI/2018/WIN_DT4000 Crash Data Dictionary.pdf",
+        "WI/DOWNLOAD_STATUS.md",
+        "WI/SOURCE.md"
+      ]
+    },
+    {
+      "state": "WY",
+      "formal_config": true,
+      "official_agency": "Wyoming Department of Transportation",
+      "coverage_years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "coverage_span": "2016-2025",
+      "source_md": true,
+      "official_urls": [
+        "https://www.dot.state.wy.us/home/dot_safety/crash-data.html"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON",
+        "PDF/codebook"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash",
+        "vehicle"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": true,
+        "first_harmful_event": true
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 50,
+      "documentation_and_scripts": [
+        "WY/Documentation/2021 DATA DICTIONARY.pdf",
+        "WY/Documentation/Contract for Data Request - Han UCF.pdf",
+        "WY/SOURCE.md",
+        "WY/metadata.json"
+      ]
+    },
+    {
+      "state": "DC",
+      "formal_config": true,
+      "official_agency": "District Department of Transportation",
+      "coverage_years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "coverage_span": "2010-2026",
+      "source_md": true,
+      "official_urls": [
+        "https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Public_Safety_WebMercator/MapServer/24",
+        "https://opendata.dc.gov/datasets/DCGIS::crash-details-table",
+        "https://opendata.dc.gov/datasets/DCGIS::crashes-in-dc"
+      ],
+      "table_formats": [
+        "CSV",
+        "JSON/GeoJSON"
+      ],
+      "record_levels_inferred_from_filenames": [
+        "crash"
+      ],
+      "field_capabilities": {
+        "date_or_datetime": true,
+        "time": true,
+        "coordinates": true,
+        "severity": true,
+        "manner": false,
+        "first_harmful_event": false
+      },
+      "access_or_license_status": "PUBLIC_OR_OFFICIALLY_PROVIDED_LOCAL_SOURCE; LICENSE_REVIEW_BEFORE_REDISTRIBUTION",
+      "file_count": 20,
+      "documentation_and_scripts": [
+        "DC/DOWNLOAD_STATUS.md",
+        "DC/Documentation/download_metadata.json",
+        "DC/SOURCE.md"
+      ]
+    }
+  ],
+  "safe_delete_candidates": [],
+  "review_required_candidates": [
+    {
+      "state": "KY",
+      "path": "KY/2020/KY_Incident_enriched_2020.metadata.json",
+      "bytes": 637,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "KY",
+      "path": "KY/2021/KY_Incident_enriched_2021.metadata.json",
+      "bytes": 638,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "KY",
+      "path": "KY/2022/KY_Incident_enriched_2022.metadata.json",
+      "bytes": 638,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "KY",
+      "path": "KY/2023/KY_Incident_enriched_2023.metadata.json",
+      "bytes": 638,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "KY",
+      "path": "KY/2024/KY_Incident_enriched_2024.metadata.json",
+      "bytes": 638,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "KY",
+      "path": "KY/2025/KY_Incident_enriched_2025.metadata.json",
+      "bytes": 638,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "KY",
+      "path": "KY/2026/KY_Incident_enriched_2026.metadata.json",
+      "bytes": 637,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2019/MN_MnCrash_RSIC_enriched_2019.metadata.json",
+      "bytes": 1376,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2020/MN_MnCrash_RSIC_enriched_2020.metadata.json",
+      "bytes": 1376,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2021/MN_MnCrash_RSIC_enriched_2021.metadata.json",
+      "bytes": 1374,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2022/MN_MnCrash_RSIC_enriched_2022.metadata.json",
+      "bytes": 1374,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2023/MN_MnCrash_RSIC_enriched_2023.metadata.json",
+      "bytes": 1374,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2024/MN_MnCrash_RSIC_enriched_2024.metadata.json",
+      "bytes": 1374,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2025/MN_MnCrash_RSIC_enriched_2025.metadata.json",
+      "bytes": 1374,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MN",
+      "path": "MN/2026/MN_MnCrash_RSIC_enriched_2026.metadata.json",
+      "bytes": 1373,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2016/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2017/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2018/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2019/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2020/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2021/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2022/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2023/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2024/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "MT",
+      "path": "MT/2025/MDT_Crash_enriched.metadata.json",
+      "bytes": 542,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "NV",
+      "path": "NV/2020/CSV/NV_Official_Crash_enriched_2020.metadata.json",
+      "bytes": 966,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "NV",
+      "path": "NV/2021/CSV/NV_Official_Crash_enriched_2021.metadata.json",
+      "bytes": 964,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "NV",
+      "path": "NV/2022/CSV/NV_Official_Crash_enriched_2022.metadata.json",
+      "bytes": 963,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "NV",
+      "path": "NV/2023/CSV/NV_Official_Crash_enriched_2023.metadata.json",
+      "bytes": 966,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "NV",
+      "path": "NV/2024/CSV/NV_Official_Crash_enriched_2024.metadata.json",
+      "bytes": 964,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "OH",
+      "path": "OH/2021/CSV/OH_2021_crash_enriched_figshare_tims.csv",
+      "bytes": 106498911,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "OH",
+      "path": "OH/2022/CSV/OH_2022_crash_enriched_figshare_tims.csv",
+      "bytes": 79742099,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "OH",
+      "path": "OH/2023/CSV/OH_2023_crash_enriched_figshare_tims.csv",
+      "bytes": 79457145,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2006/CSV/CRASH_enriched_2006.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2007/CSV/CRASH_enriched_2007.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2008/CSV/CRASH_enriched_2008.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2009/CSV/CRASH_enriched_2009.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2010/CSV/CRASH_enriched_2010.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2011/CSV/CRASH_enriched_2011.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2012/CSV/CRASH_enriched_2012.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2013/CSV/CRASH_enriched_2013.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2014/CSV/CRASH_enriched_2014.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2015/CSV/CRASH_enriched_2015.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2016/CSV/CRASH_enriched_2016.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2017/CSV/CRASH_enriched_2017.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2018/CSV/CRASH_enriched_2018.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2019/CSV/CRASH_enriched_2019.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2020/CSV/CRASH_enriched_2020.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2021/CSV/CRASH_enriched_2021.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2022/CSV/CRASH_enriched_2022.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2023/CSV/CRASH_enriched_2023.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2024/CSV/CRASH_enriched_2024.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "PA",
+      "path": "PA/2025/CSV/CRASH_enriched_2025.metadata.json",
+      "bytes": 811,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2016/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2017/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2018/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2019/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2020/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2021/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2022/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2023/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2024/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2025/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1083,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TN",
+      "path": "TN/2026/CSV/TITAN_vwCollision_enriched.metadata.json",
+      "bytes": 1077,
+      "reason": "UNREFERENCED_REGENERABLE_DERIVED",
+      "confidence": "SAFE_AFTER_BACKUP",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2019/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1095,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2020/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1102,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2021/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1102,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2022/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1102,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2023/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1397,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2024/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1102,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2025/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1102,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    },
+    {
+      "state": "TX",
+      "path": "TX/2026/CSV/TX_crash_enriched_safe.metadata.json",
+      "bytes": 1101,
+      "reason": "UNREFERENCED_DERIVED_NEEDS_REVIEW",
+      "confidence": "REVIEW_REQUIRED",
+      "active_config_source": false
+    }
+  ],
+  "protection_policy": [
+    "Never delete active config sources",
+    "Retain unique originals",
+    "Retain codebooks/dictionaries/manuals",
+    "Retain request/access documentation",
+    "Retain download and preparation scripts"
+  ],
+  "counts": {
+    "jurisdictions": 51,
+    "formal_configs": 42,
+    "safe_delete_candidates": 0,
+    "review_required_candidates": 72,
+    "safe_candidate_bytes": 0
+  }
+}

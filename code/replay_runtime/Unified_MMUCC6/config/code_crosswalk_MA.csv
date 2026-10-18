@@ -1,0 +1,249 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+MA,*,severity,Fatal injury,Fatal injury,K,K,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,severity,Property damage only (none injured),Property damage only (none injured),O,O,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,severity,Non-fatal injury,Non-fatal injury,U,U,INJURY_PRESENT_SEVERITY_UNSPECIFIED,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,severity,Not Reported,Not Reported,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,severity,Unknown,Unknown,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,severity,Reported but invalid,Reported but invalid,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Fatal injury (K),Fatal injury (K),K,K,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Suspected Serious Injury (A),Suspected Serious Injury (A),A,A,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Non-fatal injury - Incapacitating,Non-fatal injury - Incapacitating,A,A,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Suspected Minor Injury (B),Suspected Minor Injury (B),B,B,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Non-fatal injury - Non-incapacitating,Non-fatal injury - Non-incapacitating,B,B,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Possible Injury (C),Possible Injury (C),C,C,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Non-fatal injury - Possible,Non-fatal injury - Possible,C,C,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,No Apparent Injury (O),No Apparent Injury (O),O,O,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,No injury,No injury,O,O,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Deceased not caused by crash,Deceased not caused by crash,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Not Applicable,Not Applicable,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Not reported,Not reported,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Reported but invalid,Reported but invalid,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,Unknown,Unknown,U,U,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Single vehicle crash,Single vehicle crash,0,0,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Rear-end,Rear-end,1,1,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Front to Rear,Front to Rear,1,1,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Head-on,Head-on,2,2,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Front to Front,Front to Front,2,2,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Angle,Angle,6,6,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,"Sideswipe, same direction","Sideswipe, same direction",7,7,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,"Sideswipe, opposite direction","Sideswipe, opposite direction",8,8,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Rear to Side,Rear to Side,9,9,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Rear-to-rear,Rear-to-rear,10,10,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Other,Other,11,11,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Unknown,Unknown,99,99,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Not reported,Not reported,99,99,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,manner,Reported but invalid,Reported but invalid,99,99,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow","Blowing sand, snow",BLOWING_SAND_OR_SNOW,BLOWING_SAND_OR_SNOW,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Blowing sand, snow","Blowing sand, snow/Blowing sand, snow",BLOWING_SAND_OR_SNOW,BLOWING_SAND_OR_SNOW,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Clear","Blowing sand, snow/Clear",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Cloudy","Blowing sand, snow/Cloudy",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Fog, smog, smoke","Blowing sand, snow/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Other","Blowing sand, snow/Other",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Rain","Blowing sand, snow/Rain",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Severe crosswinds","Blowing sand, snow/Severe crosswinds",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Sleet, hail (freezing rain or drizzle)","Blowing sand, snow/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Snow","Blowing sand, snow/Snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Blowing sand, snow/Unknown","Blowing sand, snow/Unknown",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear,Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Clear/Blowing sand, snow","Clear/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Clear,Clear/Clear,CLEAR,CLEAR,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Cloudy,Clear/Cloudy,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Clear/Fog, smog, smoke","Clear/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Other,Clear/Other,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Rain,Clear/Rain,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Reported but invalid,Clear/Reported but invalid,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Severe crosswinds,Clear/Severe crosswinds,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Clear/Sleet, hail (freezing rain or drizzle)","Clear/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Snow,Clear/Snow,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Clear/Unknown,Clear/Unknown,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy,Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Cloudy/Blowing sand, snow","Cloudy/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Clear,Cloudy/Clear,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Cloudy,Cloudy/Cloudy,CLOUDY,CLOUDY,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Cloudy/Fog, smog, smoke","Cloudy/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Other,Cloudy/Other,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Rain,Cloudy/Rain,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Reported but invalid,Cloudy/Reported but invalid,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Severe crosswinds,Cloudy/Severe crosswinds,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Cloudy/Sleet, hail (freezing rain or drizzle)","Cloudy/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Snow,Cloudy/Snow,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Cloudy/Unknown,Cloudy/Unknown,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke","Fog, smog, smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Blowing sand, snow","Fog, smog, smoke/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Clear","Fog, smog, smoke/Clear",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Cloudy","Fog, smog, smoke/Cloudy",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Fog, smog, smoke","Fog, smog, smoke/Fog, smog, smoke",FOG_SMOKE,FOG_SMOKE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Other","Fog, smog, smoke/Other",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Rain","Fog, smog, smoke/Rain",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Severe crosswinds","Fog, smog, smoke/Severe crosswinds",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Sleet, hail (freezing rain or drizzle)","Fog, smog, smoke/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Snow","Fog, smog, smoke/Snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Fog, smog, smoke/Unknown","Fog, smog, smoke/Unknown",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Not Reported,Not Reported,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Other/Blowing sand, snow","Other/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other/Clear,Other/Clear,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other/Cloudy,Other/Cloudy,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Other/Fog, smog, smoke","Other/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other/Other,Other/Other,OTHER,OTHER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other/Rain,Other/Rain,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other/Severe crosswinds,Other/Severe crosswinds,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Other/Sleet, hail (freezing rain or drizzle)","Other/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other/Snow,Other/Snow,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Other/Unknown,Other/Unknown,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain,Rain,RAIN,RAIN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Rain/Blowing sand, snow","Rain/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Clear,Rain/Clear,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Cloudy,Rain/Cloudy,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Rain/Fog, smog, smoke","Rain/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Other,Rain/Other,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Rain,Rain/Rain,RAIN,RAIN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Reported but invalid,Rain/Reported but invalid,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Severe crosswinds,Rain/Severe crosswinds,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Rain/Sleet, hail (freezing rain or drizzle)","Rain/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Snow,Rain/Snow,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Rain/Unknown,Rain/Unknown,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Reported but invalid,Reported but invalid,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Reported but invalid/Clear,Reported but invalid/Clear,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Reported but invalid/Cloudy,Reported but invalid/Cloudy,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Reported but invalid/Rain,Reported but invalid/Rain,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Reported but invalid/Reported but invalid,Reported but invalid/Reported but invalid,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Reported but invalid/Snow,Reported but invalid/Snow,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds,Severe crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Severe crosswinds/Blowing sand, snow","Severe crosswinds/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds/Clear,Severe crosswinds/Clear,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds/Cloudy,Severe crosswinds/Cloudy,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Severe crosswinds/Fog, smog, smoke","Severe crosswinds/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds/Other,Severe crosswinds/Other,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds/Rain,Severe crosswinds/Rain,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds/Severe crosswinds,Severe crosswinds/Severe crosswinds,SEVERE_CROSSWIND,SEVERE_CROSSWIND,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Severe crosswinds/Sleet, hail (freezing rain or drizzle)","Severe crosswinds/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds/Snow,Severe crosswinds/Snow,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Severe crosswinds/Unknown,Severe crosswinds/Unknown,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)","Sleet, hail (freezing rain or drizzle)",SLEET_HAIL_FREEZING_RAIN,SLEET_HAIL_FREEZING_RAIN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Blowing sand, snow","Sleet, hail (freezing rain or drizzle)/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Clear","Sleet, hail (freezing rain or drizzle)/Clear",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Cloudy","Sleet, hail (freezing rain or drizzle)/Cloudy",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Fog, smog, smoke","Sleet, hail (freezing rain or drizzle)/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Other","Sleet, hail (freezing rain or drizzle)/Other",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Rain","Sleet, hail (freezing rain or drizzle)/Rain",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Reported but invalid","Sleet, hail (freezing rain or drizzle)/Reported but invalid",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Severe crosswinds","Sleet, hail (freezing rain or drizzle)/Severe crosswinds",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Sleet, hail (freezing rain or drizzle)","Sleet, hail (freezing rain or drizzle)/Sleet, hail (freezing rain or drizzle)",SLEET_HAIL_FREEZING_RAIN,SLEET_HAIL_FREEZING_RAIN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Snow","Sleet, hail (freezing rain or drizzle)/Snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Sleet, hail (freezing rain or drizzle)/Unknown","Sleet, hail (freezing rain or drizzle)/Unknown",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Snow/Blowing sand, snow","Snow/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Clear,Snow/Clear,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Cloudy,Snow/Cloudy,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Snow/Fog, smog, smoke","Snow/Fog, smog, smoke",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Other,Snow/Other,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Rain,Snow/Rain,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Reported but invalid,Snow/Reported but invalid,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Severe crosswinds,Snow/Severe crosswinds,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Snow/Sleet, hail (freezing rain or drizzle)","Snow/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Snow,Snow/Snow,SNOW,SNOW,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Snow/Unknown,Snow/Unknown,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Unknown/Blowing sand, snow","Unknown/Blowing sand, snow",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Clear,Unknown/Clear,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Cloudy,Unknown/Cloudy,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Other,Unknown/Other,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Rain,Unknown/Rain,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Reported but invalid,Unknown/Reported but invalid,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Severe crosswinds,Unknown/Severe crosswinds,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,"Unknown/Sleet, hail (freezing rain or drizzle)","Unknown/Sleet, hail (freezing rain or drizzle)",MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Snow,Unknown/Snow,MULTIPLE_CONDITIONS,MULTIPLE_CONDITIONS,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,weather,Unknown/Unknown,Unknown/Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Dark - lighted roadway,Dark - lighted roadway,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Dark - roadway not lighted,Dark - roadway not lighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Dark - unknown roadway lighting,Dark - unknown roadway lighting,DARK_UNKNOWN_LIGHTING,DARK_UNKNOWN_LIGHTING,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Dawn,Dawn,DAWN,DAWN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Dusk,Dusk,DUSK,DUSK,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Not reported,Not reported,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Reported but invalid,Reported but invalid,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,light_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Ice,Ice,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Not reported,Not reported,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Reported but invalid,Reported but invalid,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,"Sand, mud, dirt, oil, gravel","Sand, mud, dirt, oil, gravel",SAND_MUD_DIRT_OIL_GRAVEL,SAND_MUD_DIRT_OIL_GRAVEL,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Slush,Slush,SLUSH,SLUSH,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,"Water (standing, moving)","Water (standing, moving)",WATER,WATER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Cable Barrier,Cable Barrier,COLLISION_WITH_CABLE_BARRIER,COLLISION_WITH_CABLE_BARRIER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Cable Barrier,Cable Barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Cargo Equipment loss or shift,Cargo Equipment loss or shift,CARGO_EQUIPMENT_LOSS_OR_SHIFT,CARGO_EQUIPMENT_LOSS_OR_SHIFT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Cargo Equipment loss or shift,Cargo Equipment loss or shift,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with Other Vulnerable User,Collision with Other Vulnerable User,COLLISION_WITH_OTHER_VULNERABLE_ROAD_USER,COLLISION_WITH_OTHER_VULNERABLE_ROAD_USER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with Other Vulnerable User,Collision with Other Vulnerable User,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with animal - deer,Collision with animal - deer,COLLISION_WITH_ANIMAL_DEER,COLLISION_WITH_ANIMAL_DEER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with animal - deer,Collision with animal - deer,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with animal - other,Collision with animal - other,COLLISION_WITH_ANIMAL_OTHER,COLLISION_WITH_ANIMAL_OTHER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with animal - other,Collision with animal - other,ANIMAL,ANIMAL,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with bridge,Collision with bridge,COLLISION_WITH_BRIDGE,COLLISION_WITH_BRIDGE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with bridge,Collision with bridge,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with bridge overhead structure,Collision with bridge overhead structure,COLLISION_WITH_BRIDGE_OVERHEAD_STRUCTURE,COLLISION_WITH_BRIDGE_OVERHEAD_STRUCTURE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with bridge overhead structure,Collision with bridge overhead structure,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with curb,Collision with curb,COLLISION_WITH_CURB,COLLISION_WITH_CURB,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with curb,Collision with curb,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with cyclist,Collision with cyclist,COLLISION_WITH_PEDALCYCLIST,COLLISION_WITH_PEDALCYCLIST,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with cyclist,Collision with cyclist,PEDALCYCLIST,PEDALCYCLIST,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with ditch,Collision with ditch,COLLISION_WITH_DITCH,COLLISION_WITH_DITCH,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with ditch,Collision with ditch,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with embankment,Collision with embankment,COLLISION_WITH_EMBANKMENT,COLLISION_WITH_EMBANKMENT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with embankment,Collision with embankment,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with guardrail,Collision with guardrail,COLLISION_WITH_GUARDRAIL,COLLISION_WITH_GUARDRAIL,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with guardrail,Collision with guardrail,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with median barrier,Collision with median barrier,COLLISION_WITH_MEDIAN_BARRIER,COLLISION_WITH_MEDIAN_BARRIER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with median barrier,Collision with median barrier,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with motor vehicle in traffic,Collision with motor vehicle in traffic,COLLISION_WITH_MOTOR_VEHICLE_IN_TRANSPORT,COLLISION_WITH_MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with motor vehicle in traffic,Collision with motor vehicle in traffic,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with other light pole or other post/support,Collision with other light pole or other post/support,COLLISION_WITH_OTHER_POST_POLE_SUPPORT,COLLISION_WITH_OTHER_POST_POLE_SUPPORT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with other light pole or other post/support,Collision with other light pole or other post/support,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with other movable object,Collision with other movable object,COLLISION_WITH_OTHER_NON_FIXED_OBJECT,COLLISION_WITH_OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with other movable object,Collision with other movable object,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with parked motor vehicle,Collision with parked motor vehicle,COLLISION_WITH_PARKED_MOTOR_VEHICLE,COLLISION_WITH_PARKED_MOTOR_VEHICLE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with parked motor vehicle,Collision with parked motor vehicle,PARKED_VEHICLE,PARKED_VEHICLE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with pedestrian,Collision with pedestrian,COLLISION_WITH_PEDESTRIAN,COLLISION_WITH_PEDESTRIAN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with pedestrian,Collision with pedestrian,PEDESTRIAN,PEDESTRIAN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,"Collision with railway vehicle (e.g., train, engine)","Collision with railway vehicle (e.g., train, engine)",COLLISION_WITH_RAILWAY_VEHICLE,COLLISION_WITH_RAILWAY_VEHICLE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,"Collision with railway vehicle (e.g., train, engine)","Collision with railway vehicle (e.g., train, engine)",TRAIN,TRAIN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with tree,Collision with tree,COLLISION_WITH_TREE,COLLISION_WITH_TREE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with tree,Collision with tree,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with unknown fixed object,Collision with unknown fixed object,COLLISION_WITH_UNKNOWN_FIXED_OBJECT,COLLISION_WITH_UNKNOWN_FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with unknown fixed object,Collision with unknown fixed object,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with utility pole,Collision with utility pole,COLLISION_WITH_UTILITY_POLE,COLLISION_WITH_UTILITY_POLE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with utility pole,Collision with utility pole,FIXED_OBJECT,FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collision with work zone maintenance equipment,Collision with work zone maintenance equipment,COLLISION_WITH_WORK_ZONE_MAINTENANCE_EQUIPMENT,COLLISION_WITH_WORK_ZONE_MAINTENANCE_EQUIPMENT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collision with work zone maintenance equipment,Collision with work zone maintenance equipment,OTHER_NON_FIXED_OBJECT,OTHER_NON_FIXED_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Collison with moped,Collison with moped,COLLISION_WITH_MOPED,COLLISION_WITH_MOPED,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Collison with moped,Collison with moped,MOTOR_VEHICLE_IN_TRANSPORT,MOTOR_VEHICLE_IN_TRANSPORT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Fell/Jumped From Motor Vehicle,Fell/Jumped From Motor Vehicle,FELL_JUMPED_FROM_MOTOR_VEHICLE,FELL_JUMPED_FROM_MOTOR_VEHICLE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Fell/Jumped From Motor Vehicle,Fell/Jumped From Motor Vehicle,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Jackknife,Jackknife,JACKKNIFE,JACKKNIFE,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Jackknife,Jackknife,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Not reported,Not reported,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Not reported,Not reported,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Other,Other,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Other non-collision,Other non-collision,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Other non-collision,Other non-collision,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Overturn/rollover,Overturn/rollover,OVERTURN_ROLLOVER,OVERTURN_ROLLOVER,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Overturn/rollover,Overturn/rollover,ROLLOVER_OVERTURN,ROLLOVER_OVERTURN,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Reported but invalid,Reported but invalid,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Reported but invalid,Reported but invalid,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,"Struck by Falling, shifting cargo, or anything set in motion","Struck by Falling, shifting cargo, or anything set in motion",STRUCK_BY_FALLING_SHIFTING_CARGO,STRUCK_BY_FALLING_SHIFTING_CARGO,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,"Struck by Falling, shifting cargo, or anything set in motion","Struck by Falling, shifting cargo, or anything set in motion",OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Thrown or Falling Object,Thrown or Falling Object,THROWN_OR_FALLING_OBJECT,THROWN_OR_FALLING_OBJECT,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Thrown or Falling Object,Thrown or Falling Object,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Unknown,Unknown,UNKNOWN,UNKNOWN,SOURCE_UNKNOWN,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event,Unknown non-collision,Unknown non-collision,UNKNOWN_NON_COLLISION,UNKNOWN_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,first_harmful_event_group,Unknown non-collision,Unknown non-collision,OTHER_NON_COLLISION,OTHER_NON_COLLISION,CROSSWALK,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED
+MA,*,injury_severity,,,U,U,SOURCE_MISSING,MMUCC6,MassDOT IMPACT official crash-level export labels,REVIEWED

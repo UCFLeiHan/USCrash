@@ -1,0 +1,70 @@
+{
+  "state": "SD",
+  "generated_utc": "2026-10-13T20:01:56.903938+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "SD_candidate_2011_2025_1",
+      "header_signature": "135d8d961cc908ae",
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "example_source": "SD/2011/CSV/Accident2011.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 103,
+      "field_candidates": {
+        "crash_datetime": "AccidentDateTime",
+        "severity": "Severity"
+      },
+      "completeness_score": 40,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 0,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "SD_candidate_2026_2026_2",
+      "header_signature": "7e40ff195af5107f",
+      "years": [
+        2026
+      ],
+      "example_source": "SD/2026/SDDOT_crashes.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 31,
+      "field_candidates": {
+        "crash_datetime": "AccidentDateTime",
+        "latitude": "__geometry_latitude_wgs84",
+        "longitude": "__geometry_longitude_wgs84",
+        "severity": "InjurySeverity",
+        "manner_collision": "MannerOfCollision"
+      },
+      "completeness_score": 80,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

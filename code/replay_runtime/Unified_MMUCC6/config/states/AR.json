@@ -1,0 +1,49 @@
+{
+  "state": "AR",
+  "state_name": "Arkansas",
+  "official_agency": "Arkansas Department of Transportation ACAT",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -94.7,
+    32.9,
+    -89.6,
+    36.6
+  ],
+  "versions": [
+    {
+      "schema_id": "AR_ACAT_2021_2025",
+      "year_start": 2021,
+      "year_end": 2025,
+      "source_patterns": [
+        "arkansas_acat_{year}.csv"
+      ],
+      "fields": {
+        "crash_id": "StateCaseNumber",
+        "crash_date": "CrashDate",
+        "crash_time_raw": "CrashTime",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "county": "County",
+        "city": "City",
+        "severity_raw_code": "CrashSeverity",
+        "severity_raw_label": "CrashSeverity",
+        "manner_raw_code": "CrashManner",
+        "manner_raw_label": "CrashManner",
+        "fatalities": "NumFatalities",
+        "weather_raw_code": "?not_provided",
+        "weather_raw_label": "?not_provided",
+        "light_raw_code": "LightingConditions",
+        "light_raw_label": "LightingConditions",
+        "road_surface_raw_code": "RoadwaySurfaceConidtion",
+        "road_surface_raw_label": "RoadwaySurfaceConidtion",
+        "speeding_involved": "SpeedRelated",
+        "work_zone_related": "WorkZoneRelated",
+        "intersection_related": "IntersectionRelated",
+        "commercial_vehicle_involved": "CMVRelated",
+        "motorcycle_involved": "MotorcycleRelated"
+      }
+    }
+  ],
+  "severity_from_fatalities_always": true,
+  "allow_date_year_mismatch": true
+}

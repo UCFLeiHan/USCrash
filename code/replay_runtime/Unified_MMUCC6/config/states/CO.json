@@ -1,0 +1,85 @@
+{
+  "state": "CO",
+  "state_name": "Colorado",
+  "official_agency": "Colorado Department of Transportation",
+  "crash_id_scope": "YEAR",
+  "coordinate_bounds": [
+    -109.2,
+    36.9,
+    -101.9,
+    41.1
+  ],
+  "versions": [
+    {
+      "schema_id": "CO_CDOT_2007_2020",
+      "year_start": 2007,
+      "year_end": 2020,
+      "source_patterns": [
+        "CSV/CO_Official_Crashes_{year}.csv"
+      ],
+      "crash_id_from_row_number": true,
+      "severity_from_injury_counts": true,
+      "fields": {
+        "crash_date": "DATE",
+        "crash_time_raw": "TIME",
+        "latitude": "LATITUDE",
+        "longitude": "LONGITUDE",
+        "county": "COUNTY",
+        "city": "CITY",
+        "severity_count_k": "INJURY 04",
+        "severity_count_a": "INJURY 03",
+        "severity_count_b": "INJURY 02",
+        "severity_count_c": "INJURY 01",
+        "fatalities": "INJURY 04",
+        "vehicles": "VEHICLES",
+        "manner_raw_code": "ACCTYPE",
+        "manner_raw_label": "ACCTYPE",
+        "weather_raw_code": "WEATHER",
+        "weather_raw_label": "WEATHER",
+        "light_raw_code": "LIGHTING",
+        "light_raw_label": "LIGHTING",
+        "road_surface_raw_code": "CONDITION",
+        "road_surface_raw_label": "CONDITION",
+        "first_harmful_event_raw_code": "EVENT_1",
+        "first_harmful_event_raw_label": "EVENT_1"
+      },
+      "injuries_from_severity_counts": true
+    },
+    {
+      "schema_id": "CO_CDOT_2021_2026",
+      "year_start": 2021,
+      "year_end": 2026,
+      "source_patterns": [
+        "CSV/CO_Official_Crashes_{year}.csv"
+      ],
+      "severity_from_injury_counts": true,
+      "fields": {
+        "crash_id": "CUID",
+        "crash_date": "Crash Date",
+        "crash_time_raw": "Crash Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "county": "County",
+        "city": "City",
+        "severity_count_k": "Injury 04",
+        "severity_count_a": "Injury 03",
+        "severity_count_b": "Injury 02",
+        "severity_count_c": "Injury 01",
+        "fatalities": "Number Killed",
+        "injuries": "Number Injured",
+        "vehicles": "Total Vehicles",
+        "manner_raw_code": "Crash Type",
+        "manner_raw_label": "Crash Type",
+        "weather_raw_code": "Weather Condition",
+        "weather_raw_label": "Weather Condition",
+        "light_raw_code": "Lighting Conditions",
+        "light_raw_label": "Lighting Conditions",
+        "road_surface_raw_code": "Road Condition",
+        "road_surface_raw_label": "Road Condition",
+        "first_harmful_event_raw_code": "First HE",
+        "first_harmful_event_raw_label": "First HE",
+        "work_zone_related": "Construction Zone"
+      }
+    }
+  ]
+}

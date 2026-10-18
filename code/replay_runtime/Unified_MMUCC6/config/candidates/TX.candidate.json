@@ -1,0 +1,69 @@
+{
+  "state": "TX",
+  "generated_utc": "2026-10-13T20:01:56.904935+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "TX_candidate_2019_2022_1",
+      "header_signature": "648c491fc2d3ed65",
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "example_source": "TX/2019/CSV/TX_2019_crash_schema2018.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 174,
+      "field_candidates": {
+        "crash_id": "Crash_ID",
+        "crash_date": "Crash_Date",
+        "crash_time": "Crash_Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "Crash_Sev_ID",
+        "manner_collision": "FHE_Collsn_ID"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "TX_candidate_2023_2026_2",
+      "header_signature": "ecc68bc37dfbfc86",
+      "years": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "example_source": "TX/2023/CSV/TX_2023_crash_schema2023.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 183,
+      "field_candidates": {
+        "crash_id": "Crash_ID",
+        "crash_date": "Crash_Date",
+        "crash_time": "Crash_Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "Crash_Sev_ID",
+        "manner_collision": "FHE_Collsn_ID"
+      },
+      "completeness_score": 100,
+      "score_components": {
+        "identifier": 20,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}

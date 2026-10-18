@@ -1,0 +1,34 @@
+﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
+AR,*,severity,No Apparent Injury (O),No Apparent Injury (O),O,O,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,severity,Possible Injury (C),Possible Injury (C),C,C,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,severity,Suspected Minor Injury (B),Suspected Minor Injury (B),B,B,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,severity,Suspected Serious Injury (A),Suspected Serious Injury (A),A,A,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,severity,Fatal Injury (K),Fatal Injury (K),K,K,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,Front to rear (Rear-end),Front to rear (Rear-end),1,1,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,Rear to side,Rear to side,9,9,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,"Sideswipe, same direction","Sideswipe, same direction",7,7,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,Angle,Angle,6,6,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,"Sideswipe, opposite direction","Sideswipe, opposite direction",8,8,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,Rear to rear,Rear to rear,10,10,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,Single vehicle crash,Single vehicle crash,0,0,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,Front to front (Head-on),Front to front (Head-on),2,2,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,manner,Other,Other,11,11,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Daylight,Daylight,DAYLIGHT,DAYLIGHT,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Dawn,Dawn,DAWN,DAWN,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Dark - unknown lighting,Dark - unknown lighting,DARK_UNKNOWN,DARK_UNKNOWN,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Dark - lighted,Dark - lighted,DARK_LIGHTED,DARK_LIGHTED,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Dark - not lighted,Dark - not lighted,DARK_UNLIGHTED,DARK_UNLIGHTED,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Dusk,Dusk,DUSK,DUSK,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,light_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Dry,Dry,DRY,DRY,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Unknown,Unknown,UNKNOWN,UNKNOWN,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Snow,Snow,SNOW,SNOW,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Wet,Wet,WET,WET,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Water (standing or moving),Water (standing or moving),STANDING_WATER,STANDING_WATER,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Slush,Slush,SLUSH,SLUSH,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,"Mud, dirt, or gravel","Mud, dirt, or gravel",SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Oil,Oil,OIL,OIL,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Ice or frost,Ice or frost,ICE_FROST,ICE_FROST,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Sand,Sand,SAND_MUD_DIRT_GRAVEL,SAND_MUD_DIRT_GRAVEL,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED
+AR,*,road_surface_condition,Other,Other,OTHER,OTHER,CROSSWALK,MMUCC6,ARDOT ACAT embedded public labels,REVIEWED

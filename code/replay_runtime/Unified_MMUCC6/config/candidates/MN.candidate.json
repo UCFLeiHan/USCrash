@@ -1,0 +1,67 @@
+{
+  "state": "MN",
+  "generated_utc": "2026-10-13T20:01:56.896939+00:00",
+  "status": "CANDIDATE_NOT_REVIEWED",
+  "schemas": [
+    {
+      "schema_id": "MN_candidate_2016_2026_1",
+      "header_signature": "6535cb18d0dbc354",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2026
+      ],
+      "example_source": "MN/2016/MnCrash_public_collisions_2016.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 17,
+      "field_candidates": {
+        "crash_date": "Crash Date",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "severity": "Crash Severity"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 20,
+        "manner": 0
+      },
+      "review_status": "NOT_REVIEWED"
+    },
+    {
+      "schema_id": "MN_candidate_2025_2025_2",
+      "header_signature": "2d0415c0d326a306",
+      "years": [
+        2025
+      ],
+      "example_source": "MN/2025/MN_RSIC_all_crashes_2025.csv",
+      "encoding_or_sheet": "utf-8-sig",
+      "column_count": 40,
+      "field_candidates": {
+        "crash_date": "doi_date",
+        "crash_time": "doi_time",
+        "latitude": "LatDec",
+        "longitude": "LongDec",
+        "manner_collision": "CrashType"
+      },
+      "completeness_score": 60,
+      "score_components": {
+        "identifier": 0,
+        "time": 20,
+        "coordinates": 20,
+        "severity": 0,
+        "manner": 20
+      },
+      "review_status": "NOT_REVIEWED"
+    }
+  ]
+}
