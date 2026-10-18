@@ -40,7 +40,7 @@ Website counts reflect the Florida 2017–2019 correction. Original manuscript P
 
 ## Access terms, code and citation
 
-Data redistribution terms and the code license remain to be finalized. No blanket license for all upstream state records is asserted; consult `dataset/docs/data_sources.csv` and the source agencies' terms. Publication metadata, DOI, public download URLs and the final citation remain pending.
+Original USCrash documentation and eligible compilation contributions use CC BY-NC 4.0; see DATA_LICENSE.md. Source-record redistribution conditions and the code license remain under review. No blanket license for all upstream state records is asserted; consult `dataset/docs/data_sources.csv` and the source agencies' terms. Publication metadata, DOI, public download URLs and the final citation remain pending.
 
 Code includes source-specific and historical acquisition scripts. Some require local raw inputs, dependency years and environment path configuration. See `code/README.md`. Full raw archives and historical verification evidence remain in the author's local research project.
 
