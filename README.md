@@ -14,9 +14,18 @@ Lei Han · University of Central Florida
 
 <br>
 
-| Crash records | Geographic coverage | Overall time span | Common schema |
-| :---: | :---: | :---: | :---: |
-| **65,756,924** | **41 states + DC** | **2001–2026** | **77 fields** |
+<div align="center">
+
+<table align="center">
+<thead>
+<tr><th align="center">Crash records</th><th align="center">Geographic coverage</th><th align="center">Overall time span</th><th align="center">Common schema</th></tr>
+</thead>
+<tbody>
+<tr><td align="center"><strong>65,756,924</strong></td><td align="center"><strong>41 states + DC</strong></td><td align="center"><strong>2001–2026</strong></td><td align="center"><strong>77 MMUCC-guided attributes</strong></td></tr>
+</tbody>
+</table>
+
+</div>
 
 <a href="https://ucfleihan.github.io/USCrash/">
   <img src="assets/nation-timeline.gif" alt="Animated maps of crash records across available years, with Alaska and Hawaii insets" width="100%">
