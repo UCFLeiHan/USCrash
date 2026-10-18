@@ -8,7 +8,6 @@ Thumbs.db
 /data_downloads/
 /Crash/
 /States/*
-!/States/field_schemas/
 /verification/
 /Unified_MMUCC6/data/
 /dataset/data/

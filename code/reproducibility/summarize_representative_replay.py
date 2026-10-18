@@ -1,7 +1,7 @@
 import csv,json,os,subprocess,sys
 from concurrent.futures import ThreadPoolExecutor
 from replay_representative_years import W,R,L,C,sha
-links=list(csv.DictReader((R/'manifests/configured_input_output_links.csv').open(encoding='utf-8-sig')))
+links=list(csv.DictReader((R/'dataset/manifests/configured_input_output_links.csv').open(encoding='utf-8-sig')))
 def inspect(p):
  r=json.loads(p.read_text(encoding='utf-8-sig'));st=r['state'];year=r['year'];w=p.parent
  env=os.environ.copy();env.update(USCRASH_ROOT=str(w),USCRASH_SOURCE_ROOT=str(w/'States'),PYTHONDONTWRITEBYTECODE='1',PYTHONUTF8='1')

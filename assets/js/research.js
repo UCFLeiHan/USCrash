@@ -198,7 +198,7 @@
 
   async function initialize(){
     try{
-      [research,panels,annual,fields,cities,schemaArtwork]=await Promise.all(['research','paper-panels','annual','fields','cities','schema-artwork'].map(n=>fetch(`data/${n}.json`).then(r=>{if(!r.ok)throw Error(n);return r.json()})));
+      [research,panels,annual,fields,cities,schemaArtwork]=await Promise.all(['research','paper-panels','annual','fields','cities','schema-artwork'].map(n=>fetch(`assets/data/${n}.json`).then(r=>{if(!r.ok)throw Error(n);return r.json()})));
       methods();schema();coverage();statistics();cityComparison();
       document.querySelectorAll('[data-coverage]').forEach(b=>b.onclick=()=>{coverageMode=b.dataset.coverage;coverage()});
       document.querySelectorAll('[data-stat]').forEach(b=>b.onclick=()=>{statsTopic=b.dataset.stat;statistics(true)});

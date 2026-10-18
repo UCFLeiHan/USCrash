@@ -1,7 +1,0 @@
-{
-  "state":"UT","state_name":"Utah","official_agency":"Utah Department of Transportation",
-  "crash_id_scope":"STATE","deduplicate_by_crash_id":true,"coordinate_bounds":[-114.1,36.9,-108.9,42.1],
-  "versions":[{"schema_id":"UT_DERIVED_CRASH_LEVEL_2018_2026","year_start":2018,"year_end":2026,"source_patterns":["Derived/UT_crash_level_{year}.csv"],
-    "fields":{"crash_id":"CrashID","crash_datetime":"CrashDateTime","latitude":"Latitude","longitude":"Longitude","county":"County","severity_raw_code":"SeverityCode","severity_raw_label":"SeverityRaw","fatalities":"Fatalities","injuries":"Injuries","vehicles":"Vehicles","manner_raw_code":"MannerCode","manner_raw_label":"MannerRaw","first_harmful_event_raw_code":"FHECode","first_harmful_event_raw_label":"FHERaw","weather_raw_code":"WeatherCode","weather_raw_label":"WeatherRaw","light_raw_code":"LightCode","light_raw_label":"LightRaw","road_surface_raw_code":"RoadCode","road_surface_raw_label":"RoadRaw","functional_class":"FunctionalClass","intersection_related":"IntersectionRelated","intersection_type":"IntersectionType","work_zone_related":"WorkZoneRelated","alcohol_involved":"AlcoholInvolved","hit_and_run":"HitAndRun","speeding_involved":"SpeedingInvolved","pedestrian_count":"PedestrianCount","bicyclist_count":"BicyclistCount","motorcycle_count":"MotorcycleCount","commercial_vehicle_count":"CommercialVehicleCount"}
-  }]
-}

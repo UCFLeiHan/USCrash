@@ -15,7 +15,14 @@ def main():
     p.add_argument('--scope',choices=['final','code','all'],default='final')
     p.add_argument('--sample',type=int,help='Explicit smoke test only, not full-scope verification')
     a=p.parse_args();release=Path(__file__).resolve().parents[1]
-    rows=list(csv.DictReader((release.parent/'manifests/file_manifest.csv').open(encoding='utf-8-sig')))
+    metadata=release.parent/'dataset/manifests'
+    # Repository hashes describe this checkout; canonical hashes retain the
+    # separate research-data paths used after downloading the full data.
+    rows=[]
+    if a.scope in {'code','all'}:
+        rows.extend(csv.DictReader((metadata/'repository_file_manifest.csv').open(encoding='utf-8-sig')))
+    if a.scope in {'final','all'}:
+        rows.extend(r for r in csv.DictReader((metadata/'research_file_manifest.csv').open(encoding='utf-8-sig')) if r['role']=='canonical')
     roles={'final':{'canonical'},'code':{'processing_code','acquisition_code','configuration','entrypoint_or_documentation','documentation'}}
     selected=[r for r in rows if a.scope=='all' or r['role'] in roles[a.scope]]
     if a.sample is not None:
@@ -27,7 +34,7 @@ def main():
         if not f.is_file() or f.stat().st_size!=int(r['size_bytes']) or sha(f)!=r['sha256']:bad.append(r['path'])
         if i%25==0:print(f'Verified {i}/{len(selected)}',flush=True)
     result={'checked_utc':datetime.now(timezone.utc).isoformat(),'scope':a.scope,'sample_only':a.sample is not None,'files_checked':len(selected),'mismatches':bad,'result':'PASS' if not bad else 'FAIL'}
-    out=release.parent/'verification/verification_runs';out.mkdir(exist_ok=True)
+    out=release.parent/'verification/verification_runs';out.mkdir(parents=True,exist_ok=True)
     (out/(datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')+'.json')).write_text(json.dumps(result,indent=2),encoding='utf8')
     print(json.dumps(result,indent=2))
     if bad:raise SystemExit(2)

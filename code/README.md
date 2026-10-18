@@ -7,7 +7,7 @@
 - `replay_runtime/`: environment-configurable code used by the validated representative-year replay. It preserves the tested internal module structure.
 - `patches/`: the documented collision-manner initialization correction used in selected replay cases.
 
-Run from the Crash directory:
+Verify code and documentation from the repository root:
 
 ```powershell
 python code/reproducibility/verify_snapshot.py --root . --scope code
@@ -23,6 +23,12 @@ python code/reproducibility/run_representative_replay.py
 This entry point reruns state preparation where configured, harmonization, selected overlays and validation. Washington requires all ten dependency years. The archived original 42 representative cases remain under `verification/replay_checks/representative_years/`. A fresh Alaska 2021 replay after code integration reproduced the final file byte-for-byte.
 
 The replay runtime and working processing scripts have distinct documented roles. Classification rules and final data values were not changed during directory integration; only path resolution was adjusted in working scripts.
+
+## Working layout
+
+Current configurations are maintained once in `code/config/`. Source field inventories are in `dataset/source_schemas/`, and catalogs are in `dataset/manifests/`. The replay runtime intentionally retains its internal structure and configuration snapshot; it is not an alternative starting point for new code. Full replay requires the separate raw inputs and canonical data, placed in the documented research layout.
+
+The verification command above checks repository hashes and writes its report to an ignored `verification/verification_runs/` directory. `--scope final` requires the downloaded canonical data under the research layout. See [repository structure](../docs/STRUCTURE.md).
 
 ## Florida source correction
 

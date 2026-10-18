@@ -1,7 +1,7 @@
 const $=s=>document.querySelector(s), fmt=n=>Number(n).toLocaleString('en-US'), pct=(n,d)=>`${n>=d?'+':''}${((n/d-1)*100).toFixed(2)}%`;
 let states=[], annual=[], benchmark=[], fields=[], expanded=false;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function load(){try{[states,annual,benchmark,fields]=await Promise.all(['states','annual','benchmark','fields'].map(n=>fetch(`data/${n}.json`).then(r=>{if(!r.ok)throw Error(n);return r.json()})));const map=await fetch('assets/states.svg').then(r=>r.text());$('#state-map').innerHTML=map;
+async function load(){try{[states,annual,benchmark,fields]=await Promise.all(['states','annual','benchmark','fields'].map(n=>fetch(`assets/data/${n}.json`).then(r=>{if(!r.ok)throw Error(n);return r.json()})));const map=await fetch('assets/states.svg').then(r=>r.text());$('#state-map').innerHTML=map;
 $('#state-select').innerHTML=states.slice().sort((a,b)=>a.state_name.localeCompare(b.state_name)).map(x=>`<option value="${x.state}">${esc(x.state_name)} (${x.state})</option>`).join('');
 $('#state-select').addEventListener('change',e=>selectState(e.target.value));document.querySelectorAll('.state').forEach(p=>{const choose=()=>selectState(p.dataset.state);p.addEventListener('click',choose);p.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();choose()}})});selectState('FL');renderMatrix();renderBenchmark();renderScatter();
 const total=k=>benchmark.reduce((s,x)=>s+Number(x[k]),0),o=total('official_total');$('#official-sum').textContent=fmt(o);$('#uscrash-diff').textContent=pct(total('uscrash_comparison_count'),o);$('#usa-diff').textContent=pct(total('us_accidents_total'),o);

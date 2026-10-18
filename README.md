@@ -40,7 +40,7 @@ USCrash brings heterogeneous official state crash records into a common represen
 | Understand the dataset and its limitations | [Dataset card](dataset/DATASET_CARD.md) |
 | Inspect the 77 fields | [Field dictionary](dataset/docs/data_dictionary.csv) |
 | Check included sources and years | [Source inventory](dataset/docs/data_sources.csv) · [State coverage](dataset/docs/state_coverage.csv) |
-| Follow the processing workflow | [Code guide](code/README.md) · [Field mapping](FIELD_MAPPING.md) |
+| Follow the processing workflow | [Code guide](code/README.md) · [Field mapping](docs/FIELD_MAPPING.md) |
 | Find the data release | [Data access and release status](DATA_ACCESS.md) |
 
 ## Data availability
@@ -56,20 +56,15 @@ This repository contains the project website, figures, lightweight aggregate dat
 
 ```text
 USCrash/
-├── index.html, research.css, research.js   Project website
-├── assets/                               Figures and map animation
-├── data/                                 Lightweight website aggregates
-├── papers/                               Manuscript and supplement previews
-├── code/                                 Acquisition, processing, and replay tools
-├── dataset/
-│   ├── DATASET_CARD.md                    Scope and interpretation
-│   ├── docs/                             Dictionary, sources, and coverage
-│   ├── config/                           Schema and state/version mappings
-│   └── manifests/                        Catalogs and checksums
-├── States/field_schemas/                  Source field definitions
-├── Unified_MMUCC6/                       Supporting schema documentation
-├── DATA_ACCESS.md                        Release status and download guidance
-└── DATA_LICENSE.md                       License scope and source-data terms
+├── index.html                  Project website entry
+├── assets/                     Website styles, scripts, figures, and aggregates
+├── code/                       Acquisition, processing, mappings, and replay
+├── dataset/                    Dictionary, source schemas, coverage, and catalogs
+├── docs/                       Repository guides and historical release notes
+├── papers/                     Manuscript and supplement previews
+├── DATA_ACCESS.md              Data access and release status
+├── DATA_LICENSE.md             License scope and source-data terms
+└── DISCLAIMER.md               Research use and interpretation
 ```
 
 Some supporting documents retain the original research directory structure. See the [code guide](code/README.md) before running acquisition or replay scripts; some steps require local raw inputs and path configuration.

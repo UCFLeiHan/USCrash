@@ -1,6 +1,0 @@
-﻿state,schema_id,field_group,source_code,source_label,canonical_code,canonical_label,mapping_status,standard_identifier,official_reference,review_status
-DC,*,severity,PDO,PDO,O,O,CROSSWALK,MMUCC6,Official public embedded label,REVIEWED
-DC,*,severity,Minor,Minor,B,B,CROSSWALK,MMUCC6,Official public embedded label,REVIEWED
-DC,*,severity,Major,Major,A,A,CROSSWALK,MMUCC6,Official public embedded label,REVIEWED
-DC,*,severity,Fatal,Fatal,K,K,CROSSWALK,MMUCC6,Official public embedded label,REVIEWED
-DC,*,severity,UnknownInjury,UnknownInjury,U,U,CROSSWALK,MMUCC6,Official embedded public label,REVIEWED

@@ -81,7 +81,7 @@ def run_one(st,year,link):
  except Exception as e:report['status']='ERROR';report['error']=str(e);report['traceback']=traceback.format_exc()
  (work/'report.json').write_text(json.dumps(report,indent=2),encoding='utf8');print(st,year,report['status'],flush=True);return report
 def main():
- rows=list(csv.DictReader((R/'manifests/configured_input_output_links.csv').open(encoding='utf-8-sig')));selected={}
+ rows=list(csv.DictReader((R/'dataset/manifests/configured_input_output_links.csv').open(encoding='utf-8-sig')));selected={}
  for row in rows:
   st=row['state'];year=int(row['year'])
   if st not in selected or abs(year-2021)<abs(int(selected[st]['year'])-2021):selected[st]=row
